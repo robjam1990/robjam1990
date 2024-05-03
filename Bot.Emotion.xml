@@ -1,166 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="config.xsd">
 	<memory>
-		<implementation-class>org.botlibre.knowledge.database.DatabaseMemory</implementation-class>
-		<!--implementation-class>org.botlibre.knowledge.database.DerbyMemory</implementation-class-->
+		<implementation-class>robjam1990.Psychosis.knowledge.database.DatabaseMemory</implementation-class>
+		<!--implementation-class>robjam1990.Psychosis.knowledge.database.DerbyMemory</implementation-class-->
 		<property name="cache.size" value="500"/>
 	</memory>
 	<mind>
-		<implementation-class>org.botlibre.thought.BasicMind</implementation-class>
+		<implementation-class>robjam1990.Psychosis.thought.BasicMind</implementation-class>
 		<thoughts>
 			<thought>
-				<implementation-class>org.botlibre.thought.consciousness.Consciousness</implementation-class>
+				<implementation-class>robjam1990.Psychosis.thought.consciousness.Consciousness</implementation-class>
 				<property name="traversal-limit" value="500"/>
 			</thought>
 			<thought>
-				<implementation-class>org.botlibre.thought.language.Language</implementation-class>
+				<implementation-class>robjam1990.Psychosis.thought.language.Language</implementation-class>
 			</thought>
 			<thought>
-				<implementation-class>org.botlibre.thought.language.Comprehension</implementation-class>
+				<implementation-class>robjam1990.Psychosis.thought.language.Comprehension</implementation-class>
 			</thought>
 			<thought>
-				<implementation-class>org.botlibre.thought.discovery.Discovery</implementation-class>
+				<implementation-class>robjam1990.Psychosis.thought.discovery.Discovery</implementation-class>
 			</thought>
 			<thought>
-				<implementation-class>org.botlibre.thought.forgetfulness.Forgetfulness</implementation-class>
+				<implementation-class>robjam1990.Psychosis.thought.forgetfulness.Forgetfulness</implementation-class>
 			</thought>
 		</thoughts>
 	</mind>
 	<mood>
-		<implementation-class>org.botlibre.emotion.BasicMood</implementation-class>
+		<implementation-class>robjam1990.Psychosis.emotion.BasicMood</implementation-class>
 		<emotions>
 			<emotion>
-				<implementation-class>org.botlibre.emotion.Love</implementation-class>
+				<implementation-class>robjam1990.Psychosis.emotion.Love</implementation-class>
 			</emotion>
 			<emotion>
-				<implementation-class>org.botlibre.emotion.Fear</implementation-class>
+				<implementation-class>robjam1990.Psychosis.emotion.Fear</implementation-class>
 			</emotion>
 			<emotion>
-				<implementation-class>org.botlibre.emotion.Surprise</implementation-class>
+				<implementation-class>robjam1990.Psychosis.emotion.Surprise</implementation-class>
 			</emotion>
 			<emotion>
-				<implementation-class>org.botlibre.emotion.Happiness</implementation-class>
+				<implementation-class>robjam1990.Psychosis.emotion.Happiness</implementation-class>
 			</emotion>
 			<emotion>
-				<implementation-class>org.botlibre.emotion.Anger</implementation-class>
+				<implementation-class>robjam1990.Psychosis.emotion.Anger</implementation-class>
 			</emotion>
 			<emotion>
-				<implementation-class>org.botlibre.emotion.Humor</implementation-class>
+				<implementation-class>robjam1990.Psychosis.emotion.Humor</implementation-class>
 			</emotion>
 			<emotion>
-				<implementation-class>org.botlibre.emotion.Sentiment</implementation-class>
+				<implementation-class>robjam1990.Psychosis.emotion.Sentiment</implementation-class>
 			</emotion>
 		</emotions>
 	</mood>
 	<avatar>
-		<implementation-class>org.botlibre.avatar.ImageAvatar</implementation-class>
+		<implementation-class>robjam1990.Psychosis.avatar.ImageAvatar</implementation-class>
 	</avatar>
 	<awareness>
-		<implementation-class>org.botlibre.sense.BasicAwareness</implementation-class>
+		<implementation-class>robjam1990.Psychosis.sense.BasicAwareness</implementation-class>
 		<senses>
 			<sense>
-				<implementation-class>org.botlibre.sense.text.TextEntry</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.text.TextEntry</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.context.Context</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.context.Context</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.http.Http</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.http.Http</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.http.Wiktionary</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.http.Wiktionary</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.http.Freebase</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.http.Freebase</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.wikidata.Wikidata</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.wikidata.Wikidata</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.wolframalpha.WolframAlpha</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.wolframalpha.WolframAlpha</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.service.RemoteService</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.service.RemoteService</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.chat.IRC</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.chat.IRC</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.chat.Chat</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.chat.Chat</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.email.Email</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.email.Email</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.twitter.Twitter</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.twitter.Twitter</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.twitter.TwitterDirectMessaging</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.twitter.TwitterDirectMessaging</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.facebook.Facebook</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.facebook.Facebook</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.facebook.FacebookMessaging</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.facebook.FacebookMessaging</implementation-class>
 			</sense>
 			<sense>
-			    <implementation-class>org.botlibre.sense.instagram.Instagram</implementation-class>
+			    <implementation-class>robjam1990.Psychosis.sense.instagram.Instagram</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.telegram.Telegram</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.telegram.Telegram</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.discord.Discord</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.discord.Discord</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.twilio.Twilio</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.twilio.Twilio</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.slack.Slack</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.slack.Slack</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.skype.Skype</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.skype.Skype</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.wechat.WeChat</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.wechat.WeChat</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.kik.Kik</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.kik.Kik</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.alexa.Alexa</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.alexa.Alexa</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.google.GoogleAssistant</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.google.GoogleAssistant</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.vision.Vision</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.vision.Vision</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.google.GoogleCalendar</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.google.GoogleCalendar</implementation-class>
 			</sense>
 			<sense>
-				<implementation-class>org.botlibre.sense.timer.Timer</implementation-class>
+				<implementation-class>robjam1990.Psychosis.sense.timer.Timer</implementation-class>
 			</sense>
 		</senses>
 		<tools>
 			<tool>
-				<implementation-class>org.botlibre.tool.Calculator</implementation-class>
+				<implementation-class>robjam1990.Psychosis.tool.Calculator</implementation-class>
 			</tool>
 			<tool>
-				<implementation-class>org.botlibre.tool.Math</implementation-class>
+				<implementation-class>robjam1990.Psychosis.tool.Math</implementation-class>
 			</tool>
 			<tool>
-				<implementation-class>org.botlibre.tool.Watch</implementation-class>
+				<implementation-class>robjam1990.Psychosis.tool.Watch</implementation-class>
 			</tool>
 			<tool>
-				<implementation-class>org.botlibre.tool.Date</implementation-class>
+				<implementation-class>robjam1990.Psychosis.tool.Date</implementation-class>
 			</tool>
 			<tool>
-				<implementation-class>org.botlibre.tool.Utils</implementation-class>
+				<implementation-class>robjam1990.Psychosis.tool.Utils</implementation-class>
 			</tool>
 			<tool>
-				<implementation-class>org.botlibre.tool.JSON</implementation-class>
+				<implementation-class>robjam1990.Psychosis.tool.JSON</implementation-class>
 			</tool>
 		</tools>
 	</awareness>
