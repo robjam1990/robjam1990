@@ -1,0 +1,28 @@
+; Little script that allows to capture all dialogues
+; among selected users  ---- By Lucyfero
+;
+;
+on +24:TEXT:*:*: {
+  IF (!$window(@Capture)) { 
+    window -ne @Capture
+    ; Write the header into the window
+    titlebar @Capture User's_Dialogue 
+  }
+  ; Add info
+  aline @Capture $nick $+ : $1- 
+}
+alias F8  .guser 24 $$1 2 | echo 8 -a added $1 to Dialog Capture | //cline -hlm 8 $chan $1
+alias CF8 .ruser 24 $$1 2 | echo 8 -a removed $1 from Dialog Capture |  //cline -r $chan $1
+Menu * {
+  .Text Capture
+  ..Text Capture ON $$1 : .guser 24 $$1 2 | //cline -hlm 8 $chan $1 | echo 8 -a  use F8 to add more users | echo 8 -a use cF8 to exclude a user 
+  ..Text Capture OFF : .rlevel -r 24 | echo 8 -a all users removed from Dialog Capture | /color.reset
+}
+alias -l color.reset {
+  SET -u %i 0
+  :next.i
+  INC -u %i
+  IF ($ial(*,%i)) {
+        if (($nick(#,%i) != $me) &&  ($nick(#,%i) ison # )) //cline -r # $nick(#,%i) 
+    GOTO next.i
+  }

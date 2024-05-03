@@ -1,0 +1,78 @@
+<html>
+    <style>
+        #game {
+            width: 600px;
+            height: 600px;
+            background-color: grey;
+        }
+    </style>
+    <body>
+        <canvas id="game"></canvas>
+        <script>
+            
+            function Game() {
+              this.canvas = document.getElementById("game");
+              
+              this.start = function() {
+                this.canvas.width = 600;
+                this.canvas.height = 600;
+                this.context = this.canvas.getContext("2d");
+                this.interval = setInterval(gameTick, 20);
+              }
+              
+              this.clear = function() {
+                this.context.clearRect(0, 0, this.canvas.width, this.canvas.height);
+              }
+            }
+
+            function Player(color, x, y) {
+                this.x = x;
+                this.y = y;
+              
+                this.update = function() {
+                    this.move(mouseState);
+                    var context = game.context;
+                    context.fillStyle = color;
+                    context.beginPath();
+                    context.arc(this.x, this.y, 16, 0, 2 * Math.PI);
+                    context.fill();
+                }
+                
+                this.move = function(event) {
+                    if (event == null) {
+                        return;
+                    }
+                    var x = event.clientX;
+                    var y = event.clientY;
+                    if (x < player.x && x > 0) {
+                        player.x = player.x - 2;
+                    } else if (x > player.x && x < game.canvas.width) {
+                        player.x = player.x + 2;
+                    }
+                    if (y < player.y && y > 0) {
+                        player.y = player.y - 2;
+                    } else if (y > player.y && y < game.canvas.width) {
+                        player.y = player.y + 2;
+                    }
+                }
+            }
+            
+            function gameTick() {
+                console.log("tick");
+                game.clear();
+                player.update();
+            }
+            
+            function mouseMove(event) {
+                mouseState = event;
+            }
+            
+            var game = new Game();
+            var player = new Player("red", 300, 300);
+            var mouseState = null;
+            game.start();
+            
+            window.addEventListener("mousemove", mouseMove, false);
+        </script>
+    </body>
+</html>
