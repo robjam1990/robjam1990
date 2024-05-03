@@ -1,4 +1,4 @@
-<project name="botlibre-desktop" default="dist" basedir=".">
+<project name="botlibre-desktop" default="dist" basedir=".robjam1990">
 	<!-- set global properties for this build -->
 	<property name="source" location="source"/>
 	<property name="build" location="build"/>
