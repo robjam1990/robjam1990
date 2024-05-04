@@ -1,0 +1,19 @@
+﻿<provider:Application xmlns:provider="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:my="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    x:Class="Aslo.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Aslo" FocusVisualKind="HighVisibility" RequiresPointerMode="Auto">
+
+    <provider:Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.ThemeDictionaries>
+                <ResourceDictionary x:Key="Default">
+                    <SolidColorBrush x:Key="ApplicationPageBackgroundThemeBrush" Color="#FF000000" />
+                    <SolidColorBrush x:Key="ApplicationForegroundThemeBrush" Color="#FFFFFFFF" />
+                    </ResourceDictionary>
+            </ResourceDictionary.ThemeDictionaries>
+        </ResourceDictionary>
+    </provider:Application.Resources>
+
+    <provider:Application.RequestedTheme>Dark</provider:Application.RequestedTheme>
+</provider:Application>

@@ -1,0 +1,62 @@
+﻿<Page
+    x:Class="Opus.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Opus"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="Interface" Background="Black" RequestedTheme="Dark" BorderBrush="White" Margin="0,10,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="211*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="429*"/>
+        </Grid.ColumnDefinitions>
+        <Hub Header="Hub" HorizontalAlignment="Left" Width="1280" Grid.ColumnSpan="3">
+            <HubSection Header="HubSection 0">
+                <DataTemplate>
+                    <Grid/>
+                </DataTemplate>
+            </HubSection>
+            <HubSection Header="HubSection 1" Width="215">
+                <DataTemplate>
+                    <Grid/>
+                </DataTemplate>
+            </HubSection>
+            <HubSection Header="HubSection 2" Width="490">
+                <DataTemplate>
+                    <Grid/>
+                </DataTemplate>
+            </HubSection>
+            <HubSection Header="HubSection 3" Width="849">
+                <DataTemplate>
+                    <Grid/>
+                </DataTemplate>
+            </HubSection>
+        </Hub>
+        <TextBox x:Name="Input" Margin="10,104,752,0" TextWrapping="Wrap" Text="Input/Output:" VerticalAlignment="Top" Height="256" Foreground="#FF119813" FontFamily="Arial" FontSize="16" Grid.ColumnSpan="3" FontWeight="Bold">
+            <TextBox.Background>
+                <AcrylicBrush TintColor="#CCFFFFFF"/>
+            </TextBox.Background>
+        </TextBox>
+        <Button x:Name="Send" Margin="0,475,0,0" VerticalAlignment="Top" Background="#337A7F23" Foreground="{x:Null}" Width="106" Height="44" Grid.Column="2">
+            <TextBox x:Name="Output" TextWrapping="Wrap" Text="Output" Margin="-227,-96,-201,-89"/>
+        </Button>
+        <ListView Margin="253,10,10,0" Grid.Column="1" Grid.ColumnSpan="2">
+            <Frame Content="Frame" Height="700" Width="588" RenderTransformOrigin="0.454,0.496"/>
+        </ListView>
+        <AppBarButton Icon="Accept" Label="AppBarButton" Margin="300,49,0,0" RenderTransformOrigin="-0.765,-0.194" Width="228" Grid.ColumnSpan="3" Height="50"/>
+        <AutoSuggestBox HorizontalAlignment="Left" Margin="0,360,0,0" Height="192" Width="211"/>
+        <Image HorizontalAlignment="Left" Height="159" Margin="0,552,0,0" VerticalAlignment="Top" Width="211" Source="/Assets/SplashScreen.scale-200.png"/>
+        <PersonPicture Grid.Column="2" HorizontalAlignment="Left" Margin="106,10,0,0" VerticalAlignment="Top" Height="89" Width="94"/>
+        <Popup RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="3" Margin="0,-5,-2,5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <Popup.RenderTransform>
+                <CompositeTransform SkewY="-0.608" TranslateY="2.239"/>
+            </Popup.RenderTransform>
+            <Grid x:Name="Introduction" Background="#FFE5E5E5"/>
+        </Popup>
+<UserControl />
+    </Grid>
+</Page>

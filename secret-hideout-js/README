@@ -1,0 +1,31 @@
+My Secret Hideout
+Interactive Art by Andrew Plotkin
+Copyright 2011-2017 by Andrew Plotkin <erkyrath@eblong.com>
+
+To play: <https://zarf.itch.io/my-secret-hideout>
+
+_My Secret Hideout_ was my first iOS app. I released it in 2011, while
+working on _Hadean Lands_. I figured that HL might take a while (yep!)
+and that I should have a steady stream of side projects to bring in
+money and keep my name visible.
+
+_My Secret Hideout_ was a quirky experiment — a procedural-generation
+software toy. (2011 was before the Great Bot Era; procedural text
+generation was still an obscure IF gimmick.) I wanted it to be fun to
+read, and fun in a finger-twiddling sense as well. People enjoyed it,
+but not, in the end, very many people. It sold something like 700
+copies over five years.
+
+In January of 2017, Apple sent me a notice that I should update the
+app, please, or they would drop it from the App Store. Updating it
+would have been a lot of work. The last time I touched the code, iOS 5
+was brand-new and iPhones came in exactly one size! So I decided to
+rewrite Hideout in Javascript and post it on Itch.IO.
+
+---
+
+This source code is provided for personal, educational use only. The
+text of _My Secret Hideout_ belongs to me; you may not use it or
+create derivative works which contains it. However, you have
+permission to use the programming techniques of this game in your own
+works, and you may use the source code excluding game text.

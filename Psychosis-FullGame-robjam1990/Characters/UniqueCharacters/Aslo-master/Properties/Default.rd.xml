@@ -1,0 +1,53 @@
+<!--
+    This file contains Runtime Directives used by .NET Native. The defaults here are suitable for most
+    developers. However, you can modify these parameters to modify the behavior of the .NET Native
+    optimizer.
+
+    Runtime Directives are documented at https://go.microsoft.com/fwlink/?LinkID=391919
+
+    To fully enable reflection for App1.MyClass and all of its public/private members
+    <Type Name="App1.MyClass" Dynamic="Required All"/>
+
+    To enable dynamic creation of the specific instantiation of AppClass<T> over System.Int32
+    <TypeInstantiation Name="App1.AppClass" Arguments="System.Int32" Activate="Required Public" />
+
+    Using the Namespace directive to apply reflection policy to all the types in a particular namespace
+    <Namespace Name="DataClasses.ViewModels" Serialize="All" />
+-->
+
+<Directives xmlns="http://schemas.microsoft.com/netfx/2013/01/metadata">
+  <Application>
+    <!--
+      An Assembly element with Name="*Application*" applies to all assemblies in
+      the application package. The asterisks are not wildcards.
+    -->
+    <Assembly Name="*Application*" Dynamic="Required All" />
+    
+    
+    <!-- Add your application specific runtime directives here. -->
+	  	<TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.Int32" Activate="Required Public" />
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.String" Activate="Required Public" />
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.Object" Activate="Required Public" />
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.Byte" Activate="Required Public" />
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.Char" Activate="Required Public" />
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.Decimal" Activate="Required Public" />
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.Double" Activate="Required Public" />
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.Single" Activate="Required Public" />
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.Int16" Activate="Required Public" />
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.Int64" Activate="Required Public" />
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.SByte" Activate="Required Public" />
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.UInt16" Activate="Required Public" />
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.UInt32" Activate="Required Public" />
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.UInt64" Activate="Required Public" />
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.Boolean" Activate="Required Public" />
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.DateTime" Activate="Required Public" />
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.TimeSpan" Activate="Required Public" />
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.Guid" Activate="Required Public" />
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.Uri" Activate="Required Public" />
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.String[]" Activate="Required Public" />
+	  
+	  <TypeInstantiation Name="System.Collections.Generic.List`1" Arguments="System.Byte[]" Activate="Required Public" />
+
+
+  </Application>
+</Directives>
