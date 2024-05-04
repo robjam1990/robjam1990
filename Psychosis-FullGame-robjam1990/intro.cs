@@ -3,12 +3,14 @@ using System.Collections.Generic;
 
 public class Thear
 {
+    private static Object dialogues;
+
     // Function to log messages
     public static void LogMessage(string message)
     {
         // Implement your logging mechanism here (e.g., writing to a log file)
         // Example: File.AppendAllText("game.log", DateTime.Now.ToString() + ": " + message + Environment.NewLine);
-        \.\Psychosis.Log(message);
+        //|\.Psychosis.Log(message);
     }
 
     // Function to log exceptions
@@ -19,7 +21,7 @@ public class Thear
     }
     // Function to display next dialogue based on user choice
     public static void ShowNextDialog(string dialogKey)
-    {
+    {/*
         var dialog = dialogues[dialogKey];
         if (dialog != null)
         {
@@ -33,7 +35,7 @@ public class Thear
                 }
                 // No need to call HandleUserChoice here, as this function is called in response to player's input
             }
-        }
+        }*/
     }
     // Function to handle dialogue choices based on player input
     public static void HandleDialogueChoice(string dialogKey, int choiceIndex)
@@ -44,81 +46,86 @@ public class Thear
     }
     // Function to handle user choice and transition to the next dialogue
     public static void HandleUserChoice(string dialogKey, int choiceIndex)
-    {
-        var dialog = dialogues[dialogKey];
-        if (dialog != null && dialog["choices"] != null)
+    { try
         {
-            var choices = dialog["choices"] as List<Dictionary<string, string>>;
-            if (choices != null && choices.Count > 0)
+            /* var dialog = dialogues[dialogKey];
+            if (dialog != null && dialog["choices"] != null)
             {
-                var choice = choices[choiceIndex - 1]; // Adjust for 0-based index
-                if (choice != null)
+                var choices = dialog["choices"] as List<Dictionary<string, string>>;
+                if (choices != null && choices.Count > 0)
                 {
-                    Console.WriteLine("Player: " + choice["option"]); // Display player's choice
-                    var nextDialog = choice["nextDialog"];
-                    if (nextDialog != null)
+                    var choice = choices[choiceIndex - 1]; // Adjust for 0-based index
+                    if (choice != null)
                     {
-                        ShowNextDialog(nextDialog); // Display next dialogue
+                        Console.WriteLine("Player: " + choice["option"]); // Display player's choice
+                        var nextDialog = choice["nextDialog"];
+                        if (nextDialog != null)
+                        {
+                            ShowNextDialog(nextDialog); // Display next dialogue
+                        }
+                        else
+                        {
+                            Console.WriteLine("End of conversation."); // No next dialogue
+                        }
                     }
                     else
                     {
-                        Console.WriteLine("End of conversation."); // No next dialogue
+                        Console.WriteLine("Invalid choice."); // Invalid user input
                     }
                 }
                 else
                 {
-                    Console.WriteLine("Invalid choice."); // Invalid user input
+                    Console.WriteLine("No choices available."); // No choices in the current dialogue
                 }
-            }
-            else
+            */
             {
                 Console.WriteLine("No choices available."); // No choices in the current dialogue
             }
         }
-        else
-        {
-            Console.WriteLine("No choices available."); // No choices in the current dialogue
-        }
-    }
-}
 
 public class Dialog
-{
-    public string Speaker { get; set; }
-    public string Message { get; set; }
-    public List<Choice> Choices { get; set; }
-}
-
-public class Choice
-{
-    public string Option { get; set; }
-    public string NextDialog { get; set; }
-}
-
-public class DialogData
-{
-    public Dictionary<string, Dialog> Dialogs { get; set; }
-
-    public DialogData()
     {
-        Dialogs = new Dictionary<string, Dialog>();
+        public string Speaker { get; set; }
+        public string Message { get; set; }
+        public List<Choice> Choices { get; set; }
     }
+
+    public class Choice
+    {
+        public string Option { get; set; }
+        public string NextDialog { get; set; }
+    }
+
+    public class DialogData
+    {
+        public Dictionary<string, Dialog> Dialogs { get; set; }
+
+        public DialogData()
+        {
+            Dialogs = new Dictionary<string, Dialog>();
+        }
+    }
+
+    Dialog openingDialog = new Dialog
+    {
+        Speaker = "maia",
+        Message = "As you begin to open your eyes, you hear a soft reassuring voice.\n\n'Hey there, hope you had a good sleep.'\n\nYour eyes begin to focus on the origin of the voice as the voice continues to speak.\n\n'Before we continue further, can you please tell me your name?'",
+        Choices = new List<Choice>
+        {
+            new Choice { Option = "Who are you?", NextDialog = "maiaIntro" },
+            new Choice { Option = "What is this place?", NextDialog = "PlaceIntro" },
+            new Choice { Option = "Where am I?", NextDialog = "LocationIntro" },
+            new Choice { Option = "How long have I been asleep for?", NextDialog = "SleepIntro" },
+            new Choice { Option = "I do not remember my name.", NextDialog = "NameIntro" },
+            new Choice { Option = "[Enter Name]", NextDialog = "NameInput" }
+        }
+    }
+
+
+public Dialog OpeningDialog { get => openingDialog; set => openingDialog = value; }
 }
 
-Dialog openingDialog = new Dialog
-{
-    Speaker = "maia",
-    Message = "As you begin to open your eyes, you hear a soft reassuring voice.\n\n'Hey there, hope you had a good sleep.'\n\nYour eyes begin to focus on the origin of the voice as the voice continues to speak.\n\n'Before we continue further, can you please tell me your name?'",
-    Choices = new List<Choice>
-    {
-        new Choice { Option = "Who are you?", NextDialog = "maiaIntro" },
-        new Choice { Option = "What is this place?", NextDialog = "PlaceIntro" },
-        new Choice { Option = "Where am I?", NextDialog = "LocationIntro" },
-        new Choice { Option = "How long have I been asleep for?", NextDialog = "SleepIntro" },
-        new Choice { Option = "I do not remember my name.", NextDialog = "NameIntro" },
-        new Choice { Option = "[Enter Name]", NextDialog = "NameInput" }
-    },
-
+/*
     Dialog maiaIntroDialog = new Dialog
     {
         Speaker = "maia",
@@ -207,11 +214,6 @@ Dialog openingDialog = new Dialog
     data.Dialogs.Add("PlaceIntro", placeIntroDialog);
     data.Dialogs.Add("LocationIntro", locationIntroDialog);
     data.Dialogs.Add("opening", openingDialog);
+*/
     // Call the function to start the game
-    StartGame();
-}
-// Usage:
-DialogData data = new DialogData();
-
-// Call the function to show the next dialog
-Thear.ShowNextDialog("opening");
+    //Psychosis.Initialize.ReferenceEquals(StartGame(););

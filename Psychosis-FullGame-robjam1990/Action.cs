@@ -1,3 +1,5 @@
+using Actions;
+
 namespace Actions
 {
     // Define the abstract base class for actions
@@ -35,7 +37,7 @@ namespace Actions
             Dialogue
             // Add more action types as needed
         }
-    // Constructor
+    /*
     protected Interaction(InteractionType type, string trigger, string successMessage, string details)
         {
             Type = type;
@@ -126,5 +128,5 @@ namespace Actions
                 character.ProcessActions();
             }
         }
-    }
+    }*/
 }

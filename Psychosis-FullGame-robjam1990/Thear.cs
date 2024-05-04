@@ -104,7 +104,7 @@ namespace Thear
 
         public void StartDialogue()
         {
-            Console.WriteLine("Hello, how can I help you?");
+            Console.WriteLine("Hello, how can I help you?");/*
             Console.ReadLine(string);
             if (string == "What is your name?")
             {
@@ -114,7 +114,7 @@ namespace Thear
             {
                 Console.WriteLine("I am " + Age + " years old.");
             }
-            else Console.WriteLine("I am sorry, I cannot help you with that.");)
+            else*/ Console.WriteLine("I am sorry, I cannot help you with that.");
         }
     }
 

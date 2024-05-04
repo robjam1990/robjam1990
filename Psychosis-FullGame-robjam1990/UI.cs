@@ -5,33 +5,6 @@ namespace UI
 {
     internal class Program
     {
-        public static class ColorHelpers
-        {
-            public static void Print(string text, ConsoleColor color)
-            {
-                var originalColor = Console.ForegroundColor;
-                Console.ForegroundColor = color;
-                Console.WriteLine(text);
-                Console.ForegroundColor = originalColor;
-            }
-        }
-
-        // Usage:
-        ColorHelpers.Print("This text will be green.", ConsoleColor.Green);
-        ColorHelpers.Print("This text will be red.", ConsoleColor.Red);
-            ColorHelpers.Print("This text will be blue.", ConsoleColor.Blue);
-            ColorHelpers.Print("This text will be yellow.", ConsoleColor.Yellow);
-            ColorHelpers.Print("This text will be white.", ConsoleColor.White);
-            ColorHelpers.Print("This text will be gray.", ConsoleColor.Gray);
-            ColorHelpers.Print("This text will be cyan.", ConsoleColor.Cyan);
-            ColorHelpers.Print("This text will be magenta.", ConsoleColor.Magenta);
-            ColorHelpers.Print("This text will be dark yellow.", ConsoleColor.DarkYellow);
-            ColorHelpers.Print("This text will be dark red.", ConsoleColor.DarkRed);
-            ColorHelpers.Print("This text will be dark magenta.", ConsoleColor.DarkMagenta);
-            ColorHelpers.Print("This text will be dark green.", ConsoleColor.DarkGreen);
-            ColorHelpers.Print("This text will be dark gray.", ConsoleColor.DarkGray);
-            ColorHelpers.Print("This text will be dark cyan.", ConsoleColor.DarkCyan);
-            ColorHelpers.Print("This text will be black.", ConsoleColor.Black);
             // Define Print method to output text gradually
             static void Print(string text, int speed)
         {
@@ -200,48 +173,48 @@ namespace UI
             {
                 try
                 {
-                    Print(@"    ________________________________________________________________________________________________________________    " + Colors.GREEN);
-                    Print(@"  /__==========================================/\==================================================================__\  " + Colors.GREEN);
-                    Print(@" /|Text input:                                 ||Notifications:                                                      |\ " + Colors.GREEN);
-                    Print(@" ||                                            ||                                                                    || " + Colors.GREEN);
-                    Print(@" ||                                            ||                                                                    || " + Colors.GREEN);
-                    Print(@" ||                                            ||                                                                    || " + Colors.GREEN);
-                    Print(@" ||                                            ||                                                                    || " + Colors.GREEN);
-                    Print(@" ||                                            ||                                                                    || " + Colors.GREEN);
-                    Print(@" ||                                            ||                                                                    || " + Colors.GREEN);
-                    Print(@" ||                                            ||                                                                    || " + Colors.GREEN);
-                    Print(@" ||                                            ||                                                                    || " + Colors.GREEN);
-                    Print(@" |__===========================================\/==========================================_/======================__/| " + Colors.GREEN);
-                    Print(@" ||(M)ovement        (O)bservation  (R)etreat  /                                           |\_  Character Quests:  _/_| " + Colors.GREEN);
-                    Print(@" ||                                           /                                            |_\|\__|__=============__\_| " + Colors.GREEN);
-                    Print(@" ||                             __=========__|_____________________________________________|__\_|/|List:             || " + Colors.GREEN);
-                    Print(@" ||                             |Text output:|                                                 \ \|                  || " + Colors.GREEN);
-                    Print(@" ||(C)onversation:              |__========__\                                                  \ |                  || " + Colors.GREEN);
-                    Print(@" ||_____________________________|_____________\__________________________________________________\|                  || " + Colors.GREEN);
-                    Print(@" |__============================================================================================__|                  || " + Colors.GREEN);
-                    Print(@" |/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\|                  || " + Colors.GREEN);
-                    Print(@" ||Inventory:                                  ||Map(7*8):                                        |                  || " + Colors.GREEN);
-                    Print(@" ||                                            ||                                                 |                  || " + Colors.GREEN);
-                    Print(@" ||                                            ||                                                 |                  || " + Colors.GREEN);
-                    Print(@" ||                                            ||                                                 |                  || " + Colors.GREEN);
-                    Print(@" ||                                            ||                                                 |                  || " + Colors.GREEN);
-                    Print(@" ||                                            ||                                                 |                  || " + Colors.GREEN);
-                    Print(@" ||                                            ||                                                 |                  || " + Colors.GREEN);
-                    Print(@" ||                                            ||                                                 |                  /| " + Colors.GREEN);
-                    Print(@" ||                                            |\                                                 |                 / | " + Colors.GREEN);
-                    Print(@" ||                                            |__\===================/===========================^================/__| " + Colors.GREEN);
-                    Print(@" ||                                            ||Character Statistics/                                               || " + Colors.GREEN);
-                    Print(@" ||                                            |__================__/                                                || " + Colors.GREEN);
-                    Print(@" ||                                            ||/                                                                   || " + Colors.GREEN);
-                    Print(@" ||                                            ||                                                                    || " + Colors.GREEN);
-                    Print(@" ||                                            ||                                                                    || " + Colors.GREEN);
-                    Print(@" ||                                            ||                                                                    || " + Colors.GREEN);
-                    Print(@" ||                                            ||                                                                    || " + Colors.GREEN);
-                    Print(@" |\                                            ||                                                                    /| " + Colors.GREEN);
-                    Print(@" | \                                           /\                                                                   / | " + Colors.GREEN);
-                    Print(@" |__\=========================================/==\=================================================================/__| " + Colors.GREEN);
-                    Print(@"    \______________________________________________________________________________________________________________/    " + Colors.GREEN);
-                    Print(@"                                                                                                                        " + Colors.GREEN);
+                    Print(@"    ________________________________________________________________________________________________________________    "+ ConsoleColor.Green);
+                    Print(@"  /__==========================================/\==================================================================__\  "+ ConsoleColor.Green);
+                    Print(@" /|Text input:                                 ||Notifications:                                                      |\ "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||                                                                    || "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||                                                                    || "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||                                                                    || "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||                                                                    || "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||                                                                    || "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||                                                                    || "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||                                                                    || "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||                                                                    || "+ ConsoleColor.Green);
+                    Print(@" |__===========================================\/==========================================_/======================__/| "+ ConsoleColor.Green);
+                    Print(@" ||(M)ovement        (O)bservation  (R)etreat  /                                           |\_  Character Quests:  _/_| "+ ConsoleColor.Green);
+                    Print(@" ||                                           /                                            |_\|\__|__=============__\_| "+ ConsoleColor.Green);
+                    Print(@" ||                             __=========__|_____________________________________________|__\_|/|List:             || "+ ConsoleColor.Green);
+                    Print(@" ||                             |Text output:|                                                 \ \|                  || "+ ConsoleColor.Green);
+                    Print(@" ||(C)onversation:              |__========__\                                                  \ |                  || "+ ConsoleColor.Green);
+                    Print(@" ||_____________________________|_____________\__________________________________________________\|                  || "+ ConsoleColor.Green);
+                    Print(@" |__============================================================================================__|                  || "+ ConsoleColor.Green);
+                    Print(@" |/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\|                  || "+ ConsoleColor.Green);
+                    Print(@" ||Inventory:                                  ||Map(7*8):                                        |                  || "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||                                                 |                  || "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||                                                 |                  || "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||                                                 |                  || "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||                                                 |                  || "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||                                                 |                  || "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||                                                 |                  || "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||                                                 |                  /| "+ ConsoleColor.Green);
+                    Print(@" ||                                            |\                                                 |                 / | "+ ConsoleColor.Green);
+                    Print(@" ||                                            |__\===================/===========================^================/__| "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||Character Statistics/                                               || "+ ConsoleColor.Green);
+                    Print(@" ||                                            |__================__/                                                || "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||/                                                                   || "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||                                                                    || "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||                                                                    || "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||                                                                    || "+ ConsoleColor.Green);
+                    Print(@" ||                                            ||                                                                    || "+ ConsoleColor.Green);
+                    Print(@" |\                                            ||                                                                    /| "+ ConsoleColor.Green);
+                    Print(@" | \                                           /\                                                                   / | "+ ConsoleColor.Green);
+                    Print(@" |__\=========================================/==\=================================================================/__| "+ ConsoleColor.Green);
+                    Print(@"    \______________________________________________________________________________________________________________/    "+ ConsoleColor.Green);
+                    Print(@"                                                                                                                        "+ ConsoleColor.Green);
                 }
                 catch (Exception ex)
                 {

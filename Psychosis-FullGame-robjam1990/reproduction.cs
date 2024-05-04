@@ -1,3 +1,4 @@
+using Actions;
 using System;
 using System.Collections.Generic;
 
@@ -22,6 +23,21 @@ public class Character
         {
             Console.WriteLine($"{stat.Key}: {stat.Value}");
         }
+    }
+
+    internal void ProcessActions()
+    {
+        throw new NotImplementedException();
+    }
+
+    internal void AddAction(Interaction action)
+    {
+        throw new NotImplementedException();
+    }
+
+    internal void AddAction(Interaction action)
+    {
+        throw new NotImplementedException();
     }
 }
 
