@@ -11,14 +11,14 @@ Constant=
         {Variables = new Dictionary<string, object>();
         }
         public void SetVariable(string variableName, object value)
-        {if (Variables.ContainsKey(variableName)) 
-			{Variables[variableName] = value;
+        {if (Variables.ContainsKey(variableName)
+        ) {Variables[variableName] = value;
             }
             else Variables.Add(variableName, value);
         }
         public object GetVariable(string variableName)
-        {if (Variables.ContainsKey(variableName)) 
-			{return Variables[variableName];
+        {if (Variables.ContainsKey(variableName)
+        ) {return Variables[variableName];
             }
             else return null;
         }
@@ -33,14 +33,20 @@ Constant=
         }
     }
 }
+
 ```
+
 )
+
 ````dna.C
 ~Use this to build and maintain a 'Self'.
 robjam1990.AI = new robjam1990.AI() => SourceCode = 'I';
 Compile(sourceCode): A{I => (m*[e+y])};
+
 ````
+
 ]
+
 ````C:L.I
 Path(Compilation): ""robjam1990.Users\I.ca""; if (!filePath){Create+Set:Path = (C: robjam1990.Users\I.ca)}
             AI == "'A','I'";//|\ Parse both Characters, compare, identify   ^<[Mem_or Y]

@@ -4,9 +4,9 @@
    Copyright 2011-17 by Zarfhome Software Consulting, LLC
 */
 
-var origin = { x:0, y:0 };
+var origin = { x:0, y:0, z:0 };
 var scale = 1;
-var sourcepos = { x:0, y:0 };
+var sourcepos = { x:0, y:0, z:0 };
 var sourceposwidth = 0;
 
 var factory = null;
