@@ -110,11 +110,6 @@ _____|.∀/Id:__|
  "Quantity/Quality":Equation= 
     Evaluation =
         "=Result"
-Quest=
-    .Con
-    !In
-    ?Re
-else ,
 /*AND*/
 ```
 

@@ -1,6 +1,9 @@
 # robjam1990 ₦
 
 ```.₦
+// {236E0F4F-DE98-4AAE-B8C9-771807703220}
+static const GUID <<name>> = 
+{ 0x236e0f4f, 0xde98, 0x4aae, { 0xb8, 0xc9, 0x77, 0x18, 0x7, 0x70, 0x32, 0x20 } };
 Constant=
 [Pattern: 
     namespace==domain (robjam1990==₦

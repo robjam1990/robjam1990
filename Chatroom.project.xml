@@ -20,11 +20,11 @@
 			  </fileset>
 			</classpath>
 		</javac>
-		<!--copy todir="${build}">
+		<copy todir="${build}">
 		    <fileset dir="${source}"/>
-		</copy-->
-		<copy todir="${build}/org/botlibre/sdk/micro">
-			<fileset dir="${source}/org/botlibre/sdk/micro">
+		</copy>
+		<copy todir="${build}/robjam1990/sdk/micro">
+			<fileset dir="${source}/robjam1990/sdk/micro">
 				<include name="*.res"/>
 				<include name="*.aiml"/>
 				<include name="*.self"/>
@@ -40,15 +40,15 @@
 			<include name="**/*.jar"/>
 		  </fileset>
 	</path>
-	<manifestclasspath property="lib.list" jarfile="botlibre-desktop.jar">
+	<manifestclasspath property="lib.list" jarfile="robjam1990.jar">
 		<classpath refid="build-classpath"/>
 	</manifestclasspath>
 	
 	<target name="dist" depends="compile" description="generate the distribution" >
-	    <!-- Put everything in ${build} into botlibre-desktop.jar file -->
-	    <jar jarfile="botlibre-desktop.jar" basedir="${build}">
+	    <!-- Put everything in ${build} into robjam1990.jar file -->
+	    <jar jarfile="robjam1990.jar" basedir="${build}">
 			<manifest>
-			  <attribute name="Main-Class" value="org.botlibre.sdk.activity.MainActivity"/>
+			  <attribute name="Main-Class" value="robjam1990.sdk.activity.MainActivity"/>
 			  <attribute name="Class-Path" value="${lib.list}"/>
 			</manifest>
 		</jar>

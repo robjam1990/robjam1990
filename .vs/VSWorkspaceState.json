@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Psychosis-FullGame-robjam1990",
-    "\\Psychosis-FullGame-robjam1990\\Characters"
+    "\\Body",
+    "\\Psychosis-FullGame-robjam1990\\Characters",
+    "\\Psychosis-FullGame-robjam1990\\Characters\\UniqueCharacters"
   ],
-  "SelectedNode": "\\Psychosis-FullGame-robjam1990\\Characters\\Psychosis.Characters.sln",
+  "SelectedNode": "\\play.html",
   "PreviewInSolutionExplorer": false
 }
