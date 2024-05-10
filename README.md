@@ -1,8 +1,21 @@
-﻿# robjam1990 Initiate Configuration Kine
+﻿# robjam1990
+
+ ---
+ 
+ *ROBJAM1990 is a "Markdown-Syntax" Language based affiliate.*
+ `ject` is Custom Tool for various purposes such as parsing.
+ `iplant` is a Custom Node-Based Pipeline which utilizes Quantum Field Theory,
+ `NLP` is an old language, with my own custom twist of course to make it more "Poetic"
+ (`QA`||`QC`) is my "Quantum Sculptur", my own creation for a classic-to-quantum `Algorithm`.
+ 
+````robjam1990
+ -Generational Augmented Reconfigurable
+ :Parse capabilities
+ :Format capabilities
+ :Compilation capabilities
 
 ## 2019-07-01 16:00:00 UTC (YYYY-MM-DD HH:MM:SS) Two Zero One Nine Zero Seven Zero One One Six Zero Zero Zero UTC
 
- ````robjam1990
 ```ject
 `|\|`.<in ₦="ject"::robjam1990.ca>
 `\-/`$<.Self=<Ad="Ob"-|∀|, Sub="ℹ" Re="₳" In="℣" Con="ⅈ">.ject>[# <Node Pipeline(/*...*/)>]
@@ -57,7 +70,7 @@ $Code: \______________________/
 ```
 ````
 ``` [`output`]:```
-```IlfaTree
+```my.plant
  |_______________________
 #]]]+>>>>>>>>>>>>>>>>>>>>>>>
 :/```
