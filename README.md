@@ -1,10 +1,12 @@
 ﻿# robjam1990 Initiate Configuration Kine
 
 ## 2019-07-01 16:00:00 UTC (YYYY-MM-DD HH:MM:SS) Two Zero One Nine Zero Seven Zero One One Six Zero Zero Zero UTC
- 
+
+ ````robjam1990
+```ject
 `|\|`.<in ₦="ject"::robjam1990.ca>
 `\-/`$<.Self=<Ad="Ob"-|∀|, Sub="ℹ" Re="₳" In="℣" Con="ⅈ">.ject>[# <Node Pipeline(/*...*/)>]
-
+```
 ### Importing the libraries
 
 [**IPLANT**];Imagination Protocol Logic - Augmentative Neural Tree.
@@ -53,8 +55,9 @@ $Code: \______________________/
    <q=|[-]
 <~=|[-]
 ```
+````
 ``` [`output`]:```
-```
+```IlfaTree
  |_______________________
 #]]]+>>>>>>>>>>>>>>>>>>>>>>>
 :/```
