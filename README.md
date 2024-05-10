@@ -1,9 +1,9 @@
 ﻿# robjam1990 Initiate Configuration Kine
 
 ## 2019-07-01 16:00:00 UTC (YYYY-MM-DD HH:MM:SS) Two Zero One Nine Zero Seven Zero One One Six Zero Zero Zero UTC
-
-|\|.<in ₦="ject"::robjam1990.ca>
-\-/$<.Self=<Ad="Ob"-|∀|, Sub="ℹ" Re="₳" In="℣" Con="ⅈ">.ject>[# <Node Pipeline(/*...*/)>]
+<<<
+`|\|`.<in ₦="ject"::robjam1990.ca>
+`\-/`$<.Self=<Ad="Ob"-|∀|, Sub="ℹ" Re="₳" In="℣" Con="ⅈ">.ject>[# <Node Pipeline(/*...*/)>]
 
 ### Importing the libraries
 
@@ -18,7 +18,7 @@
 ;else if try IPLANT
 ;end
 
-```₦.∀
+```Source.Code
 $Node(Input="input" -[Source{Code}]> Output="output"):
   $Source{Code}:                  |
 |  $Code: \_______________________/
@@ -27,7 +27,7 @@ $Node(Input="input" -[Source{Code}]> Output="output"):
 /**/ $Node.Output = output;    /
 $Code: \______________________/
 ```____/__/```
-```∀.iPLANT
+```I.PLANT
    [-]|=~>
 [-]|=0>
    <0=|[-]
@@ -52,4 +52,8 @@ $Code: \______________________/
 [-]|=q>|
    <q=|[-]
 <~=|[-]
+```
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 ```
