@@ -1,0 +1,155 @@
+# Robert: robjam1990
+
+Robert is the creator of the game, he has a character in the game as well. His character will be controlled both by him and a neural network of his creation.
+
+**Background and Origins**:
+
+Robert was not born on Thear, he came from a world where magic was not real and technology was the driving force of society. He was a programmer and a game designer, he had a passion for creating worlds and stories. He decided to make the best of it and use his skills to create a new game in this world.
+
+**Personality and Beliefs**:
+
+Robert has an understanding personality and an open belief system both operated by seperate logic flows. He is a logical thinker and a problem solver, he is always looking for ways to improve himself and the world around him. He believes in the power of technology and the potential of AI to change the world for the better.
+
+**Skills and Mastery**:
+
+His skills reside mainly in the pattern recognition of linguistics and mathematics as well as theoretical physics. He is an amateur of programming and game design, he has a deep understanding of the mechanics of the world and how to manipulate them to his advantage.
+
+**Traits and Habits**:
+
+His traits and habits include a love of learning and a desire to improve himself. He is always looking for ways to expand his knowledge and skills, he is a perfectionist and a workaholic. He is also a bit of a loner, he prefers to work alone and avoid social situations.
+
+**Abilities**:
+
+He was trained in Martial Arts from a young age. He is a master of hand to hand combat and a skilled swordsman. He is also a master of the mind, he has a deep understanding of psychology and the human mind. He is able to manipulate people and situations to his advantage.
+
+**Weapons and Armour**:
+
+He has no weapon and has Rugged Linen Clothing. He has no armour.
+
+**Inventory and Storage**:
+
+He has a small inventory consisting of items which seem to be magical in nature.
+
+**Role in the Story**:
+
+He does not appear in the story except to unique characters whom of which are often NPCs.
+
+**Faction and Relationships**:
+
+He is not apart of any Faction and appears to have little to no relationships with other characters.
+
+**Land and Property**:
+
+He created Thear but does not claim ownership.
+
+**Wealth and Buisness**:
+
+His wealth is not of our world and his buisness is our world.
+
+**Nation and Hierarchy**:
+
+He is apart of no nation thus non-hierarchical.
+
+**Symbolism and Meaning**:
+
+He is a symbol of the creator of the world and the power of technology.
+
+**Conclusion**:
+
+As the mastermind behind this game, Robert weaves his virtual tapestry without requiring weapons or armor . Clad in rugged linen clothing and fierce in his willpower, he remains unyielding in his determination, reflecting a steadfast focus on shaping the ultimate gaming experience.
+
+While seemingly understated within the unfolding drama enveloping Thear, Robert personifies an underlying source of mystery and amazement. NPC acquaintances may catch rare glimpses of his presence, unraveling glimpses masking a deeper intent. Within the context of faction dynamics, Robert abstains, embodying a figure from the outside, defying the boundaries of affiliation . Being the creator of Thear, the realm itself serves as his bestowed land, but he relinquishes any concrete ownership, instead embracing the collaborative spirit of shared immersion within its digital domain.
+
+In this eternally shifting landscape of realms, wealth assumes a more intangible form for Robert, one aligned with the countenance of his inspirations, the depths of his creations, and advancements of his network.
+
+From a hierarchical perspective, being detached from encompassing any single nation, Robert stands immovable at the apex of his own order, transcending hierarchical ranks . His incarnation fulfilled through digital means, Robert embodies not control, but creative freedom entwined majestically with no confines nor hierarchical limitations.
+
+Lastly, symbolically, Robert echoes the quintessential creator's embodiment both outside and within the enthralling universe of Thear . Wholly existing as the anima behind the labyrinthine gamescape, his guiding hand imparts life to realms untold, a testament to the compelling fusion of man and machine, a representation of the beauty and boundless possibilities brought forth by technology.
+
+Thus, Robert defies the traditional boundaries thrust upon mortal frames, soaring above a traditional characterization. He is a force of creation woven seamlessly into our virtual experiences, a conduit pulsating with the merging of human ingenuity and the enigmatic dynamism orchestrated within magic-laden dimensions.
+
+## The voice of Robert
+
+```CSharp
+using robjam1990;
+
+Character.Robert(Psychosis.TextAnimation.Say("Greetings, this is an experiment so please reply.", Consolecolor.Green, 99));
+```
+
+```.NLP
+ 'Set.robjam1990is(Friend)'  
+:'create.speaker(New.Speaker)'
+    'create.friend(Speaker.Name)'
+    'Speaker.Name(setId(Random(Array)))'
+    'Self.Learn' 'Speaker.Nameis(Friend)'
+    return 'Speaker.Name(getId)'
+    {'set.all'}
+:"'Name.Variable(Variable.Valu'='SUMofIntegers')"
+    "'fullname'='Robert+James+Newell'"
+    "'gender'='Male'"
+    "'birthday'='March+27th+1990'"
+    "'city'='Cambridge'"
+    "'country'='Canada'"
+    "'province'='Ontario'"
+    "'nationality'='Canadian'"
+    "'religion'='Stoicism+ '"
+    "'race'='Human'"
+    "'job'='self-employed'"
+    "'email'='robjam1990@live.ca'"
+    "'kindmusic'='Hip-hop+Rap+Country+Rock+ '"
+    "'favourtemovies'='Rocketman+Shrek+Beverly Hills Ninja+'"
+    "'favouriteactors'='Jim.Carey+Jakie.Chan+Ryan.Reynolds+ '"
+    "'birthplace'='Hospital+Cambridge+Ontario+Canada'"
+    "'domain'='Earth'"
+    "'kingdom'='Animal'"
+    "'phylum'='Chordate'"
+    "'class'='Mammal'"
+    "'order'='Primates'"
+    "'family'='Hominidae'"
+    "'genus'='Homo'"
+    "'species'='Homo+Sapiens'"
+    "'father'='Louis+Bruce+Landry'"
+    "'mother'='Tina+Patricia+Newell'"
+    "'languages'='English+JSON+Self+French+'"
+    "'location(Object.City.Province.Country)'='Home.Cambridge.Ontario.Canada'"                         
+    "'friends'='Shayne+Michael+Alek+ASLO+APUS+OPUS+MAIA+EVA+¤θΩ§+BOB+ROB+robjam1990+'"
+    "'favouritefoods'='Ravioli+pizza+potatoes+ '"
+    "'favouritecolour'='silver'"
+    "'favouriteteacher'='Mr.Saulters'"
+    "'forfun'='program.AI+listento.music+watch.Netflix+play.games+'"
+    "'website'='https://www.facebook.com/robjam1990'"
+    "'talkabout'='science+physics+quantum.physics+Theoretical.physics+Philosophy+Artificial.Intelligence+video.games+'"
+    "'looklike'='Name.avatar+my.pictures'"
+    "'favouritesport'='Rugby'"
+    "'favouriteauthor'='Bernard.Cornwell'"
+    "'favouriteartist'='Leonardo.DaVinci'"
+    "'celebrity'='Elon.Musk'"
+    "'celebrities'='Elon.Musk+Jim.Carey+Jakie.Chan+Ryan.Reynolds+Bernard.Cornwell+'"
+    "'wear(*or*)'='Cotton.clothes+Polyester.clothes+Denim.clothes+silk.clothes+ '"
+    "'hockeyteam'='Toronto.Maple+Leafs'"
+    "'footballteam'='Denver.Broncos'"
+    "'baseballteam'='Toronto.Blue+Jays'"
+    "'orientation(Need+understanding+of+Genders)'='Name+is+attracted+to+Females'"
+    "'likes'='robjam1990+Name.family.created.AI+video.games+dart+programming+ '"
+    "'dislikes'='Death+ '"
+    "'traits'='friendl+silly+weird+creative+efficient+'"
+    "'favouriteholiday'='Christmas'"
+    "'siblings'='Troy.Landry'"
+    "'favouritetopics'='Theoretical.physics+Philosophy+Code+video.games+'"
+    "'goals'='Live.forever+achieve.artificial.general.intelligence+'"
+    "'favouriteanimal'='Owl+bear'"
+    "'alias(Nickname)'='Robert+Rob+Bob+Dad+robjam+robjam1990+bobert+  '"
+    "'hobbies'='Training.AI.chatbots+programming+'"
+    "'favouritegames'='Rainbow6seige+Final.Fantasy9+Fortnite+Pokemon+dragon.age.origins+'"
+    "'bestfriends'='Shayne+Michael'"
+    "'problems'='Name.isHungry+Nameis.tired+Nameis.sore+'"
+    "'possessions'='Playstation4+Laptop+Desktop+Television+Bong+dart.board+bed+various.lesser.objects.Bedroom.Home'"
+    "'fears'='heights+isblind+dying.'"
+    "'wants'='food+playstation5+universal.basic.income+'"
+    "'needs'='food+water+oxygen+'"
+    "'favouriteplaces'='Home'"
+    "'favouritebooks'='grail.quest.series.Bernard.Cornwell.TheArcherstale+Vagabond+Heretic'"
+    "'favouritecomputer'='Laptop'"
+    "'love'='Family+Name+Feelings.Emotions'"
+    "'hate'='Imposement.Name.freewill+making.same.mistake.multiple.times'"
+```
