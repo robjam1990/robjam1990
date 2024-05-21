@@ -1,76 +1,25 @@
-﻿# robjam1990
+# Bio
 
- ---
- 
- *ROBJAM1990 is a "Markdown-Syntax" Language based affiliate.*
- `ject` is Custom Tool for various purposes such as parsing.
- `iplant` is a Custom Node-Based Pipeline which utilizes Quantum Field Theory,
- `NLP` is an old language, with my own custom twist of course to make it more "Poetic"
- (`QA`||`QC`) is my "Quantum Sculptur", my own creation for a classic-to-quantum `Algorithm`.
- 
-````robjam1990
- -Generational Augmented Reconfigurable
- :Parse capabilities
- :Format capabilities
- :Compilation capabilities
+Greetings! I am deeply passionate about creating immersive experiences through software development, particularly in the realm of game design and interactive storytelling. My journey in the world of technology has been guided by a relentless pursuit of accuracy, efficiency, and compatibility.
 
-## 2019-07-01 16:00:00 UTC (YYYY-MM-DD HH:MM:SS) Two Zero One Nine Zero Seven Zero One One Six Zero Zero Zero UTC
+Project Focus:
 
-```ject
-`|\|`.<in ₦="ject"::robjam1990.ca>
-`\-/`$<.Self=<Ad="Ob"-|∀|, Sub="ℹ" Re="₳" In="℣" Con="ⅈ">.ject>[# <Node Pipeline(/*...*/)>]
-```
-### Importing the libraries
+Currently, my main endeavor is the development of "Psychosis," a text-based Adventure-RPG game set in the enchanting world of Thear. This project showcases my dedication to meticulous craftsmanship and modular design, with a unique Prologue featuring an interactive character creation process. The adventure begins in the historic Main Hall of Ye Olde Taverne, situated in the quaint Town of Nexus within the vast landscapes of the Country of Bractalia.
 
-[**IPLANT**];Imagination Protocol Logic - Augmentative Neural Tree.
-;IPLANT is a programming language that utilizes "AI"{Artificial Intelligence}, "NLP"{Natural Language Processing} to create NodeTemplate='T'{Texturized}.
-;is a simple programming language that utilizes a node-based pipeline to execute code. 
-;The pipeline is a directed graph where each node is a block of code that can be executed. 
-;The nodes are connected by edges that represent the flow of data between them. 
-;The language is designed to be simple and easy to understand, making it ideal for beginners and experts alike.
-;if Iplant try iPLANT
-;else if try iplant
-;else if try IPLANT
-;end
+Development Tools:
 
-```Source.Code
- $Node(Input="input" -[Source{Code}]> Output="output"):
-  $Source{Code}:                  |
-|  $Code: \_______________________/
-|    const input = $Node.Input;  /
-|    const output = input;      /
-/*AND*/$Node.Output = output;  /
-$Code: \______________________/
-```____/__/```
-```I.PLANT
-   [-]|=~>
-[-]|=0>
-   <0=|[-]
-[-]|=1>
-   <1=|[-]
-[-]|=->
-   <-=|[-]
-[-]|=+>
-   <+=|[-]
-[-]|=/>
-   <\=|[-]
-[-]|=x>
-   <x=|[-]
-[-]|=2>
-   <2=|[-]
-[-]|=i>
-   <i=|[-]
-[-]|=o>
-   <o=|[-]
-[-]|=r>
-   <r=|[-]
-[-]|=q>|
-   <q=|[-]
-<~=|[-]
-```
-````
-``` [`output`]:```
-```my.plant
- |_______________________
-#]]]+>>>>>>>>>>>>>>>>>>>>>>>
-:/```
+Equipped with Visual Studio and Visual Studio Code, I meticulously craft each aspect of the game, ensuring seamless integration and robust performance. With an eye for proactive improvements, updates, and fixes, I strive to elevate the gaming experience with every iteration.
+
+Technical Expertise:
+
+My expertise lies in C# programming, where I leverage the power of object-oriented principles to create scalable and maintainable codebases. Through diligent development practices, I aim to uphold the highest standards of code quality and readability, facilitating collaboration and future enhancements.
+
+Contributions to the Ecosystem:
+
+Beyond individual projects, I contribute to the broader ecosystem through my involvement in various initiatives. One such endeavor is the development of an ecosystem simulation program, where I explore the intricate dynamics of living systems and interactions within virtual environments.
+
+Collaboration and Growth:
+
+I am always open to collaboration and eager to connect with fellow enthusiasts and industry professionals. Together, we can embark on exciting ventures, share insights, and push the boundaries of innovation in software development.
+
+Let's Connect!
