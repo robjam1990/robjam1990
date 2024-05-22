@@ -1,78 +1,208 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Psychosis by robjam1990</title>
     <style>
         #game {
             width: 600px;
             height: 600px;
             background-color: grey;
         }
+        /* Remove default bullets */
+ul, #myUL {
+  list-style-type: none;
+}
+
+/* Remove margins and padding from the parent ul */
+#myUL {
+  margin: 0;
+  padding: 0;
+}
+
+/* Style the caret/arrow */
+ .caret {
+  cursor: pointer; 
+  user-select: none; /* Prevent text selection */
+}
+
+/* Create the caret/arrow with a unicode, and style it */
+.caret::before {
+  content: "\25B6";
+  color: black;
+  display: inline-block;
+  margin-right: 6px;
+}
+
+/* Rotate the caret/arrow icon when clicked on (using JavaScript) */
+.caret-down::before {
+  transform: rotate(90deg); 
+}
+
+/* Hide the nested list */
+.nested {
+  display: none;
+}
+
+/* Show the nested list when the user clicks on the caret/arrow (with JavaScript) */
+.active {
+  display: block;
+} 
+/* Style the list items */
+li {
+  padding: 5px;
+}
+
+/* Add background color to even list items */
+li:nth-child(even) {
+  background-color: lightgray;
+}
+
+/* Add hover effect to list items */
+li:hover {
+  background-color: lightblue;
+}
+/* Style the nested list items */
+.nested li {
+  padding: 5px;
+}
+
+/* Add background color to even nested list items */
+.nested li:nth-child(even) {
+  background-color: lightgray;
+}
+
+/* Add hover effect to nested list items */
+.nested li:hover {
+  background-color: lightblue;
+}
     </style>
-    <body>
-        <canvas id="game"></canvas>
-        <script>
-            
-            function Game() {
-              this.canvas = document.getElementById("game");
-              
-              this.start = function() {
+</head>
+<body class="homepage">
+    <header id="header">
+        <div class="container">
+            <h1 id="logo"><a href="index.html">Psychosis</a></h1>
+            <nav id="nav">
+                <ul>
+                    <li class="active"><a href="index.html">Home</a></li>
+                    <li>
+                        <a href="#">Play</a>
+                        <ul class="dropdown">
+                            <li><a href="login.html">Login</a></li>
+                            <li><a href="signup.html">Signup</a></li>
+                            <li><a href="create.html">Create</a></li>
+                            <li>
+                                <a href="#">About</a>
+                                <ul class="dropdown">
+                                    <li><a href="about-robjam1990.html">About robjam1990</a></li>
+                                    <li><a href="notice-board.html">Notice Board</a></li>
+                                    <li><a href="encyclopedia.html">Encyclopedia</a></li>
+                                    <li><a href="speak-with-ai.html">Speak with an AI</a></li>
+                                    <li><a href="contact-human.html">Contact a Human</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="partnerships.html">Partnerships and Considerations</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="left-sidebar.html">Left Sidebar</a></li>
+                    <li><a href="right-sidebar.html">Right Sidebar</a></li>
+                    <li><a href="no-sidebar.html">No Sidebar</a></li>
+                </ul>
+            </nav>
+        </div>
+        <form>
+            <fieldset>
+                <legend>Feedback form</legend>
+          <div>
+            <label for="fname">First name: </label>
+            <input id="fname" name="fname" type="text" required />
+          </div>
+          <div>
+            <label for="lname">Last name: </label>
+            <input id="lname" name="lname" type="text" required />
+          </div>
+          <div>
+            <label for="email">
+                Email address (include if you want a response):
+            </label>
+            <input id="email" name="email" type="email" />
+        </div>
+        <div><button>Submit</button></div>
+    </fieldset>
+</form>
+</header>
+    <section id="banner">
+        <div class="container">
+            <h2>Psychosis</h2>
+            <span>Design by robjam1990</span>
+            <p>Psychosis is a Contextual based game created by Robert James Newell of robjam1990.</p>
+        </div>
+    </section>
+    <canvas id="game"></canvas>
+    <script>
+        function Game() {
+            this.canvas = document.getElementById("game");
+            this.start = function() {
                 this.canvas.width = 600;
                 this.canvas.height = 600;
                 this.context = this.canvas.getContext("2d");
                 this.interval = setInterval(gameTick, 20);
-              }
-              
-              this.clear = function() {
+            }
+            this.clear = function() {
                 this.context.clearRect(0, 0, this.canvas.width, this.canvas.height);
-              }
             }
-
-            function Player(color, x, y) {
-                this.x = x;
-                this.y = y;
-              
-                this.update = function() {
-                    this.move(mouseState);
-                    var context = game.context;
-                    context.fillStyle = color;
-                    context.beginPath();
-                    context.arc(this.x, this.y, 16, 0, 2 * Math.PI);
-                    context.fill();
+        }
+        function Player(color, x, y, z) {
+            this.x = x;
+            this.y = y;
+            this.z = z;
+            this.update = function() {
+                this.move(mouseState);
+                var context = game.context;
+                context.fillStyle = color;
+                context.beginPath();
+                context.arc(this.x, this.y, this.z, 16, 0, 2 * Math.PI);
+                context.fill();
+            }
+            this.move = function(event) {
+                if (event == null) {
+                    return;
                 }
-                
-                this.move = function(event) {
-                    if (event == null) {
-                        return;
-                    }
-                    var x = event.clientX;
-                    var y = event.clientY;
-                    if (x < player.x && x > 0) {
-                        player.x = player.x - 2;
-                    } else if (x > player.x && x < game.canvas.width) {
-                        player.x = player.x + 2;
-                    }
-                    if (y < player.y && y > 0) {
-                        player.y = player.y - 2;
-                    } else if (y > player.y && y < game.canvas.width) {
-                        player.y = player.y + 2;
-                    }
+                var x = event.clientX;
+                var y = event.clientY;
+                if (x < player.x && x > 0) {
+                    player.x = player.x - 2;
+                } else if (x > player.x && x < game.canvas.width) {
+                    player.x = player.x + 2;
+                }
+                if (y < player.y && y > 0) {
+                    player.y = player.y - 2;
+                } else if (y > player.y && y < game.canvas.width) {
+                    player.y = player.y + 2;
                 }
             }
-            
-            function gameTick() {
-                console.log("tick");
-                game.clear();
-                player.update();
-            }
-            
-            function mouseMove(event) {
-                mouseState = event;
-            }
-            
-            var game = new Game();
-            var player = new Player("red", 300, 300);
-            var mouseState = null;
-            game.start();
-            
-            window.addEventListener("mousemove", mouseMove, false);
-        </script>
-    </body>
+        }
+        function gameTick() {
+            console.log("tick");
+            game.clear();
+            player.update();
+        }
+        function mouseMove(event) {
+            mouseState = event;
+        }
+        var game = new Game();
+        var player = new Player("red", 300, 300, 16);
+        var mouseState = null;
+        game.start();
+        window.addEventListener("mousemove", mouseMove, false);
+    </script>
+    <footer>
+        <div class="copyright">
+            <ul class="menu">
+                <li>&copy; robjam1990. All rights reserved.</li>
+            </ul>
+        </div>
+    </footer>
+</body>
 </html>
