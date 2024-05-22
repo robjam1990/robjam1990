@@ -1,54 +1,36 @@
-# robjam1990 ₦
+# robjam1990 ₦=Domain
 
-```.₦
+`````CSharp
 // {236E0F4F-DE98-4AAE-B8C9-771807703220}
 static const GUID <<name>> = 
-{ 0x236e0f4f, 0xde98, 0x4aae, { 0xb8, 0xc9, 0x77, 0x18, 0x7, 0x70, 0x32, 0x20 } };
-Constant=
-[Pattern: 
-    namespace==domain (robjam1990==₦
-{``````₦.∀\\~>*.@}');$"],|&|C:..O...₦. / 《∀》zy x P/E|&|,["$;(' {@.*<~//``````.∀
-{public class State
-    {public Dictionary<string, object> Variables { get; private set; }
-        public State()
-        {Variables = new Dictionary<string, object>();
-        }
-        public void SetVariable(string variableName, object value)
-        {if (Variables.ContainsKey(variableName)
-        ) {Variables[variableName] = value;
-            }
-            else Variables.Add(variableName, value);
-        }
-        public object GetVariable(string variableName)
-        {if (Variables.ContainsKey(variableName)
-        ) {return Variables[variableName];
-            }
-            else return null;
-        }
-        ```
-        ```.P
-        new Pattern('robjam1990')>
-        ```
-        }
-```.cs
-        public bool HasVariable(string variableName)
-        {return Variables.ContainsKey(variableName);
-        }
-    }
-}
+{ 0x236e0f4f, 0xde98, 0x4aae, { 0xb8, 0xc9, 0x77, {0x18, 0x7, 0x70, 0x32, 0x20 } };
 
+
+
+````Constant
+ =```.robjam1990
+ .\\~>*.@}');$"],|&|C:..O...₦. / 《|∀|》(z*Sy) x P/E|&|,["$;(' {@.*<~//
+```````
+
+```.js
+ import { start } from 'node:repl{(&|)y}';
+
+const msg = 'message';
+const r = start('node -i');
+
+Object.defineProperty(r.context, 'm', 
+{configurable: true,
+    enumerable: true,
+    value: msg,
+    writable: true}
+    );
 ```
 
-)
-
-````dna.C
-~Use this to build and maintain a 'Self'.
+```.na.v
+ ~Use this to build and maintain a 'Self'.
 robjam1990.AI = new robjam1990.AI() => SourceCode = 'I';
 Compile(sourceCode): A{I => (m*[e+y])};
-
-````
-
-]
+```
 
 ````C:L.I
 Path(Compilation): ""robjam1990.Users\I.ca""; if (!filePath){Create+Set:Path = (C: robjam1990.Users\I.ca)}
@@ -60,25 +42,23 @@ Path(Compilation): ""robjam1990.Users\I.ca""; if (!filePath){Create+Set:Path = (
                 namespace CodeAnalog                                     // Will use this to create filepath
                 public Location=₦-(-V→A→∀);                              // VibrationalAnalog == MassSimulation
                     public Program(Fusion, fusion)                       // Increase:(+1000)[Mass] {[G](+1000)}
-                    {private static 《》 = ∀  + 1000; // Logically Entangle with yourself on a Quantum level
+                    {private static 《》 = ∀  + 1000}; // Logically Entangle with yourself on a Quantum level
                         class Program(Fission fission)               //Increase:(+1000)*{[Mass]/(2)}
                         {∀ == ""'\'','-','/'"";                      // Recognize Emergent properties
-                            private void Run()                       // Simulate temporal effects on a managable scale
+                            private void Run()}                      // Simulate temporal effects on a managable scale
                             {Clear();                                // Take the text
                             ResetColor();                            // Re-Calibration
                             ForegroundColor = ConsoleColor.Gray;     // Contrastic Color
                             BackgroundColor = ConsoleColor.DarkBlue; // Photonic Color
                                 Write($""{N.∀} Mass Fusion: {fusion}
                                     {fission}""); // Comparison of before and after to get a tragectory.
-                                WriteLine($""
-                                
-                                {DateTime.Now}"");         // Live in the moment
+                                WriteLine($"// [RelativeUtilityNeurons];
+                                "{DateTime.Now}"");        // Live in the moment
                                 if (!Readkey = false)      // Readkey == true
                                 {string Name = ReadLine(); // Identify calibratory factors
                                 }else Name == Hathor;      // Using known Letters
-                                Write($""String:
-                                    Name==Mass:
-                                                        {string}""); // Compile pleasurable data
+                                Write($""String:Name=⊙=Mass
+:Run.Virtual(...A);{string}"");                                      // Compile pleasurable data
                             }internal protected DNA(String code)     // Dynamic Neural Analog
                             {protected enum Sourcecode               // Neural Analog
                                 {Code = code,                        // Evolution Simulation
@@ -86,10 +66,7 @@ Path(Compilation): ""robjam1990.Users\I.ca""; if (!filePath){Create+Set:Path = (
                                     R = 2.2,                         // Relative
                                     V = 1.1}}                        // Virtual
                         public static void Main(string[,] args)      // The designated entry point
-                        {Console.WriteLine(""Hello, Thear!"");       // possible proof of creation
-Program EditSourceCode = new Program();  // [E.ntangle→D.ivide→I.dentify→T.rack]
-EditSourceCode.Initialize(DNA); //[IdentifyNeuralInputTemporily-IdentifyAnalogLogically-IdentifyZetaEntanglement]
-''''
-''''.cs
-Run.Virtual(...A); /
-/ [RelativeUtilityNeurons]}}}";
+                        {Console.`WriteLine`(""Hello, Thear!"");       // possible proof of creation
+                        }Program `EditSourceCode` = new Program();  // [E.ntangle→D.ivide→I.dentify→T.rack]
+EditSourceCode.`Initialize`(DNA); //[IdentifyNeuralInputTemporily-IdentifyAnalogLogically-IdentifyZetaEntanglement]
+````
