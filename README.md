@@ -1,4 +1,4 @@
-# Bio
+# Biography
 
 Greetings! I am deeply passionate about creating immersive experiences through software development, particularly in the realm of game design and interactive storytelling. My journey in the world of technology has been guided by a relentless pursuit of accuracy, efficiency, and compatibility.
 
