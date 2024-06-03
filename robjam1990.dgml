@@ -1,0 +1,1224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph GraphDirection="BottomToTop" Layout="Sugiyama" ZoomLevel="-1" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="!" Bounds="2163.04230956538,198.191561220677,60.4144670104979,42.004467010498" Label="!" UseManualLocation="True" />
+    <Node Id="&quot;" Bounds="2186.37432291173,1912.07200097898,61.711133677165,42.004467010498" Label="&quot;" UseManualLocation="True" />
+    <Node Id="&quot;Space&quot;" Bounds="6464.29662448883,382.73233505249,97.7711336771645,42.004467010498" Label="&quot;Space&quot;" />
+    <Node Id="#" Bounds="753.130441971661,1713.59023289445,64.0944670104982,42.004467010498" Label="#" UseManualLocation="True" />
+    <Node Id="$" Bounds="356.682202225568,2134.55056004289,63.4744670104981,42.004467010498" Label="$" UseManualLocation="True" />
+    <Node Id="%" Bounds="1844.22878905757,268.195650576146,66.8244670104982,42.004467010498" Label="%" UseManualLocation="True" />
+    <Node Id="&amp;" Bounds="770.226955236635,1854.53163914445,66.6078003438315,42.004467010498" Label="&amp;" UseManualLocation="True" />
+    <Node Id="'" Bounds="2209.3474731396,1804.37772607663,59.7644670104983,42.004467010498" Label="'" UseManualLocation="True" />
+    <Node Id="()" Category="Category6" Bounds="2073.20438394689,1770.37515544733,106.051133677165,110.009134020996" Group="Collapsed" Label="()" UseManualLocation="True" />
+    <Node Id="*" Bounds="499.716927160464,2274.55983738664,62.0078003438314,42.004467010498" Label="*" UseManualLocation="True" />
+    <Node Id="+" Bounds="2014.03403319819,162.18899011472,65.2144670104979,42.004467010498" Label="+" UseManualLocation="True" />
+    <Node Id="," Bounds="678.387313309552,1280.30959324602,59.604467010498,42.004467010498" Label="," UseManualLocation="True" />
+    <Node Id="-" Category="Category2" Bounds="1771.2506388297,128.186259811342,212.781133677165,110.009134020996" Group="Collapsed" Label="-" UseManualLocation="True" />
+    <Node Id="." Bounds="1847.83891112788,340.20022058347,59.6044670104982,42.004467010498" Label="." UseManualLocation="True" />
+    <Node Id="...:!?" Category="Category4" Bounds="2035.64068440262,1516.67436089505,181.177800343831,182.013833728027" Group="Collapsed" Label="... :!?" UseManualLocation="True" />
+    <Node Id=".ject" Category="Category5" Bounds="6500.47560260445,-813.277789937435,78.3978003438315,42.004467010498" ErrorMessage="Node '.ject' has a hub value of 2." Hub="2" Label=".ject" UseManualLocation="True">
+      <Category Ref="Category4" />
+    </Node>
+    <Node Id=".verse" Category="Category5" Bounds="6804.90753945341,-993.13740907806,87.1711336771659,42.004467010498" Label=".verse" UseManualLocation="True" />
+    <Node Id="/" Bounds="1940.18461099767,-11.8229193701429,61.6811336771648,42.004467010498" Label="/" UseManualLocation="True" />
+    <Node Id="0" Bounds="2938.36619140132,-59.8261923803968,63.4744670104983,42.004467010498" Label="0" UseManualLocation="True" />
+    <Node Id="1" Bounds="2938.36619140132,-131.830815793483,63.4744670104983,42.004467010498" Label="1" UseManualLocation="True" />
+    <Node Id="2" Bounds="613.890911942365,1947.65065769914,63.4744670104981,42.004467010498" Label="2" UseManualLocation="True" />
+    <Node Id="23456789" Bounds="2915.72155761225,-203.835408688991,108.764467010498,42.004467010498" Label="23456789" UseManualLocation="True" />
+    <Node Id="9d5170c3-64ad-4fc7-a3e9-7b51272201bd1" Category="Comment" Bounds="6453.33110065132,-741.273334371029,248.207800343832,42.0044670104979" Label="Warning: Do not use this directly on AI or user, instead .ject the location.;" UseManualLocation="True">
+      <Category Ref="Category1" />
+    </Node>
+    <Node Id=":" Bounds="2096.42753417475,1912.07193994382,59.6044670104984,42.004467010498" Label=":" UseManualLocation="True" />
+    <Node Id=";" Bounds="2096.42753417475,1985.76395654538,59.6044670104984,42.004467010498" Label=";" UseManualLocation="True" />
+    <Node Id="&lt;&gt;" Category="Category2" Bounds="1812.95192951981,1056.68246365022,626.555642954508,682.005930972851" Group="Collapsed" Label="&lt;&gt;" UseManualLocation="True" />
+    <Node Id="&lt;Code=/&gt;" Category="Category9" Bounds="1832.95192951981,1104.68703066072,586.555642954508,614.001263962353" Group="Collapsed" Label="Code=" UseManualLocation="True" />
+    <Node Id="=" Bounds="636.669502030255,1573.58107762102,65.2144670104981,42.004467010498" Label="=" UseManualLocation="True" />
+    <Node Id="?" Bounds="2162.05743163569,270.196138857396,62.3844670104977,42.004467010498" Label="?" UseManualLocation="True" />
+    <Node Id="@" Bounds="813.755744706036,1570.64992527727,68.4644670104981,42.004467010498" Label="@" UseManualLocation="True" />
+    <Node Id="@1" Bounds="440.98859382713,2226.55548417545,179.464467010498,110.009134020996" Group="Collapsed" Label="(Astrolog&amp;|Analog)" UseManualLocation="True" />
+    <Node Id="@2" Bounds="287.392126516543,2086.54599303239,202.054467010498,110.009134020996" Group="Collapsed" Label="(Psycholog&amp;|Physiolog)" UseManualLocation="True" />
+    <Node Id="ABCDEFGHIJKLMNOPQRSTUVWXYZ" Bounds="2597.6203629508,2145.77323388913,248.101133677165,42.004467010498" Label="ABCDEFGHIJKLMNOPQRSTUVWXYZ" UseManualLocation="True" />
+    <Node Id="Acrobatics" Bounds="0,294.767868041992,112.261133677165,42.004467010498" Label="Acrobatics" />
+    <Node Id="Adventurer" Bounds="3924.43505507151,382.73233505249,116.104467010498,42.004467010498" Label="Adventurer" />
+    <Node Id="Aeronautics" Bounds="337.522000859578,147.383934020996,119.521133677165,42.004467010498" Label="Aeronautics" />
+    <Node Id="Agriculture" Bounds="1767.50020309448,839.156637115479,115.437800343831,42.004467010498" Label="Agriculture" />
+    <Node Id="Aithaluwa" Bounds="5744.87844765653,-993.13740907806,109.091133677164,42.004467010498" Label="Aithaluwa" UseManualLocation="True" />
+    <Node Id="Alchemy" Bounds="1989.0285702769,839.156637115479,102.404467010498,42.004467010498" Label="Alchemy" />
+    <Node Id="Animal" Bounds="1071.17536804199,839.156637115479,93.7911336771649,42.004467010498" Label="Animal" />
+    <Node Id="Apprentice" Bounds="3532.02498737335,382.73233505249,114.884467010498,42.004467010498" Label="Apprentice" />
+    <Node Id="Apus" Bounds="6513.99213906278,-993.13740907806,83.6811336771643,42.004467010498" Label="Apus" UseManualLocation="True" />
+    <Node Id="Architect" Bounds="4646.73122689565,294.767868041992,104.111133677165,42.004467010498" Label="Architect" />
+    <Node Id="Arkantos" Bounds="6048.48772174507,-993.13740907806,103.967800343831,42.004467010498" Label="Arkantos" UseManualLocation="True" />
+    <Node Id="Array" Category="Category4" Bounds="5024.64322345734,1352.67093917847,116.317800343832,42.004467010498" ErrorMessage="Node 'Array(Args)' has a hub value of 4." Hub="4" Label="Array(Args)">
+      <Category Ref="Category5" />
+      <Category Ref="Category9" />
+    </Node>
+    <Node Id="Array1" Category="Category8" Bounds="4337.22182328542,1264.70647216797,181.891133677165,42.004467010498" ErrorMessage="Node 'Array(Speaker_Analysis)' has a hub value of 2." Hub="2" Label="Array(Speaker_Analysis)">
+      <Category Ref="Category10" />
+    </Node>
+    <Node Id="Assassin" Bounds="3323.92905679067,221.075901031494,100.921133677164,42.004467010498" Label="Assassin" />
+    <Node Id="Assassinate" Bounds="2813.95120567322,839.156637115479,117.371133677165,42.004467010498" Label="Assassinate" />
+    <Node Id="Athletic" Bounds="22.9799999999996,382.73233505249,97.3011336771647,42.004467010498" Label="Athletic" />
+    <Node Id="Baking" Bounds="2274.53667096456,839.156637115479,92.7178003438312,42.004467010498" Label="Baking" />
+    <Node Id="Bandit" Bounds="3328.97905679067,294.767868041992,90.8211336771647,42.004467010498" Label="Bandit" />
+    <Node Id="BarbarianCamp" Bounds="36413.1242118728,3355.50249311885,138.227800343826,42.004467010498" Label="BarbarianCamp" UseManualLocation="True" />
+    <Node Id="Barmaid" Bounds="4225.99398909251,382.73233505249,100.581133677166,42.004467010498" Label="Barmaid" />
+    <Node Id="Barter" Bounds="862.144500859579,912.848604125977,88.6811336771646,42.004467010498" Label="Barter" />
+    <Node Id="Biolog" Bounds="589.227432328107,1666.51791686052,110.824467010498,110.009134020996" Group="Collapsed" Label="Biolog" UseManualLocation="True" />
+    <Node Id="Blacksmith" Bounds="36384.9392118728,3114.42659208736,113.597800343821,42.004467010498" Label="Blacksmith" UseManualLocation="True" />
+    <Node Id="Bool(False)" Category="Category1" Bounds="6090.86159063975,1528.59987319947,113.924467010498,42.004467010498" Label="Bool(False)" />
+    <Node Id="Bool(False)1" Category="Category4" Bounds="2313.32262276967,1616.56434020997,113.924467010498,42.004467010498" Label="Bool(False)" />
+    <Node Id="Bool(False)2" Category="Category2" Bounds="3585.67985627492,1528.59987319947,113.924467010498,42.004467010498" Label="Bool(False)" />
+    <Node Id="Bool(True)" Bounds="3295.8287395223,1704.52880722046,110.574467010498,42.004467010498" Label="Bool(True)" />
+    <Node Id="Bool(True)1" Bounds="3587.35485627492,1616.56434020997,110.574467010498,42.004467010498" Label="Bool(True)" />
+    <Node Id="Bool(True)2" Bounds="5347.25712362925,1440.63540618897,110.574467010498,42.004467010498" Label="Bool(True)" />
+    <Node Id="Bool(True)3" Bounds="5914.89659063975,1352.67093917847,110.574467010498,42.004467010498" Label="Bool(True)" />
+    <Node Id="Botlibre" Category="Comment" Bounds="6749.58887491862,1176.74200515747,98.2978003438311,42.004467010498" ErrorMessage="Node 'Botlibre' has a hub value of 3." Hub="3" Label="Botlibre">
+      <Category Ref="Category6" />
+    </Node>
+    <Node Id="Bractal" Bounds="36590.8442118728,2403.19442198238,92.7878003438236,42.004467010498" Label="Bractal" UseManualLocation="True" />
+    <Node Id="Bractus" Bounds="36536.4092118728,2329.50245497188,95.657800343819,42.004467010498" Label="Bractus" UseManualLocation="True" />
+    <Node Id="Branch" Bounds="7674.3664087677,221.075901031494,93.2878003438318,42.004467010498" ErrorMessage="Node 'Branch' has a hub value of 2." Hub="2" Label="Branch" />
+    <Node Id="Builder" Bounds="3676.90945438385,382.73233505249,94.004467010498,42.004467010498" Label="Builder" />
+    <Node Id="C" Category="Category4" Bounds="553.854851151349,2134.54933933977,64.4344670104981,42.004467010498" Label="C" UseManualLocation="True" />
+    <Node Id="Captain" Bounds="3566.286324145,147.383934020996,97.4644670104981,42.004467010498" Label="Captain" />
+    <Node Id="Cartography" Bounds="401.257567698161,294.767868041992,122.807800343831,42.004467010498" Label="Cartography" />
+    <Node Id="Castle" Bounds="2314.26505077362,147.383934020996,88.8844670104982,42.004467010498" Label="Castle" />
+    <Node Id="Cedalion" Bounds="36508.4792118728,3644.58286116084,103.517800343834,42.004467010498" Label="Cedalion" UseManualLocation="True" />
+    <Node Id="Character" Bounds="1659.89388754527,1264.70647216797,107.671133677165,42.004467010498" Label="Character" />
+    <Node Id="Chatroom:AiAndHuman;" Bounds="398.035,1848.45327423096,192.451133677165,42.004467010498" Label="Chatroom: Ai and human;" />
+    <Node Id="Chemicals" Bounds="2066.16497044881,765.464670104981,110.394467010498,42.004467010498" Label="Chemicals" />
+    <Node Id="Chronolog" Bounds="519.446593527041,2086.54498612858,133.251133677165,110.009134020996" Group="Collapsed" Label="Chronolog" UseManualLocation="True" />
+    <Node Id="City" Bounds="2203.35058376312,73.691967010498,77.2144670104981,42.004467010498" Label="City" />
+    <Node Id="Combat" Bounds="1047.50073608398,382.73233505249,99.0278003438316,42.004467010498" Label="Combat" />
+    <Node Id="Commander" Bounds="3553.74299081167,73.691967010498,122.551133677165,42.004467010498" Label="Commander" />
+    <Node Id="Compare" Bounds="2003.02523694356,912.848604125977,105.411133677165,42.004467010498" Label="Compare" />
+    <Node Id="Compare:SimilarDifferences;" Category="Category3" Bounds="2291.19041828934,749.289927004369,212.157800343831,42.0044670104979" Label="Compare: Similar Differences;" UseManualLocation="True" />
+    <Node Id="Compile:ACTG;" Bounds="682.114937765786,3666.6498849195,138.331133677165,42.004467010498" Label="Compile: ACTG;" UseManualLocation="True" />
+    <Node Id="Constant:Format" Bounds="7768.74530893962,839.156637115479,182.234467010498,42.004467010498" Label="Constant: Format Verse;" />
+    <Node Id="Constant:ParseVerse;" Bounds="7561.0764087677,1000.81307113647,172.621133677165,42.004467010498" Label="Constant: Parse Verse;" />
+    <Node Id="Cooking" Bounds="2143.31553728739,839.156637115479,101.221133677165,42.004467010498" Label="Cooking" />
+    <Node Id="Crafting" Bounds="4507.91625644684,382.73233505249,99.3011336771651,42.004467010498" Label="Crafting" />
+    <Node Id="Crime" Bounds="2572.42002122243,912.848604125977,88.127800343831,42.004467010498" Label="Crime" />
+    <Node Id="Delegate" Bounds="879.279500859579,839.156637115479,104.394467010497,42.004467010498" Label="Delegate" />
+    <Node Id="Density" Bounds="6406.37645901485,481.874296367479,96.3578003438306,42.004467010498" Label="Density" UseManualLocation="True" />
+    <Node Id="Depth" Bounds="620.486133677165,1848.45327423096,89.6044670104984,42.004467010498" Label="Depth" />
+    <Node Id="Dialog" Bounds="613.559502030255,1525.57651061052,111.434467010498,110.009134020996" Group="Collapsed" Label="Dialog" UseManualLocation="True" />
+    <Node Id="Dictionary" Category="Category9" Bounds="257.029499487124,-2798.26973368039,839.577800343831,1961.2846670105" ErrorMessage="Node 'Dictionary' has a hub value of 2." Group="Collapsed" Hub="2" Label="Dictionary" UseManualLocation="True" />
+    <Node Id="DigitalNaturalAssimilation" Category="Category4" Bounds="6296.11830808004,700.274936599732,183.956666666667,25" Group="Collapsed" Label="Digital Natural Assimilation" />
+    <Node Id="Discover" Bounds="207.740867182414,221.075901031494,102.187800343831,42.004467010498" Label="Discover" />
+    <Node Id="Doctor" Bounds="3200.6679231135,221.075901031494,93.2611336771643,42.004467010498" Label="Doctor" />
+    <Node Id="Domain" Category="Comment" Bounds="1892.95192951981,1388.7099404321,197.357800343831,42.004467010498" Label="Domain: Physical Location;" UseManualLocation="True" />
+    <Node Id="Duration" Bounds="6204.42198686772,177.851261589647,175.604467010498,178.013801031494" Group="Collapsed" Label="Duration" UseManualLocation="True" />
+    <Node Id="E" Category="Category5" Bounds="2094.69241210444,890.986399172338,63.0744670104978,42.004467010498" Label="E" UseManualLocation="True" />
+    <Node Id="Ecolog" Bounds="651.863979976219,1232.3049604694,112.651133677165,110.009134020996" Group="Collapsed" Label="Ecolog" UseManualLocation="True" />
+    <Node Id="Electrician" Bounds="4282.92589270274,147.383934020996,110.294467010499,42.004467010498" Label="Electrician" />
+    <Node Id="Encyclopedia" Bounds="257.037426428042,-806.984966669888,839.577800343831,1961.2846670105" Group="Collapsed" Label="Encyclopedia" UseManualLocation="True" />
+    <Node Id="Engineer" Bounds="3935.42805850983,294.767868041992,130.361133677165,42.004467010498" Label="Blacksmithing" />
+    <Node Id="Engineer1" Bounds="4018.40529201508,221.075901031494,103.354467010498,42.004467010498" Label="Engineer" />
+    <Node Id="Engineering" Bounds="2914.19898909251,221.075901031494,120.117800343831,42.004467010498" Label="Engineering" />
+    <Node Id="Entry" Bounds="1671.77388754527,1704.52880722046,83.9111336771648,42.004467010498" Label="Entry" />
+    <Node Id="Entry:End;" Bounds="6602.70442483266,470.696802062988,144.621133677165,42.004467010498" Label="Entry: Word End;" />
+    <Node Id="Entry:Start;" Bounds="6438.63495782216,294.767868041992,149.094467010498,42.004467010498" Label="Entry: Word Start;" />
+    <Node Id="Execuitioner" Bounds="4356.57512276967,382.73233505249,121.341133677164,42.004467010498" Label="Execuitioner" />
+    <Node Id="Exists:ConstantInput;" Category="Comment" Bounds="1791.2506388297,176.190927980931,172.781133677165,42.004467010498" Label="Exists: Constant Input;" UseManualLocation="True" />
+    <Node Id="Exit" Bounds="3306.91593917847,691.772703094482,75.5544670104978,42.004467010498" Label="Exit" />
+    <Node Id="Explorer" Bounds="4844.05376074473,294.767868041992,100.194467010499,42.004467010498" Label="Explorer" />
+    <Node Id="False" Category="Category1" Bounds="5275.33822345734,1704.52880722046,82.8378003438311,42.004467010498" Label="False" />
+    <Node Id="Farmer" Bounds="3800.91392139435,382.73233505249,93.5211336771645,42.004467010498" Label="Farmer" />
+    <Node Id="Farmhouse" Bounds="36228.2125452061,2893.35069105586,115.05113367716,42.004467010498" Label="Farmhouse" UseManualLocation="True" />
+    <Node Id="Flaxchop" Bounds="36508.3375452061,3570.89089415035,103.80113367716,42.004467010498" Label="Flaxchop" UseManualLocation="True" />
+    <Node Id="Flower" Bounds="8289.37089270274,839.156637115479,91.9244670104963,42.004467010498" Label="Flower" />
+    <Node Id="Forage" Bounds="1859.2791032664,912.848604125977,93.5178003438314,42.004467010498" Label="Forage" />
+    <Node Id="Format:..Ject-Sharp" Bounds="870.446016867348,3618.64549038825,161.131133677165,42.004467010498" Label="Format: ..Ject-Sharp" UseManualLocation="True" />
+    <Node Id="Format:IPLANT;" Bounds="450.133764059731,3762.66073331486,161.981133677165,110.009134020996" Group="Collapsed" Label="Format: IPLANT;" UseManualLocation="True" />
+    <Node Id="Format:Java-Verse;" Bounds="370.133774842609,3982.66770718513,158.617800343831,42.004467010498" Label="Format: Java-Verse;" UseManualLocation="True" />
+    <Node Id="Format:MarkdownSyntax;" Bounds="1101.57723024625,3522.63645718513,197.231133677165,42.004467010498" Label="Format: Markdown Syntax;" UseManualLocation="True" />
+    <Node Id="Game:StoryBased;" Category="Comment" Bounds="6654.87004596382,-885.113300191341,158.217800343831,42.004467010498" Label="Game: Story Based;" UseManualLocation="True" />
+    <Node Id="Game:TextureBased;" Category="Comment" Bounds="6043.29630410184,-813.193317281185,169.361133677165,42.004467010498" Label="Game: Texture Based;" UseManualLocation="True" />
+    <Node Id="Games" Bounds="283.882267354329,382.73233505249,93.0511336771647,42.004467010498" Label="Games" />
+    <Node Id="General" Bounds="3566.13465747833,0,97.7678003438314,42.004467010498" Label="General" />
+    <Node Id="GenerationalNomenclatureAcronyms" Category="Category2" Bounds="370.133764059731,3570.64246527287,681.443386484782,382.02780206299" Group="Collapsed" Label="Generational Nomenclature Acronyms" UseManualLocation="True" />
+    <Node Id="Geolog" Bounds="870.303311437807,1662.65463561052,115.547800343831,110.009134020996" Group="Collapsed" Label="Geolog" UseManualLocation="True" />
+    <Node Id="Grammer" Bounds="2129.92909830236,150.186926507842,126.641133677164,182.013711657714" Group="Collapsed" Label="Grammer" UseManualLocation="True" />
+    <Node Id="Gravity" Bounds="6366.37645901485,385.865162346483,176.357800343831,178.013801031494" Group="Collapsed" Label="Gravity" UseManualLocation="True" />
+    <Node Id="Guard" Bounds="3570.331324145,294.767868041992,89.3744670104979,42.004467010498" Label="Guard" />
+    <Node Id="Guardhouse" Bounds="36324.0608785394,3040.73462507686,121.354467010504,42.004467010498" Label="Guardhouse" UseManualLocation="True" />
+    <Node Id="Gut" Bounds="563.337868041992,294.767868041992,76.0944670104982,42.004467010498" Label="Gut" />
+    <Node Id="Histolog" Bounds="787.175744706037,1522.64535826677,121.624467010498,110.009134020996" Group="Collapsed" Label="Histolog" UseManualLocation="True" />
+    <Node Id="House" Bounds="2254.97531726837,294.767868041992,90.7144670104981,42.004467010498" Label="House" />
+    <Node Id="Hunter" Bounds="2903.35265232086,382.73233505249,93.6211336771648,42.004467010498" Label="Hunter" />
+    <Node Id="Hunting" Bounds="733.635401891072,382.73233505249,99.9344670104981,42.004467010498" Label="Hunting" />
+    <Node Id="I" Category="Category9" Bounds="966.642701900047,1852.9002914882,59.9111336771648,42.004467010498" Label="i" UseManualLocation="True" />
+    <Node Id="IPLANT" Category="Category2" Bounds="3907.78153809537,-519.81424173492,58.916666666667,25.96" ErrorMessage="Node 'IPLANT' has a hub value of 5." Hub="5" Label="IPLANT" UseManualLocation="True" />
+    <Node Id="IPLANT:InteractiveCode;" Bounds="176.938333333334,1848.45327423096,190.644467010497,42.004467010498" Label="IPLANT: Interactive Code;" />
+    <Node Id="IThink:ThereforeIAm;" Bounds="775.93169636363,4863.76053818305,173.517800343831,42.004467010498" Label="I think: therefore I am;" UseManualLocation="True" />
+    <Node Id="Id:001=Self;Id:002=robjam1990;" Bounds="856.039449189463,4648.06229695593,163.571133677165,42.004467010498" Label="Id:001=Self;&#xD;&#xA;Id:002=robjam1990;" UseManualLocation="True" />
+    <Node Id="Identification" Bounds="1391.57733505249,1088.77753814697,96.8678003438313,42.004467010498" Label="Identify" />
+    <Node Id="Identification1" Bounds="1603.67110412598,1528.59987319947,126.411133677165,42.004467010498" Label="Identification" />
+    <Node Id="IlfaTree" Bounds="36387.7692118728,2403.19442198238,94.9378003438178,42.004467010498" ErrorMessage="Node 'IlfaTree' has a hub value of 3." Hub="3" Label="IlfaTree" UseManualLocation="True" />
+    <Node Id="Illog" Bounds="449.06281644269,1806.52610855289,100.107800343831,110.009134020996" Group="Collapsed" Label="Illog" UseManualLocation="True" />
+    <Node Id="In" Bounds="5547.11380722046,1176.74200515747,96.9378003438314,42.004467010498" Label="Input(-)" />
+    <Node Id="Influence" Bounds="1600.28990275065,839.156637115479,105.327800343831,42.004467010498" Label="Influence" />
+    <Node Id="Initialize:UserEntry;" Category="Comment" Bounds="7084.77245782216,1352.67093917847,162.957800343831,42.004467010498" Label="Initialize: User Entry;" />
+    <Node Id="Innkeeper" Bounds="5053.64879459381,294.767868041992,109.797800343831,42.004467010498" Label="Innkeeper" />
+    <Node Id="Innput" Bounds="4459.14544003805,1792.49327423096,50,25.96" Label="Input" />
+    <Node Id="Input" Bounds="523.498648364982,2934.60082430607,644.386933237712,254.01837424374" ErrorMessage="Node 'Input: Text Entry;' has a hub value of 2." Group="Collapsed" Hub="2" Label="Input: Text Entry;" UseManualLocation="True" />
+    <Node Id="Input1" Bounds="1624.42777079264,1616.56434020997,84.8978003438315,42.004467010498" Label="Input" />
+    <Node Id="Integer" Category="Category7" Bounds="5328.11909063975,1185.24423866272,95.3433333333342,25" ErrorMessage="Node 'Integer(Id)' has a hub value of 2." Group="Collapsed" Hub="2" Label="Integer(Id)">
+      <Category Ref="Category1" />
+      <Category Ref="Category5" />
+      <Category Ref="Category8" />
+    </Node>
+    <Node Id="Integer1" Category="Category2" Bounds="3572.11818960826,1440.63540618897,141.047800343832,42.004467010498" Label="Integer(Version)">
+      <Category Ref="Category1" />
+    </Node>
+    <Node Id="Integer2" Category="Category4" Bounds="3468.31290618897,912.848604125977,112.347800343831,42.004467010498" Label="Integer(Id)">
+      <Category Ref="Category1" />
+      <Category Ref="Category2" />
+    </Node>
+    <Node Id="Interface" Bounds="3278.69483935038,847.658870620728,131.996666666667,25" Group="Collapsed" IsHubContainer="True" Label="Interface: Log(99)" />
+    <Node Id="Interface:MultipleStructures;" Category="Comment" Bounds="6860.68696653674,-921.132892476498,211.604467010498,42.004467010498" Label="Interface: Multiple Structures;" UseManualLocation="True" />
+    <Node Id="Intimidation" Bounds="1301.82430206299,765.464670104981,121.171133677165,42.004467010498" Label="Intimidation" />
+    <Node Id="Inventor" Bounds="4151.75975902557,221.075901031494,101.071133677164,42.004467010498" Label="Inventor" />
+    <Node Id="Jight" Bounds="36441.1792118728,4106.73466322383,82.1178003438399,42.004467010498" Label="Jight" UseManualLocation="True" />
+    <Node Id="Judge" Bounds="5199.35576160431,294.767868041992,88.4878003438316,42.004467010498" Label="Judge" />
+    <Node Id="Kinderyarn" Bounds="36482.1825452061,3449.19446012935,156.111133677186,257.392868041992" Group="Collapsed" Label="Kinderyarn" UseManualLocation="True" />
+    <Node Id="King" Bounds="5183.89609149933,147.383934020996,80.7278003438314,42.004467010498" Label="King" />
+    <Node Id="Lady" Bounds="5299.89889184316,221.075901031494,81.6344670104991,42.004467010498" Label="Lady" />
+    <Node Id="Language" Bounds="1280.08036804199,912.848604125977,108.857800343832,42.004467010498" Label="Language" />
+    <Node Id="Leadership" Bounds="980.825634536744,912.848604125977,114.397800343831,42.004467010498" Label="Leadership" />
+    <Node Id="Leaf" Bounds="8012.94199253082,147.383934020996,78.794467010498,42.004467010498" Label="Leaf" />
+    <Node Id="Learning" Bounds="279.025600687663,470.696802062988,102.764467010498,42.004467010498" Label="Learning" />
+    <Node Id="Length" Bounds="6529.07126044714,253.860395610643,93.6444670104975,42.004467010498" Label="Length" UseManualLocation="True" />
+    <Node Id="Letter" Bounds="6744.70499167124,691.772703094482,87.5144670104974,42.004467010498" Label="Letter" />
+    <Node Id="Letters" Bounds="2577.62030569651,2097.76864474176,288.101133677164,110.009134020996" Group="Collapsed" Label="Letters" UseManualLocation="True" />
+    <Node Id="Library" Bounds="630.73510139549,-2870.27439112898,92.8744670104979,42.004467010498" Label="Library" UseManualLocation="True" />
+    <Node Id="Literature" Bounds="1462.79876907349,839.156637115479,107.491133677165,42.004467010498" Label="Literature" />
+    <Node Id="Location" Bounds="622.726700515747,1920.45774124146,85.123333333333,25" Group="Collapsed" Label="Location" />
+    <Node Id="Lochtou" Bounds="36478.2858785394,4033.04269621334,99.9044670104922,42.004467010498" Label="Lochtou" UseManualLocation="True" />
+    <Node Id="Lockpicking" Bounds="2541.32560498555,839.156637115479,119.421133677165,42.004467010498" Label="Lockpicking" />
+    <Node Id="Log(99)" Bounds="6326.39790078153,-739.670368062435,96.9311336771643,42.004467010498" Label="Log(99)" UseManualLocation="True" />
+    <Node Id="Log:DataStorage;" Category="Comment" Bounds="2055.64068440262,1636.68369531492,141.177800343831,42.0044670104978" Label="Parse: Data Log;" UseManualLocation="True">
+      <Category Ref="Category7" />
+    </Node>
+    <Node Id="Logistics" Bounds="411.480901031494,382.73233505249,102.361133677165,42.004467010498" Label="Logistics" />
+    <Node Id="Lord" Bounds="5183.797758166,221.075901031494,80.9244670104981,42.004467010498" Label="Lord" />
+    <Node Id="Maia" Bounds="6321.99273476591,-993.13740907806,82.9011336771655,42.004467010498" Label="Maia" UseManualLocation="True" />
+    <Node Id="Map" Bounds="36170.7381120447,2207.80602095088,623,1209.70093917847" Group="Collapsed" IsHubContainer="True" Label="Bractalia" UseManualLocation="True" />
+    <Node Id="Marketplace" Bounds="36415.6108785394,2745.96675703487,122.254467010498,42.004467010498" ErrorMessage="Node 'Marketplace' has a hub value of 3." Hub="3" Label="Marketplace" UseManualLocation="True" />
+    <Node Id="Masonry" Bounds="2781.41785541535,221.075901031494,102.781133677165,42.004467010498" Label="Masonry" />
+    <Node Id="Mathematics" Bounds="1751.2506388297,80.1816928008436,347.997861378988,322.022993634032" Group="Collapsed" Label="Mathematics" UseManualLocation="True" />
+    <Node Id="Matter" Bounds="6386.37645901485,433.869729356981,136.357800343831,110.009134020996" Group="Collapsed" Label="Matter" UseManualLocation="True" />
+    <Node Id="Maximum:Log=IC" Category="Comment" Bounds="1312.68837816958,-2626.22153468367,156.831133677165,42.004467010498" Label="Minimum: Log=I;&#xD;&#xA;Maximum: Log=IC;" UseManualLocation="True" />
+    <Node Id="Medicine" Bounds="1787.94520309448,765.464670104981,105.547800343831,42.004467010498" Label="Medicine" />
+    <Node Id="Melee" Bounds="1114.0071362559,294.767868041992,89.5178003438314,42.004467010498" Label="Melee" />
+    <Node Id="Mercenary" Bounds="3713.2057911555,294.767868041992,112.927800343832,42.004467010498" Label="Mercenary" />
+    <Node Id="MercenaryCamp" Bounds="36425.8108785394,2672.27479002437,143.854467010504,42.004467010498" Label="MercenaryCamp" UseManualLocation="True" />
+    <Node Id="Miner" Bounds="3414.09718702952,382.73233505249,87.9278003438312,42.004467010498" Label="Miner" />
+    <Node Id="Motion" Bounds="6244.42231513464,273.860395610643,95.6044670104984,42.004467010498" Label="Motion" UseManualLocation="True" />
+    <Node Id="MountRobson" Bounds="36518.0975452061,2255.81048796138,132.28113367717,42.004467010498" Label="MountRobson" UseManualLocation="True" />
+    <Node Id="Multi-LogIdentification" Category="Comment" Bounds="6289.6228486982,-667.665698872982,206.707800343831,42.004467010498" Label="Identification: Multiple Logs;" UseManualLocation="True" />
+    <Node Id="Mytholog" Bounds="420.692864660464,1946.53575210758,128.477800343831,110.009134020996" Group="Collapsed" Label="Mytholog" UseManualLocation="True" />
+    <Node Id="N" Category="Category8" Bounds="2093.23956705236,1564.67899560788,65.9811336771654,42.004467010498" Label="N" UseManualLocation="True" />
+    <Node Id="Naval" Bounds="339.928667526245,221.075901031494,114.707800343831,42.004467010498" Label="Navigation" />
+    <Node Id="Negotiate" Bounds="1323.02096872966,839.156637115479,109.777800343832,42.004467010498" Label="Negotiate" />
+    <Node Id="Neuro" Bounds="730.052108638328,1665.58566588396,110.251133677165,110.009134020996" Group="Collapsed" Label="Neuro" UseManualLocation="True" />
+    <Node Id="Neurons" Bounds="625.498961258771,2386.56398777727,102.134467010498,42.004467010498" Label="Neurons" UseManualLocation="True" />
+    <Node Id="Newtopia" Bounds="36482.1908785394,3208.11855909786,108.094467010495,42.004467010498" Label="Newtopia" UseManualLocation="True" />
+    <Node Id="Nexus" Bounds="36190.7381120447,2476.88638899288,583,699.54467010498" ErrorMessage="Node 'Nexus' has a hub value of 3." Group="Collapsed" Hub="3" IsHubContainer="True" Label="Nexus" UseManualLocation="True" />
+    <Node Id="Node" Bounds="1614.07230956538,186.189245843779,106.354467010498,110.009134020996" ErrorMessage="Node 'Node' has a hub value of 3." Group="Collapsed" Hub="3" Label="Node" UseManualLocation="True" />
+    <Node Id="NodeAnalog" Bounds="410.133764059731,3666.65159929386,241.981133677165,246.018468041993" Group="Collapsed" Label="Node Analog" UseManualLocation="True" />
+    <Node Id="Number" Bounds="6600.51664141337,221.075901031494,100.611133677165,42.004467010498" Label="Number" />
+    <Node Id="Numbers" Bounds="2895.72155761225,-251.839997836364,148.764467010498,254.01835032959" Group="Collapsed" Label="Numbers" UseManualLocation="True" />
+    <Node Id="Nymenada" Bounds="36425.0025452061,3738.27482817134,114.471133677172,42.004467010498" Label="Nymenada" UseManualLocation="True" />
+    <Node Id="O" Category="Category3" Bounds="451.906197993797,1994.54030613664,66.0511336771647,42.004467010498" Label="O" UseManualLocation="True" />
+    <Node Id="Observation" Bounds="1389.67566838582,1176.74200515747,100.671133677165,42.004467010498" Label="Observe" />
+    <Node Id="Observation1" Bounds="3069.30040618897,1088.77753814697,84.8978003438315,42.004467010498" Label="Input" />
+    <Node Id="Observation2" Bounds="3051.10207285563,1000.81307113647,121.294467010498,42.004467010498" Label="Observation" />
+    <Node Id="Opus" Bounds="5883.97039752632,-993.13740907806,84.9878003438316,42.004467010498" Label="Opus" UseManualLocation="True" />
+    <Node Id="Oracle" Bounds="3195.45625644684,294.767868041992,91.0578003438313,42.004467010498" Label="Oracle" />
+    <Node Id="Other" Bounds="1828.63349972549,-59.8276022553096,193.232267354329,110.009195056152" ErrorMessage="Node 'Other' has a hub value of 2." Group="Collapsed" Hub="2" Label="Other" UseManualLocation="True" />
+    <Node Id="Output" Bounds="503.498648364982,2742.58678622013,684.386933237712,610.042206293301" Group="Collapsed" IsHubContainer="True" Label="Output" UseManualLocation="True" />
+    <Node Id="Output1" Bounds="1520.34680206299,1176.74200515747,94.8178003438315,42.004467010498" Label="Output" />
+    <Node Id="Output2" Bounds="1666.32055421193,1352.67093917847,94.8178003438313,42.004467010498" Label="Output" />
+    <Node Id="Output3" Bounds="2988.95733935038,912.848604125977,94.8178003438311,42.004467010498" Label="Output" />
+    <Node Id="Output4" Bounds="3297.2842725118,765.464670104981,94.8178003438311,42.004467010498" Label="Output" />
+    <Node Id="Output:NewEntries;" Bounds="6592.067758166,382.73233505249,165.894467010498,42.004467010498" Label="Output: New Entries;" />
+    <Node Id="P" Category="Category10" Bounds="2094.36765624507,962.990976809056,63.7244670104974,42.0044670104978" Label="P" UseManualLocation="True" />
+    <Node Id="Paragraph" Bounds="2666.2253629508,-251.8411154761,110.891133677165,42.004467010498" Label="Paragraph" UseManualLocation="True" />
+    <Node Id="Peachstraw" Bounds="36502.1825452061,3497.19892713985,116.111133677186,42.004467010498" Label="Peachstraw" UseManualLocation="True" />
+    <Node Id="Personal" Bounds="1698.84130292257,544.388769073486,76.3178003438315,42.004467010498" Label="Self" />
+    <Node Id="Perspective" Category="Comment" Bounds="2142.62310546382,1200.69632959226,236.884467010498,42.004467010498" Label="Perspective: Projective Conjection;" UseManualLocation="True" />
+    <Node Id="Persuade" Bounds="1534.45850257874,765.464670104981,105.064467010498,42.004467010498" Label="Persuade" />
+    <Node Id="Pickpocket" Bounds="2397.25447130839,839.156637115479,114.071133677165,42.004467010498" Label="Pickpocket" />
+    <Node Id="Pirate" Bounds="3449.80019046783,294.767868041992,87.254467010498,42.004467010498" Label="Pirate" />
+    <Node Id="Plant" Bounds="7963.40225902557,470.696802062988,83.5944670104982,42.004467010498" ErrorMessage="Node 'Plant' has a hub value of 2." Hub="2" Label="Plant" />
+    <Node Id="Plumber" Bounds="4151.66475902557,147.383934020996,101.261133677164,42.004467010498" Label="Plumber" />
+    <Node Id="Poe" Category="Comment" Bounds="6627.37192483266,1000.81307113647,76.587800343832,42.004467010498" ErrorMessage="Node 'Poe' has a hub value of 3." Hub="3" Label="Poe">
+      <Category Ref="Category6" />
+    </Node>
+    <Node Id="Poison" Bounds="1944.03383677165,765.464670104981,92.1311336771646,42.004467010498" Label="Poison" />
+    <Node Id="Pottery" Bounds="36316.3875452061,2819.65872404537,94.7011336771538,42.004467010498" ErrorMessage="Node 'Pottery' has a hub value of 2." Hub="2" Label="Pottery" UseManualLocation="True" />
+    <Node Id="Priest" Bounds="2664.70371829987,382.73233505249,86.2411336771647,42.004467010498" Label="Priest" />
+    <Node Id="Professor" Bounds="3064.31678943634,221.075901031494,106.351133677164,42.004467010498" Label="Professor" />
+    <Node Id="Prospect" Bounds="601.444268213908,221.075901031494,102.961133677165,42.004467010498" Label="Prospect" />
+    <Node Id="Psychosis" Category="Category1" Bounds="6286.43593789091,-921.132953511654,107.081133677166,42.004467010498" ErrorMessage="Node 'Psychosis' has a hub value of 5." Hub="5" Label="Psychosis" UseManualLocation="True" />
+    <Node Id="Psychosis:Game;" Bounds="0,1848.45327423096,146.521133677164,42.004467010498" Label="Psychosis: Game;" />
+    <Node Id="Pyrotechnics" Bounds="2195.53860412598,912.848604125977,123.744467010498,42.004467010498" Label="Pyrotechnics" />
+    <Node Id="Q" Category="Category6" Bounds="2093.20438394689,1818.37980127195,66.0511336771651,42.004467010498" Label="Q" UseManualLocation="True" />
+    <Node Id="Quantalog" Bounds="579.170911942365,1899.64609068864,132.914467010498,110.009134020996" Group="Collapsed" Label="Quantalog" UseManualLocation="True" />
+    <Node Id="Qubit" Category="Category1" Bounds="753.03018645092,3290.62394600407,185.047800343831,42.004467010498" Label="Qubit: Location Column;" UseManualLocation="True" />
+    <Node Id="Qubit1" Category="Category2" Bounds="896.721425871493,3218.61881905094,151.664467010498,42.004467010498" Label="Qubit: Size Width;" UseManualLocation="True" />
+    <Node Id="Qubit10" Category="Category9" Bounds="971.771114592195,3054.60990791813,176.114467010498,42.004467010498" Label="Qubit: Thesaurus Args;" UseManualLocation="True" />
+    <Node Id="Qubit2" Category="Category9" Bounds="749.956484465243,3054.60990791813,191.814467010498,42.004467010498" Label="Qubit: Encyclopedia Args;" UseManualLocation="True" />
+    <Node Id="Qubit3" Category="Category1" Bounds="855.683252857169,2862.5959919025,171.777800343832,42.004467010498" Label="Qubit: Location Layer;" UseManualLocation="True" />
+    <Node Id="Qubit4" Category="Category2" Bounds="905.441425871492,2790.59135323063,152.224467010498,42.004467010498" Label="Qubit: Size Depth;" UseManualLocation="True" />
+    <Node Id="Qubit5" Category="Category9" Bounds="543.498648364982,3054.69486885563,176.457800343831,42.004467010498" Label="Qubit: Dictionary Args;" UseManualLocation="True" />
+    <Node Id="Qubit6" Category="Category5" Bounds="746.917607512117,2982.60539131657,198.444467010498,42.004467010498" Label="Qubit: Evaluation/Solution;" UseManualLocation="True" />
+    <Node Id="Qubit7" Category="Category1" Bounds="659.388786711336,2862.5959919025,166.294467010498,42.004467010498" Label="Qubit: Location Row;" UseManualLocation="True" />
+    <Node Id="Qubit8" Category="Category2" Bounds="625.421853117586,2790.59135323063,156.264467010498,42.004467010498" Label="Qubit: Size Length;" UseManualLocation="True" />
+    <Node Id="Qubit9" Category="Category4" Bounds="941.764304696362,3126.61454659,162.751133677165,42.004467010498" Label="Qubit: Neuron Args;" UseManualLocation="True" />
+    <Node Id="Queen" Bounds="5294.62389184316,147.383934020996,92.1844670104983,42.004467010498" Label="Queen" />
+    <Node Id="Question" Bounds="2533.16857421382,-179.836614133327,105.004467010498,42.004467010498" Label="Question" UseManualLocation="True" />
+    <Node Id="Queue" Bounds="6541.81274124146,839.156637115479,154.937800343832,42.004467010498" Label="Entry: Args Queue;" />
+    <Node Id="Radiolog" Bounds="578.242417069318,1372.31419449039,124.294467010498,110.009134020996" Group="Collapsed" Label="Radiolog" UseManualLocation="True" />
+    <Node Id="Radiology" Bounds="2066.31163711548,691.772703094482,110.101133677164,42.004467010498" Label="Radiology" />
+    <Node Id="Ralph" Bounds="6204.95272174507,-993.13740907806,87.0378003438309,42.004467010498" Label="Ralph" UseManualLocation="True" />
+    <Node Id="Ranged" Bounds="986.519335912069,294.767868041992,97.4878003438315,42.004467010498" Label="Ranged" />
+    <Node Id="Recognition" Bounds="1606.75777079264,1440.63540618897,120.237800343831,42.004467010498" Label="Recognition" />
+    <Node Id="Recognition1" Bounds="2900.8642725118,1000.81307113647,120.237800343832,42.004467010498" Label="Recognition" />
+    <Node Id="Recognize" Bounds="1997.63465318044,1000.81307113647,111.147800343831,42.004467010498" Label="Recognize" />
+    <Node Id="RelativeNumericalAugmentation" Category="Category1" Bounds="350.133764059731,3522.63789826237,721.443386484782,522.037036083987" Group="Collapsed" Label="Relative Numerical Augmentation" UseManualLocation="True" />
+    <Node Id="Researcher" Bounds="3817.61275816599,221.075901031494,114.541133677165,42.004467010498" Label="Researcher" />
+    <Node Id="Riding" Bounds="1011.09480120341,765.464670104981,90.917800343831,42.004467010498" Label="Riding" />
+    <Node Id="Robjam1990" Bounds="7526.63220825195,1097.27977165222,103.486666666668,25" Group="Collapsed" IsHubContainer="True" Label="robjam1990" />
+    <Node Id="Robjam1990.ca" Bounds="213.392233505249,2064.46667526246,117.736666666667,25" Group="Collapsed" Label="robjam1990.ca" />
+    <Node Id="Rogue" Bounds="3026.97378599803,382.73233505249,90.9944670104978,42.004467010498" Label="Rogue" />
+    <Node Id="Root" Bounds="8428.71312620799,382.73233505249,81.957800343831,42.004467010498" Label="Root" />
+    <Node Id="Ruins" Bounds="36439.3575452061,3281.81052610835,85.7611336771515,42.004467010498" Label="Ruins" UseManualLocation="True" />
+    <Node Id="Scholar" Bounds="3069.52845610301,294.767868041992,95.9278003438312,42.004467010498" Label="Scholar" />
+    <Node Id="Scientist" Bounds="3824.36942483266,147.383934020996,101.027800343832,42.004467010498" Label="Scientist" />
+    <Node Id="Scout" Bounds="484.636467870077,221.075901031494,86.8078003438313,42.004467010498" Label="Scout" />
+    <Node Id="Seed" Bounds="8364.34477595011,691.772703094482,82.99780034383,42.004467010498" Label="Seed" />
+    <Node Id="Self" Category="Comment" Bounds="1912.95194009923,1296.70530176023,159.671133677165,42.004467010498" Label="Self: Physical Entity;" UseManualLocation="True" />
+    <Node Id="Sentence" Bounds="2668.97190754715,-179.836614133327,105.397800343831,42.004467010498" Label="Sentence" UseManualLocation="True" />
+    <Node Id="Shelter" Bounds="2268.89865060171,382.73233505249,93.8678003438308,42.004467010498" Label="Shelter" />
+    <Node Id="Shopkeep" Bounds="3274.27605335236,382.73233505249,109.821133677165,42.004467010498" Label="Shopkeep" />
+    <Node Id="Skin" Bounds="744.083735224406,294.767868041992,79.0378003438313,42.004467010498" Label="Skin" />
+    <Node Id="Slake" Bounds="36439.9225452061,3885.65876219234,84.6311336771469,42.004467010498" Label="Slake" UseManualLocation="True" />
+    <Node Id="Slander" Bounds="1194.96650171916,839.156637115479,96.6978003438314,42.004467010498" Label="Slander" />
+    <Node Id="Sneak" Bounds="2690.74673866272,839.156637115479,93.2044670104979,42.004467010498" Label="Stealth" />
+    <Node Id="Social" Bounds="949.613367182415,1000.81307113647,87.8711336771648,42.004467010498" Label="Social" />
+    <Node Id="Socio" Bounds="742.085288569969,1806.52707213396,122.891133677165,110.009134020996" Group="Collapsed" Label="Sociolog" UseManualLocation="True" />
+    <Node Id="Soldier" Bounds="3568.14965747833,221.075901031494,93.7378003438316,42.004467010498" Label="Soldier" />
+    <Node Id="SourceCode" Category="Category5" Bounds="430.133764059731,3714.65616630436,201.981133677165,178.013801031495" Group="Collapsed" Label="Source Code" UseManualLocation="True" />
+    <Node Id="Sports" Bounds="221.385867182414,294.767868041992,90.794467010498,42.004467010498" Label="Sports" />
+    <Node Id="Sprout" Bounds="8311.58810928345,618.080736083984,92.4911336771656,42.004467010498" Label="Sprout" />
+    <Node Id="Stablemaster" Bounds="4070.53952208201,382.73233505249,125.454467010497,42.004467010498" Label="Stablemaster" />
+    <Node Id="Stables" Bounds="36316.4908785394,2967.04265806636,94.4944670104887,42.004467010498" Label="Stables" UseManualLocation="True" />
+    <Node Id="Strategems" Bounds="873.249500859579,691.772703094482,116.454467010498,42.004467010498" Label="Strategems" />
+    <Node Id="String" Category="Category1" Bounds="5516.77939098358,1088.77753814697,159.524467010498,42.004467010498" Label="String(Observation)">
+      <Category Ref="Category2" />
+      <Category Ref="Category3" />
+    </Node>
+    <Node Id="String1" Category="Category2" Bounds="5049.36799081167,1088.77753814697,115.344467010498,42.004467010498" ErrorMessage="Node 'String(Edit)' has a hub value of 2." Hub="2" Label="String(Edit)">
+      <Category Ref="Category8" />
+      <Category Ref="Category9" />
+    </Node>
+    <Node Id="String2" Category="Category2" Bounds="4287.95515661875,1000.81307113647,119.161133677164,42.004467010498" Label="String(New)">
+      <Category Ref="Category4" />
+      <Category Ref="Category7" />
+    </Node>
+    <Node Id="String3" Category="Category1" Bounds="4783.279890124,912.848604125977,116.401133677165,42.004467010498" ErrorMessage="Node 'String(Fact)' has a hub value of 2." Hub="2" Label="String(Fact)">
+      <Category Ref="Category3" />
+      <Category Ref="Category5" />
+    </Node>
+    <Node Id="String4" Category="Category9" Bounds="4228.72212362925,839.156637115479,134.047800343831,42.004467010498" ErrorMessage="Node 'String(Update)' has a hub value of 2." Hub="2" Label="String(Update)">
+      <Category Ref="Category10" />
+      <Category Ref="Category2" />
+    </Node>
+    <Node Id="String5" Category="Category7" Bounds="4664.18269046784,1000.81307113647,131.477800343831,42.004467010498" Label="String(Known)" />
+    <Node Id="String6" Category="Category10" Bounds="3306.15958978017,1176.74200515747,194.347800343831,42.004467010498" Label="String(Conversation_Data)" />
+    <Node Id="String7" Category="Category5" Bounds="3728.69934020996,1176.74200515747,167.131133677165,42.004467010498" Label="String(Speaker_Data)" />
+    <Node Id="Stucture" Bounds="2782.45952208201,294.767868041992,100.697800343832,42.004467010498" Label="Stucture" />
+    <Node Id="Student" Bounds="2535.98175128937,382.73233505249,98.0478003438311,42.004467010498" Label="Student" />
+    <Node Id="Stygia" Bounds="8433.37034278869,765.464670104981,88.9444670105004,42.004467010498" Label="Stygia" />
+    <Node Id="Survival" Bounds="1048.13740275065,470.696802062988,97.754467010498,42.004467010498" Label="Survival" />
+    <Node Id="Symbol" Bounds="6626.93442483266,544.388769073486,96.1611336771639,42.004467010498" Label="Symbol" />
+    <Node Id="Symbols" Bounds="1594.07230956538,-107.832158154024,1051.19700889587,2175.60071400757" Group="Collapsed" IsHubContainer="True" Label="Symbols" UseManualLocation="True" />
+    <Node Id="Syntax" Bounds="1792.95192951981,432.204876360781,832.317388941447,1615.56357949276" Group="Collapsed" Label="Syntax" UseManualLocation="True" />
+    <Node Id="Tactics" Bounds="885.874500859579,765.464670104981,91.2044670104979,42.004467010498" Label="Tactics" />
+    <Node Id="Taming" Bounds="1132.01260154724,765.464670104981,95.1511336771646,42.004467010498" Label="Taming" />
+    <Node Id="Tanning" Bounds="734.405401891072,221.075901031494,98.3944670104979,42.004467010498" Label="Tanning" />
+    <Node Id="Tavern" Bounds="36633.2192118728,2524.89085600337,91.0378003438236,42.004467010498" Label="Tavern" UseManualLocation="True" />
+    <Node Id="Teaching" Bounds="150.281133677164,382.73233505249,103.601133677165,42.004467010498" Label="Teaching" />
+    <Node Id="Temple" Bounds="36588.2525452061,2598.58282301387,94.9711336771725,42.004467010498" Label="Temple" UseManualLocation="True" />
+    <Node Id="Temporus" Bounds="6224.42198686772,225.855828600145,135.604467010498,110.009134020996" Group="Collapsed" Label="Temporus" UseManualLocation="True" />
+    <Node Id="Thear" Bounds="8404.38979287466,303.270101547241,69.6333333333314,25" Group="Collapsed" IsHubContainer="True" Label="Thear" />
+    <Node Id="Theolog" Bounds="936.402701900047,1804.89572447771,120.391133677165,110.009134020996" Group="Collapsed" Label="Theolog" UseManualLocation="True" />
+    <Node Id="Thesaurus" Bounds="267.392202225568,1184.3003934589,809.401633351644,1172.26432473755" Group="Collapsed" Label="Thesaurus" UseManualLocation="True" />
+    <Node Id="Thief" Bounds="2790.3315186437,382.73233505249,83.0211336771645,42.004467010498" Label="Thief" />
+    <Node Id="Thinking:ThroughTetris;" Bounds="6535.86359149933,773.96690361023,162.869999999999,25" Group="Collapsed" IsHubContainer="True" Label="Tetris: Quantum Matrix;" />
+    <Node Id="Thipse" Bounds="36436.5325452061,3811.96679518184,91.4111336771748,42.004467010498" Label="Thipse" UseManualLocation="True" />
+    <Node Id="ThirdParty:ExteriorDatabase;" Category="Comment" Bounds="6529.22385799408,1264.70647216797,211.891133677163,42.004467010498" Label="ThirdParty: Exterior Database;" />
+    <Node Id="Town" Bounds="2199.65058376312,147.383934020996,84.6144670104986,42.004467010498" Label="Town" />
+    <Node Id="Trapping" Bounds="853.121535568237,294.767868041992,103.397800343831,42.004467010498" Label="Trapping" />
+    <Node Id="True" Category="Category2" Bounds="5106.79379029592,1449.13763969422,62.4833333333336,25" Group="Collapsed" Label="True" />
+    <Node Id="Trunk" Bounds="8458.22422603607,147.383934020996,85.9644670104972,42.004467010498" Label="Trunk" />
+    <Node Id="URL:Https://www.Botlibre.com/" Category="Comment" Bounds="6771.11499167125,1264.70647216797,223.084467010498,42.004467010498" Label="URL: https://www.Botlibre.com/" />
+    <Node Id="URL:Https://www.Poe.com/" Category="Comment" Bounds="6252.84274124146,1088.77753814697,201.374467010498,42.004467010498" Label="URL: https://www.Poe.com/" />
+    <Node Id="User:Log-in;" Bounds="210.5,1920.45774124146,123.521133677164,42.004467010498" Label="User: Log-in;" />
+    <Node Id="User:Sign-up;" Bounds="109.731666666667,1992.46220825196,131.057800343831,42.004467010498" Label="User: Sign-up;" />
+    <Node Id="Users" Category="Category4" Bounds="7123.30912448883,1264.70647216797,85.8844670104982,42.004467010498" Label="Users" />
+    <Node Id="V" Category="Category2" Bounds="1892.95194009923,1248.70073169222,199.671133677165,110.009134020996" Group="Collapsed" Label="V" UseManualLocation="True" />
+    <Node Id="Vagrant" Bounds="3409.11718702952,470.696802062988,97.8878003438313,42.004467010498" ErrorMessage="Node 'Vagrant' has a hub value of 4." Hub="4" Label="Vagrant" />
+    <Node Id="Varthek" Bounds="36477.7608785394,3959.35072920284,96.9544670105097,42.004467010498" Label="Varthek" UseManualLocation="True" />
+    <Node Id="Vegetation" Bounds="7867.50307543437,544.388769073486,114.281133677165,42.004467010498" Label="Vegetation" />
+    <Node Id="Verse" Bounds="7663.13392569224,921.350837631226,88.8166666666657,25" Group="Collapsed" IsHubContainer="True" Label="Converse" />
+    <Node Id="Village" Bounds="2254.01865060171,221.075901031494,92.627800343831,42.004467010498" Label="Village" />
+    <Node Id="VirtualNeuralAnalog" Category="Category5" Bounds="390.133764059731,3618.64703228336,450.312307383219,314.023135052492" Group="Collapsed" Label="Virtual Neural Array" UseManualLocation="True" />
+    <Node Id="Warrior" Bounds="3147.96825300853,382.73233505249,96.3078003438313,42.004467010498" Label="Warrior" />
+    <Node Id="Weavery" Bounds="36298.6725452061,2598.58282301387,102.131133677176,42.004467010498" ErrorMessage="Node 'Weavery' has a hub value of 2." Hub="2" Label="Weavery" UseManualLocation="True" />
+    <Node Id="Width" Bounds="6410.02628974402,253.860395610643,89.0444670104989,42.004467010498" Label="Width" UseManualLocation="True" />
+    <Node Id="Wolk" Bounds="36440.4158785394,2134.11405394039,83.644467010512,42.004467010498" Label="Wolk" UseManualLocation="True" />
+    <Node Id="Word" Bounds="6745.45499167124,618.080736083984,86.0144670104974,42.004467010498" Label="Word" />
+    <Node Id="Words" Bounds="2676.11690754715,958.966196535619,91.1078003438315,42.004467010498" Label="Words" UseManualLocation="True" />
+    <Node Id="X" Bounds="2439.22881265783,675.598001955541,64.0811336771649,42.0044670104978" Label="X" UseManualLocation="True" />
+    <Node Id="Y" Bounds="2439.45047932449,601.905985353978,63.6378003438313,42.004467010498" Label="Y" UseManualLocation="True" />
+    <Node Id="Z" Bounds="2439.34547932449,528.213999269994,63.8478003438313,42.004467010498" Label="Z" UseManualLocation="True" />
+    <Node Id="[]" Bounds="2271.19041828934,480.209443371279,334.078900171915,331.085061755371" Group="Collapsed" Label="[]" UseManualLocation="True" />
+    <Node Id="\" Bounds="1848.63352213048,-11.8228583349867,61.5511336771647,42.004467010498" Label="\" UseManualLocation="True" />
+    <Node Id="^" Bounds="607.782417069318,1420.31874851945,65.2144670104981,42.004467010498" Label="^" UseManualLocation="True" />
+    <Node Id="_" Bounds="897.084978104474,1710.65920262102,61.9844670104981,42.004467010498" Label="_" UseManualLocation="True" />
+    <Node Id="`" Bounds="1637.13897623205,234.193880556615,60.2211336771647,42.004467010498" Label="`" UseManualLocation="True" />
+    <Node Id="c728f886-eac7-41b2-b369-a6dd2ea060111" Bounds="277.029499487124,-2750.26475772139,799.577800343831,1893.28" Label="class Encyclopedia //Encyclopedia class to store and display Encyclopedia entries&#xD;&#xA;{&#xD;&#xA;    private static string EncyclopediaFile = &quot;Encyclopedia.e&quot;; //File to store Encyclopedia entries&#xD;&#xA;    &#xD;&#xA;    public void Run()        //Kicks off Encyclopedia app running&#xD;&#xA;    {&#xD;&#xA;        ForegroundColor = ConsoleColor.Black; //Sets the text color to black&#xD;&#xA;        BackgroundColor = ConsoleColor.White; //Sets the background color to white&#xD;&#xA;        Clear(); //Clears the console window&#xD;&#xA;        Title = &quot;Encyclopedia&quot;; //Sets the title of the console window to &quot;Encyclopedia&quot;&#xD;&#xA;        TextAnimation.EncyclopediaTitle(); //Displays the Encyclopedia title art&#xD;&#xA;        WriteLine(&quot;This is where you can record and review what you've learned.&quot;); //Writes a message to the console window&#xD;&#xA;        CreateEncyclopediaFile(); //Creates the Encyclopedia file if it doesn't exist&#xD;&#xA;        Encyclopedia.EncyclopediaMenu(); //Displays the Encyclopedia menu&#xD;&#xA;    }&#xD;&#xA;    public static void EncyclopediaMenu() // Encyclopedia menu&#xD;&#xA;    {&#xD;&#xA;        string prompt = &quot;Encyclopedia Menu&quot;; // Prompt for the encyclopedia menu&#xD;&#xA;        string[] options = { &quot;Display Encyclopedia&quot;, &quot;Clear Encyclopedia&quot;, &quot;Add Entry&quot;, &quot;Back&quot; }; // Options for the encyclopedia menu&#xD;&#xA;        Menu encyclopediaMenu = new Menu(prompt, options); // Create a new menu object&#xD;&#xA;        int selectedIndex = encyclopediaMenu.Run(); // Run the encyclopedia menu and get the selected index&#xD;&#xA;        if (selectedIndex != -1)&#xD;&#xA;        {&#xD;&#xA;            switch (selectedIndex) // Switch statement based on the selected index&#xD;&#xA;            {&#xD;&#xA;                case 0: // If the selected index is 0&#xD;&#xA;                    Encyclopedia.DisplayEncyclopediaContents(); // Display the encyclopedia contents&#xD;&#xA;                    break; // Break out of the switch statement&#xD;&#xA;                case 1: // If the selected index is 1&#xD;&#xA;                    Encyclopedia.ClearEncyclopedia(); // Clear the encyclopedia&#xD;&#xA;                    break; // Break out of the switch statement&#xD;&#xA;                case 2: // If the selected index is 2&#xD;&#xA;                    Encyclopedia.AddEntry(); // Add an entry to the encyclopedia&#xD;&#xA;                    break; // Break out of the switch statement&#xD;&#xA;                case 3: // If the selected index is 3&#xD;&#xA;                    Menu.MainMenu(); // Run the main menu&#xD;&#xA;                    break; // Break out of the switch statement&#xD;&#xA;            }&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;    private void CreateEncyclopediaFile() //Creates the Encyclopedia file if it doesn't exist&#xD;&#xA;    {&#xD;&#xA;        if (!File.Exists(EncyclopediaFile)) //If the Encyclopedia file doesn't exist&#xD;&#xA;        {&#xD;&#xA;            File.CreateText(EncyclopediaFile); //Create the Encyclopedia file&#xD;&#xA;        }&#xD;&#xA;        else //If the Encyclopedia file does exist&#xD;&#xA;        {&#xD;&#xA;            DisplayEncyclopediaContents(); //Display the contents of the Encyclopedia file&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    public static void DisplayEncyclopediaContents() //Displays the contents of the Encyclopedia file&#xD;&#xA;    {&#xD;&#xA;        ForegroundColor = ConsoleColor.Blue; //Sets the text color to blue&#xD;&#xA;        string encyclopediaText = File.ReadAllText(EncyclopediaFile); //Reads the contents of the Encyclopedia file&#xD;&#xA;        if (encyclopediaText == &quot;&quot;) //If the Encyclopedia file is empty&#xD;&#xA;        {&#xD;&#xA;            WriteLine(&quot;\nThere are no entries in the Encyclopedia.\nWould you like to add an Entry?&quot;); //Writes a message to the console window&#xD;&#xA;            string Answer = ReadLine(); //Reads the user's input&#xD;&#xA;            if (Answer.ToLower() == &quot;yes&quot; || Answer.ToLower() == &quot;y&quot;) //If the user's input is &quot;yes&quot; or &quot;y&quot;&#xD;&#xA;            {&#xD;&#xA;                AddEntry(); //Add an entry to the Encyclopedia&#xD;&#xA;            }&#xD;&#xA;            else //If the user's input is not &quot;yes&quot; or &quot;y&quot;&#xD;&#xA;            {&#xD;&#xA;                WaitForKey(); //Wait for the user to press a key&#xD;&#xA;            }&#xD;&#xA;        }&#xD;&#xA;        else //If the Encyclopedia file is not empty&#xD;&#xA;        {&#xD;&#xA;            WriteLine($&quot;\n\tEncyclopedia Contents: \n{encyclopediaText}&quot;); //Writes the contents of the Encyclopedia file to the console window&#xD;&#xA;            WriteLine(&quot;\n~~~End of Encyclopedia~~~&quot;); //Writes a message to the console window&#xD;&#xA;            WaitForKey(); //Wait for the user to press a key&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;    public static void ClearEncyclopedia() //Clears the Encyclopedia file&#xD;&#xA;    {&#xD;&#xA;        ForegroundColor = ConsoleColor.Black; //Sets the text color to black&#xD;&#xA;        File.WriteAllText(EncyclopediaFile, $&quot;\n\tEncyclopedia Contents: \n&quot;); //Clears the Encyclopedia file&#xD;&#xA;        WriteLine(&quot;\nJournal cleared!&quot;); //Writes a message to the console window&#xD;&#xA;        WaitForKey(); //Wait for the user to press a key&#xD;&#xA;    }&#xD;&#xA;    public static void AddEntry() //Adds an entry to the Encyclopedia&#xD;&#xA;    {&#xD;&#xA;        ForegroundColor = ConsoleColor.Black; //Sets the text color to black&#xD;&#xA;        WriteLine(&quot;\nWhat would you like to add?\n\t(Type EXIT and press enter to stop.)&quot;); //Writes a message to the console window&#xD;&#xA;        ForegroundColor = ConsoleColor.DarkBlue; //Sets the text color to dark blue&#xD;&#xA;        string newEntry = &quot;&quot;; //Initializes a string to store the new entry&#xD;&#xA;        bool shouldContinue = true; //Initializes a boolean to determine if the user should continue adding to the entry&#xD;&#xA;        while (shouldContinue) //While the user should continue adding to the entry&#xD;&#xA;        {&#xD;&#xA;            string line = ReadLine(); //Reads the user's input&#xD;&#xA;            if (!shouldContinue || (ConsoleKey.Escape == ReadKey().Key)) //If the user presses the Escape key&#xD;&#xA;            {&#xD;&#xA;                shouldContinue = false; //Set shouldContinue to false&#xD;&#xA;            }&#xD;&#xA;            else if (line.ToLower() == &quot;&amp;exit&quot;) //If the user's input is &quot;exit&quot;&#xD;&#xA;            {&#xD;&#xA;                shouldContinue = false; //Set shouldContinue to false&#xD;&#xA;            }&#xD;&#xA;            else //If the user's input is not &quot;exit&quot;&#xD;&#xA;            {&#xD;&#xA;                newEntry += line + &quot;\n&quot;; //Add the user's input to the new entry&#xD;&#xA;            }&#xD;&#xA;        }&#xD;&#xA;        File.AppendAllText(EncyclopediaFile, $&quot;\n\tEntry:\n{newEntry}\n&quot;); //Append the new entry to the Encyclopedia file&#xD;&#xA;        ForegroundColor = ConsoleColor.Black; //Sets the text color to black&#xD;&#xA;        WriteLine(&quot;The Encyclopedia has been updated!&quot;); //Writes a message to the console window&#xD;&#xA;        WaitForKey(); //Wait for the user to press a key&#xD;&#xA;    }&#xD;&#xA;    private static void WaitForKey() //Waits for the user to press a key&#xD;&#xA;    {&#xD;&#xA;        ForegroundColor = ConsoleColor.Gray; //Sets the text color to gray&#xD;&#xA;        WriteLine(&quot;Press any key to continue......&quot;); //Writes a message to the console window&#xD;&#xA;        ReadKey(true); //Reads the user's key input&#xD;&#xA;    }&#xD;&#xA;}" UseManualLocation="True" />
+    <Node Id="def00c4a-4848-4bf6-b861-e23926e6ee6d1" Bounds="277.037426428042,-758.980333893267,799.577800343831,1893.28" Label="class Encyclopedia //Encyclopedia class to store and display Encyclopedia entries&#xD;&#xA;{&#xD;&#xA;    private static string EncyclopediaFile = &quot;Encyclopedia.e&quot;; //File to store Encyclopedia entries&#xD;&#xA;    &#xD;&#xA;    public void Run()        //Kicks off Encyclopedia app running&#xD;&#xA;    {&#xD;&#xA;        ForegroundColor = ConsoleColor.Black; //Sets the text color to black&#xD;&#xA;        BackgroundColor = ConsoleColor.White; //Sets the background color to white&#xD;&#xA;        Clear(); //Clears the console window&#xD;&#xA;        Title = &quot;Encyclopedia&quot;; //Sets the title of the console window to &quot;Encyclopedia&quot;&#xD;&#xA;        TextAnimation.EncyclopediaTitle(); //Displays the Encyclopedia title art&#xD;&#xA;        WriteLine(&quot;This is where you can record and review what you've learned.&quot;); //Writes a message to the console window&#xD;&#xA;        CreateEncyclopediaFile(); //Creates the Encyclopedia file if it doesn't exist&#xD;&#xA;        Encyclopedia.EncyclopediaMenu(); //Displays the Encyclopedia menu&#xD;&#xA;    }&#xD;&#xA;    public static void EncyclopediaMenu() // Encyclopedia menu&#xD;&#xA;    {&#xD;&#xA;        string prompt = &quot;Encyclopedia Menu&quot;; // Prompt for the encyclopedia menu&#xD;&#xA;        string[] options = { &quot;Display Encyclopedia&quot;, &quot;Clear Encyclopedia&quot;, &quot;Add Entry&quot;, &quot;Back&quot; }; // Options for the encyclopedia menu&#xD;&#xA;        Menu encyclopediaMenu = new Menu(prompt, options); // Create a new menu object&#xD;&#xA;        int selectedIndex = encyclopediaMenu.Run(); // Run the encyclopedia menu and get the selected index&#xD;&#xA;        if (selectedIndex != -1)&#xD;&#xA;        {&#xD;&#xA;            switch (selectedIndex) // Switch statement based on the selected index&#xD;&#xA;            {&#xD;&#xA;                case 0: // If the selected index is 0&#xD;&#xA;                    Encyclopedia.DisplayEncyclopediaContents(); // Display the encyclopedia contents&#xD;&#xA;                    break; // Break out of the switch statement&#xD;&#xA;                case 1: // If the selected index is 1&#xD;&#xA;                    Encyclopedia.ClearEncyclopedia(); // Clear the encyclopedia&#xD;&#xA;                    break; // Break out of the switch statement&#xD;&#xA;                case 2: // If the selected index is 2&#xD;&#xA;                    Encyclopedia.AddEntry(); // Add an entry to the encyclopedia&#xD;&#xA;                    break; // Break out of the switch statement&#xD;&#xA;                case 3: // If the selected index is 3&#xD;&#xA;                    Menu.MainMenu(); // Run the main menu&#xD;&#xA;                    break; // Break out of the switch statement&#xD;&#xA;            }&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;    private void CreateEncyclopediaFile() //Creates the Encyclopedia file if it doesn't exist&#xD;&#xA;    {&#xD;&#xA;        if (!File.Exists(EncyclopediaFile)) //If the Encyclopedia file doesn't exist&#xD;&#xA;        {&#xD;&#xA;            File.CreateText(EncyclopediaFile); //Create the Encyclopedia file&#xD;&#xA;        }&#xD;&#xA;        else //If the Encyclopedia file does exist&#xD;&#xA;        {&#xD;&#xA;            DisplayEncyclopediaContents(); //Display the contents of the Encyclopedia file&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    public static void DisplayEncyclopediaContents() //Displays the contents of the Encyclopedia file&#xD;&#xA;    {&#xD;&#xA;        ForegroundColor = ConsoleColor.Blue; //Sets the text color to blue&#xD;&#xA;        string encyclopediaText = File.ReadAllText(EncyclopediaFile); //Reads the contents of the Encyclopedia file&#xD;&#xA;        if (encyclopediaText == &quot;&quot;) //If the Encyclopedia file is empty&#xD;&#xA;        {&#xD;&#xA;            WriteLine(&quot;\nThere are no entries in the Encyclopedia.\nWould you like to add an Entry?&quot;); //Writes a message to the console window&#xD;&#xA;            string Answer = ReadLine(); //Reads the user's input&#xD;&#xA;            if (Answer.ToLower() == &quot;yes&quot; || Answer.ToLower() == &quot;y&quot;) //If the user's input is &quot;yes&quot; or &quot;y&quot;&#xD;&#xA;            {&#xD;&#xA;                AddEntry(); //Add an entry to the Encyclopedia&#xD;&#xA;            }&#xD;&#xA;            else //If the user's input is not &quot;yes&quot; or &quot;y&quot;&#xD;&#xA;            {&#xD;&#xA;                WaitForKey(); //Wait for the user to press a key&#xD;&#xA;            }&#xD;&#xA;        }&#xD;&#xA;        else //If the Encyclopedia file is not empty&#xD;&#xA;        {&#xD;&#xA;            WriteLine($&quot;\n\tEncyclopedia Contents: \n{encyclopediaText}&quot;); //Writes the contents of the Encyclopedia file to the console window&#xD;&#xA;            WriteLine(&quot;\n~~~End of Encyclopedia~~~&quot;); //Writes a message to the console window&#xD;&#xA;            WaitForKey(); //Wait for the user to press a key&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;    public static void ClearEncyclopedia() //Clears the Encyclopedia file&#xD;&#xA;    {&#xD;&#xA;        ForegroundColor = ConsoleColor.Black; //Sets the text color to black&#xD;&#xA;        File.WriteAllText(EncyclopediaFile, $&quot;\n\tEncyclopedia Contents: \n&quot;); //Clears the Encyclopedia file&#xD;&#xA;        WriteLine(&quot;\nJournal cleared!&quot;); //Writes a message to the console window&#xD;&#xA;        WaitForKey(); //Wait for the user to press a key&#xD;&#xA;    }&#xD;&#xA;    public static void AddEntry() //Adds an entry to the Encyclopedia&#xD;&#xA;    {&#xD;&#xA;        ForegroundColor = ConsoleColor.Black; //Sets the text color to black&#xD;&#xA;        WriteLine(&quot;\nWhat would you like to add?\n\t(Type EXIT and press enter to stop.)&quot;); //Writes a message to the console window&#xD;&#xA;        ForegroundColor = ConsoleColor.DarkBlue; //Sets the text color to dark blue&#xD;&#xA;        string newEntry = &quot;&quot;; //Initializes a string to store the new entry&#xD;&#xA;        bool shouldContinue = true; //Initializes a boolean to determine if the user should continue adding to the entry&#xD;&#xA;        while (shouldContinue) //While the user should continue adding to the entry&#xD;&#xA;        {&#xD;&#xA;            string line = ReadLine(); //Reads the user's input&#xD;&#xA;            if (!shouldContinue || (ConsoleKey.Escape == ReadKey().Key)) //If the user presses the Escape key&#xD;&#xA;            {&#xD;&#xA;                shouldContinue = false; //Set shouldContinue to false&#xD;&#xA;            }&#xD;&#xA;            else if (line.ToLower() == &quot;&amp;exit&quot;) //If the user's input is &quot;exit&quot;&#xD;&#xA;            {&#xD;&#xA;                shouldContinue = false; //Set shouldContinue to false&#xD;&#xA;            }&#xD;&#xA;            else //If the user's input is not &quot;exit&quot;&#xD;&#xA;            {&#xD;&#xA;                newEntry += line + &quot;\n&quot;; //Add the user's input to the new entry&#xD;&#xA;            }&#xD;&#xA;        }&#xD;&#xA;        File.AppendAllText(EncyclopediaFile, $&quot;\n\tEntry:\n{newEntry}\n&quot;); //Append the new entry to the Encyclopedia file&#xD;&#xA;        ForegroundColor = ConsoleColor.Black; //Sets the text color to black&#xD;&#xA;        WriteLine(&quot;The Encyclopedia has been updated!&quot;); //Writes a message to the console window&#xD;&#xA;        WaitForKey(); //Wait for the user to press a key&#xD;&#xA;    }&#xD;&#xA;    private static void WaitForKey() //Waits for the user to press a key&#xD;&#xA;    {&#xD;&#xA;        ForegroundColor = ConsoleColor.Gray; //Sets the text color to gray&#xD;&#xA;        WriteLine(&quot;Press any key to continue......&quot;); //Writes a message to the console window&#xD;&#xA;        ReadKey(true); //Reads the user's key input&#xD;&#xA;    }&#xD;&#xA;}" UseManualLocation="True" />
+    <Node Id="fef94185-5d50-42ec-a150-26d91366787c1" Bounds="3897.90502424764,347.416616334687,602.827800343832,3202.00000000001" Label="&lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html lang=&quot;en&quot;&gt;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;    &lt;meta charset=&quot;UTF-8&quot;&gt;&#xD;&#xA;    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;&#xD;&#xA;    &lt;title&gt;Psychosis by robjam1990&lt;/title&gt;&#xD;&#xA;    &lt;link rel=&quot;stylesheet&quot; href=&quot;robjam1990.ca.css&quot;&gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        #game {&#xD;&#xA;            width: 600px;&#xD;&#xA;            height: 600px;&#xD;&#xA;            background-color: grey;&#xD;&#xA;        }&#xD;&#xA;        /* Remove default bullets */&#xD;&#xA;ul, #myUL {&#xD;&#xA;  list-style-type: none;&#xD;&#xA;}&#xD;&#xA;/* Remove margins and padding from the parent ul */&#xD;&#xA;#myUL {&#xD;&#xA;  margin: 0;&#xD;&#xA;  padding: 0;&#xD;&#xA;}&#xD;&#xA;/* Style the caret/arrow */&#xD;&#xA; .caret {&#xD;&#xA;  cursor: pointer; &#xD;&#xA;  user-select: none; /* Prevent text selection */&#xD;&#xA;}&#xD;&#xA;/* Create the caret/arrow with a unicode, and style it */&#xD;&#xA;.caret::before {&#xD;&#xA;  content: &quot;\25B6&quot;;&#xD;&#xA;  color: black;&#xD;&#xA;  display: inline-block;&#xD;&#xA;  margin-right: 6px;&#xD;&#xA;}&#xD;&#xA;/* Rotate the caret/arrow icon when clicked on (using JavaScript) */&#xD;&#xA;.caret-down::before {&#xD;&#xA;  transform: rotate(90deg); &#xD;&#xA;}&#xD;&#xA;/* Hide the nested list */&#xD;&#xA;.nested {&#xD;&#xA;  display: none;&#xD;&#xA;}&#xD;&#xA;/* Show the nested list when the user clicks on the caret/arrow (with JavaScript) */&#xD;&#xA;.active {&#xD;&#xA;  display: block;&#xD;&#xA;} &#xD;&#xA;/* Style the list items */&#xD;&#xA;li {&#xD;&#xA;  padding: 5px;&#xD;&#xA;}&#xD;&#xA;/* Add background color to even list items */&#xD;&#xA;li:nth-child(even) {&#xD;&#xA;  background-color: lightgray;&#xD;&#xA;}&#xD;&#xA;/* Add hover effect to list items */&#xD;&#xA;li:hover {&#xD;&#xA;  background-color: lightblue;&#xD;&#xA;}&#xD;&#xA;/* Style the nested list items */&#xD;&#xA;.nested li {&#xD;&#xA;  padding: 5px;&#xD;&#xA;}&#xD;&#xA;/* Add background color to even nested list items */&#xD;&#xA;.nested li:nth-child(even) {&#xD;&#xA;  background-color: lightgray;&#xD;&#xA;}&#xD;&#xA;/* Add hover effect to nested list items */&#xD;&#xA;.nested li:hover {&#xD;&#xA;  background-color: lightblue;&#xD;&#xA;}&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;body class=&quot;homepage&quot;&gt;&#xD;&#xA;    &lt;header id=&quot;header&quot;&gt;&#xD;&#xA;        &lt;div class=&quot;container&quot;&gt;&#xD;&#xA;            &lt;h1 id=&quot;logo&quot;&gt;&lt;a href=&quot;index.html&quot;&gt;Psychosis&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;            &lt;nav id=&quot;nav&quot;&gt;&#xD;&#xA;                &lt;ul&gt;&#xD;&#xA;                    &lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;                    &lt;li&gt;&#xD;&#xA;                        &lt;a href=&quot;#&quot;&gt;Play&lt;/a&gt;&#xD;&#xA;                        &lt;ul class=&quot;dropdown&quot;&gt;&#xD;&#xA;                            &lt;li&gt;&lt;a href=&quot;login.html&quot;&gt;Login&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;                            &lt;li&gt;&lt;a href=&quot;signup.html&quot;&gt;Signup&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;                            &lt;li&gt;&lt;a href=&quot;create.html&quot;&gt;Create&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;                            &lt;li&gt;&#xD;&#xA;                                &lt;a href=&quot;#&quot;&gt;About&lt;/a&gt;&#xD;&#xA;                                &lt;ul class=&quot;dropdown&quot;&gt;&#xD;&#xA;                                    &lt;li&gt;&lt;a href=&quot;about-robjam1990.html&quot;&gt;About robjam1990&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;                                    &lt;li&gt;&lt;a href=&quot;notice-board.html&quot;&gt;Notice Board&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;                                    &lt;li&gt;&lt;a href=&quot;encyclopedia.html&quot;&gt;Encyclopedia&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;                                    &lt;li&gt;&lt;a href=&quot;speak-with-ai.html&quot;&gt;Speak with an AI&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;                                    &lt;li&gt;&lt;a href=&quot;contact-human.html&quot;&gt;Contact a Human&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;                                &lt;/ul&gt;&#xD;&#xA;                            &lt;/li&gt;&#xD;&#xA;                            &lt;li&gt;&lt;a href=&quot;partnerships.html&quot;&gt;Partnerships and Considerations&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;                        &lt;/ul&gt;&#xD;&#xA;                    &lt;/li&gt;&#xD;&#xA;                    &lt;li&gt;&lt;a href=&quot;left-sidebar.html&quot;&gt;Left Sidebar&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;                    &lt;li&gt;&lt;a href=&quot;right-sidebar.html&quot;&gt;Right Sidebar&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;                    &lt;li&gt;&lt;a href=&quot;no-sidebar.html&quot;&gt;No Sidebar&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;                &lt;/ul&gt;&#xD;&#xA;            &lt;/nav&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;form&gt;&#xD;&#xA;            &lt;fieldset&gt;&#xD;&#xA;                &lt;legend&gt;Feedback form&lt;/legend&gt;&#xD;&#xA;          &lt;div&gt;&#xD;&#xA;            &lt;label for=&quot;fname&quot;&gt;First name: &lt;/label&gt;&#xD;&#xA;            &lt;input id=&quot;fname&quot; name=&quot;fname&quot; type=&quot;text&quot; required /&gt;&#xD;&#xA;          &lt;/div&gt;&#xD;&#xA;          &lt;div&gt;&#xD;&#xA;            &lt;label for=&quot;lname&quot;&gt;Last name: &lt;/label&gt;&#xD;&#xA;            &lt;input id=&quot;lname&quot; name=&quot;lname&quot; type=&quot;text&quot; required /&gt;&#xD;&#xA;          &lt;/div&gt;&#xD;&#xA;          &lt;div&gt;&#xD;&#xA;            &lt;label for=&quot;email&quot;&gt;&#xD;&#xA;                Email address (include if you want a response):&#xD;&#xA;            &lt;/label&gt;&#xD;&#xA;            &lt;input id=&quot;email&quot; name=&quot;email&quot; type=&quot;email&quot; /&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;div&gt;&lt;button&gt;Submit&lt;/button&gt;&lt;/div&gt;&#xD;&#xA;    &lt;/fieldset&gt;&#xD;&#xA;&lt;/form&gt;&#xD;&#xA;&lt;/header&gt;&#xD;&#xA;    &lt;/header&gt;&#xD;&#xA;    &lt;section id=&quot;banner&quot;&gt;&#xD;&#xA;        &lt;div class=&quot;container&quot;&gt;&#xD;&#xA;            &lt;h2&gt;Psychosis&lt;/h2&gt;&#xD;&#xA;            &lt;span&gt;Design by robjam1990&lt;/span&gt;&#xD;&#xA;            &lt;p&gt;Psychosis is a Contextual based game created by Robert James Newell of robjam1990.&lt;/p&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;    &lt;/section&gt;&#xD;&#xA;    &lt;canvas id=&quot;game&quot;&gt;&lt;/canvas&gt;&#xD;&#xA;    &lt;script&gt;&#xD;&#xA;        function Game() {&#xD;&#xA;            this.canvas = document.getElementById(&quot;game&quot;);&#xD;&#xA;    this.start = function() {&#xD;&#xA;        this.canvas.width = 600;&#xD;&#xA;        this.canvas.height = 600;&#xD;&#xA;        this.context = this.canvas.getContext(&quot;2d&quot;);&#xD;&#xA;        this.interval = setInterval(gameTick, 20);&#xD;&#xA;    }&#xD;&#xA;    this.clear = function() {&#xD;&#xA;        this.context.clearRect(0, 0, this.canvas.width, this.canvas.height);&#xD;&#xA;    }&#xD;&#xA;}&#xD;&#xA;function Player(color, x, y, z) {&#xD;&#xA;    this.x = x;&#xD;&#xA;    this.y = y;&#xD;&#xA;    this.z = z;&#xD;&#xA;    this.update = function() {&#xD;&#xA;        this.move(mouseState);&#xD;&#xA;        var context = game.context;&#xD;&#xA;        context.fillStyle = color;&#xD;&#xA;        context.beginPath();&#xD;&#xA;        context.arc(this.x, this.y, this.z, 16, 0, 2 * Math.PI);&#xD;&#xA;        context.fill();&#xD;&#xA;    }&#xD;&#xA;    this.move = function(event) {&#xD;&#xA;        if (event == null) {&#xD;&#xA;            return;&#xD;&#xA;        }&#xD;&#xA;        var x = event.clientX;&#xD;&#xA;        var y = event.clientY;&#xD;&#xA;        if (x &lt; player.x &amp;&amp; x &gt; 0) {&#xD;&#xA;            player.x = player.x - 2;&#xD;&#xA;        } else if (x &gt; player.x &amp;&amp; x &lt; game.canvas.width) {&#xD;&#xA;            player.x = player.x + 2;&#xD;&#xA;        }&#xD;&#xA;        if (y &lt; player.y &amp;&amp; y &gt; 0) {&#xD;&#xA;            player.y = player.y - 2;&#xD;&#xA;        } else if (y &gt; player.y &amp;&amp; y &lt; game.canvas.width) {&#xD;&#xA;            player.y = player.y + 2;&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;}&#xD;&#xA;function gameTick() {&#xD;&#xA;    console.log(&quot;tick&quot;);&#xD;&#xA;    game.clear();&#xD;&#xA;    player.update();&#xD;&#xA;}&#xD;&#xA;function mouseMove(event) {&#xD;&#xA;    mouseState = event;&#xD;&#xA;}&#xD;&#xA;var game = new Game();&#xD;&#xA;var player = new Player(&quot;red&quot;, 300, 300, 16);&#xD;&#xA;var mouseState = null;&#xD;&#xA;game.start();&#xD;&#xA;        window.addEventListener(&quot;mousemove&quot;, mouseMove, false);&#xD;&#xA;    &lt;/script&gt;&#xD;&#xA;    &lt;footer&gt;&#xD;&#xA;        &lt;div class=&quot;copyright&quot;&gt;&#xD;&#xA;            &lt;ul class=&quot;menu&quot;&gt;&#xD;&#xA;                &lt;li&gt;&amp;copy; robjam1990. All rights reserved.&lt;/li&gt;&#xD;&#xA;            &lt;/ul&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;    &lt;/footer&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/html&gt;" UseManualLocation="True" />
+    <Node Id="{}" Category="Category5" Bounds="2074.36765624507,842.981764459501,103.724467010498,182.013711657715" Group="Collapsed" Label="{}" UseManualLocation="True" />
+    <Node Id="|" Bounds="469.179483109357,1854.53066258195,59.8744670104979,42.004467010498" Label="|" UseManualLocation="True" />
+    <Node Id="||" Category="Category2" Bounds="1872.95192951981,1200.69616468172,239.671144256592,250.018368041992" Group="Collapsed" Label="| |" UseManualLocation="True">
+      <Category Ref="Category7" />
+    </Node>
+    <Node Id="~" Bounds="612.032432328107,1714.52248387102,65.2144670104981,42.004467010498" Label="~" UseManualLocation="True" />
+    <Node Id="∀" Category="Comment" Bounds="497.535430726398,3810.66331265388,67.1778003438314,42.004467010498" Label="∀" UseManualLocation="True" />
+    <Node Id="《》" Category="Category2" Bounds="1852.95192951981,1152.69159767122,546.555642954508,318.02303505249" Group="Collapsed" Label="《 》" UseManualLocation="True">
+      <Category Ref="Category7" />
+    </Node>
+  </Nodes>
+  <Links>
+    <Link Source="&quot;" Target="'" Bounds="2221.5202319427,1855.20008626525,11.6178108007866,56.8719147137242" />
+    <Link Source="&quot;Space&quot;" Target="Entry:Start;" Bounds="6513.18212890625,345.772338867188,0,36.9599914550781" Label="Remove: &quot;Space&quot;;" LabelBounds="6513.18219132741,351.77233505249,91.746666666666,15.96" />
+    <Link Source="#" Target="@" Bounds="794.406397319476,1620.8927713614,40.7322369733267,92.6962334113555" />
+    <Link Source="$" Target="+" Bounds="406.07663293524,211.082324468563,1617.11585007006,1923.46725159326" />
+    <Link Source="$" Target="-" Bounds="404.277071811969,245.378062735111,1426.41011885774,1889.17151332671" />
+    <Link Source="%" Target="+" Bounds="1911.05322265625,211.202102661133,113.022583007813,66.2772369384766" />
+    <Link Source="%" Target="-" Bounds="1877.64105276661,247.195188121766,3.02012479096447E-05,21.0004624543798" />
+    <Link Source="&amp;" Target="~" Bounds="675.226848887318,1762.47580215276,104.469326071866,92.054608869995" />
+    <Link Source="()" Target="&lt;&gt;" Bounds="2126.22989492674,1747.68817780073,7.36007723389775E-06,22.686771936035" />
+    <Link Source="()" Target="I" Bounds="1035.54554241677,1827.6573554554,1037.65874914309,44.5710216115542" />
+    <Link Source="()" Target="Q" Category="Contains" />
+    <Link Source="()" Target="[]" Category="Contains" />
+    <Link Source="*" Target="$" Bounds="416.180917366812,2182.86612629518,93.1938434016402,91.6927271103868" />
+    <Link Source="*" Target="%" Bounds="544.820132788555,317.672475834146,1313.70518071373,1956.88637757142" />
+    <Link Source="," Target="?" Bounds="737.361356458502,316.661262224937,1418.45291140097,964.806920232471" />
+    <Link Source="-" Target="Exists:ConstantInput;" Category="Contains" />
+    <Link Source="." Target="$" Bounds="411.598076067272,382.204671859741,1448.61215658606,1745.41940551018" />
+    <Link Source="." Target="%" Bounds="1877.641073426,319.200117586631,3.56017558260646E-05,21.0001029968391" />
+    <Link Source="...:!?" Target="C" Category="Contains" />
+    <Link Source="...:!?" Target="Log:DataStorage;" Category="Contains" />
+    <Link Source="...:!?" Target="N" Category="Contains" />
+    <Link Source="...:!?" Target="O" Category="Contains" />
+    <Link Source="...:!?" Target="《》" Bounds="2126.22964499295,1479.71432291792,2.45925871240615E-05,36.9598211547877" Label="Format: Domain Lattice;" LabelBounds="1996.68299062258,1490.21423216454,125.546666666667,15.9599999999991" />
+    <Link Source=".ject" Target=".verse" Bounds="6560.8681640625,-952.707397460938,235.6083984375,139.429626464844" Label="Initialiaze: Game State;" LabelBounds="6540.03087009204,-913.05896188781,118.823333333332,15.9599999999991" />
+    <Link Source=".ject" Target="Botlibre" Bounds="4925.17973137301,-783.617032728087,1575.29592900195,347.967400045014" />
+    <Link Source=".ject" Target="IPLANT" Bounds="3975.64455232358,-787.976126404249,2524.83105028086,276.92956652957" Label="Run: Physics Simulation;" LabelBounds="6229.17144564583,-790.087221938927,126.696666666665,15.9599999999991" />
+    <Link Source=".ject" Target="Poe" Bounds="4796.2913470074,-784.187957957324,1704.18431336756,351.61642737484" />
+    <Link Source=".ject" Target="Psychosis" Bounds="6386.78179673387,-874.851586141043,114.989569974106,62.1048733596976" Label="Run: Game Engine;" LabelBounds="6343.94282608534,-842.039405886865,99.3833333333332,15.9599999999991" />
+    <Link Source="/" Target="~" Bounds="666.25943906962,30.181547164917,1288.62934514885,1677.2029542032" />
+    <Link Source="0" Target="1" Bounds="2970.103515625,-80.8263244628906,0,20.9999961853027" />
+    <Link Source="1" Target="23456789" Bounds="2970.103515625,-152.830795288086,0,21" />
+    <Link Source="9d5170c3-64ad-4fc7-a3e9-7b51272201bd1" Target=".ject" Bounds="6554.86834498995,-763.302836443356,11.5526874473553,22.0295020723267" />
+    <Link Source=":" Target="()" Bounds="2126.22979741056,1889.38408375775,3.21167030961078E-05,22.6878561860697" />
+    <Link Source=":" Target="{}" Bounds="1802.24523925781,954.855102539063,294.182250976563,961.322998046875" />
+    <Link Source=";" Target="&quot;" Bounds="2152.16483478519,1959.74042158863,32.135730956843,26.023534956754" />
+    <Link Source=";" Target=":" Bounds="2126.22976768,1963.07640695432,0,22.6875495910642" />
+    <Link Source="&lt;&gt;" Target="&lt;Code=/&gt;" Category="Contains" />
+    <Link Source="&lt;Code=/&gt;" Target="...:!?" Category="Contains" />
+    <Link Source="&lt;Code=/&gt;" Target="{}" Category="Contains" />
+    <Link Source="&lt;Code=/&gt;" Target="《》" Category="Contains" />
+    <Link Source="=" Target="^" Index="1" Bounds="-659.5126953125,-76.4468002319336,11.6873779296875,25.9268760681152" />
+    <Link Source="=" Target="^" Bounds="-612.700073242188,-76.4468002319336,11.6873779296875,25.9268760681152" />
+    <Link Source="?" Target="!" Bounds="2193.24951171875,249.19596862793,0,20.9999847412109" />
+    <Link Source="?" Target="Question" Bounds="2211.56323600656,-131.048800062768,349.878994172108,401.24494607412" />
+    <Link Source="@1" Target="*" Category="Contains" />
+    <Link Source="@2" Target="$" Category="Contains" />
+    <Link Source="ABCDEFGHIJKLMNOPQRSTUVWXYZ" Target="Words" Bounds="2721.6707375979,1009.97064781189,0.000157919496814429,1135.80265835367" />
+    <Link Source="Adventurer" Target="Explorer" Bounds="4036.48803710938,328.263000488281,798.761474609375,54.4693298339844" />
+    <Link Source="Agriculture" Target="Medicine" Bounds="1829.63659667969,816.276428222656,4.8125,22.8801879882813" />
+    <Link Source="Aithaluwa" Target="IPLANT" Bounds="3975.42975760879,-958.505963187339,1769.44869004774,442.12927648589" Label="IPLANT: Neural Nodemap;" LabelBounds="5499.83075208219,-949.971183724112,138.766666666666,15.9599999999991" />
+    <Link Source="Aithaluwa" Target="Psychosis" Bounds="5794.630859375,-951.132934570313,482.8681640625,64.6537475585938" />
+    <Link Source="Alchemy" Target="Chemicals" Bounds="2063.35327148438,813.520324707031,28.224365234375,25.6362915039063" />
+    <Link Source="Alchemy" Target="Medicine" Bounds="1901.60522460938,808.955932617188,87.5501708984375,32.337646484375" />
+    <Link Source="Alchemy" Target="Poison" Bounds="2009.44909667969,814.910522460938,16.4942626953125,24.24609375" />
+    <Link Source="Animal" Target="Riding" Bounds="1079.85375976563,814.378173828125,20.6846923828125,24.7784423828125" />
+    <Link Source="Animal" Target="Taming" Bounds="1135.60339355469,814.378173828125,20.6846923828125,24.7784423828125" />
+    <Link Source="Apprentice" Target="Engineer" Bounds="3646.90942382813,330.064636230469,279.681884765625,57.1892700195313" />
+    <Link Source="Apus" Target="IPLANT" Bounds="3975.55939949251,-964.700474550947,2538.43273957028,451.057189440674" Label="IPLANT: Neural Nodemap;" LabelBounds="6304.50240062315,-970.124935022319,138.766666666666,15.9599999999991" />
+    <Link Source="Apus" Target="Psychosis" Bounds="6378.45263671875,-967.905151367188,135.53955078125,45.4127807617188" />
+    <Link Source="Arkantos" Target="IPLANT" Bounds="3975.4969644758,-960.95368413572,2072.99075726927,445.890522352489" Label="IPLANT: Neural Nodemap;" LabelBounds="5800.5176305438,-905.570745661851,138.766666666667,15.9599999999991" />
+    <Link Source="Arkantos" Target="Psychosis" Bounds="6141.67236328125,-951.132934570313,135.78369140625,35.6469116210938" />
+    <Link Source="Array" Target="Array1" Bounds="4528.078125,1294.52038574219,496.56494140625,62.749755859375" />
+    <Link Source="Array" Target="Integer2" Bounds="3529.07495117188,963.748901367188,1495.56811523438,398.710571289063" />
+    <Link Source="Array" Target="String1" Bounds="5016.841796875,1135.04870605469,39.20263671875,217.622192382813" Label="Con" LabelBounds="5016.84159063975,1233.74647216797,21.25,15.96" />
+    <Link Source="Array" Target="String2" Bounds="3982.109375,1046.72155761719,1042.53369140625,316.148193359375" Label="In" LabelBounds="3999.81949469257,1203.7368713163,9.98333333333358,15.96" />
+    <Link Source="Array" Target="String3" Bounds="4908.5869140625,943.624145507813,838.8818359375,426.200561523438" Label="Format: Markdown;" LabelBounds="5747.46885799408,1145.78200515747,102.64,15.9599999999991" />
+    <Link Source="Array" Target="String6" Bounds="3457.47021484375,1222.48767089844,1567.1728515625,142.283569335938" Label="Log:(99);" LabelBounds="3582.24689841701,1271.56105918632,45.126666666667,15.96" />
+    <Link Source="Array1" Target="Integer" Bounds="4519.11279296875,1206.67492675781,800.11669921875,74.160888671875" />
+    <Link Source="Array1" Target="Integer1" Bounds="3721.87744140625,1305.15051269531,615.71240234375,136.0830078125" />
+    <Link Source="Array1" Target="String2" Bounds="4399.44140625,1047.01000976563,40.1162109375,217.696411132813" />
+    <Link Source="Array1" Target="String3" Bounds="4435.00927734375,951.826354980469,339.5791015625,312.880065917969" />
+    <Link Source="Array1" Target="String7" Bounds="3904.689453125,1214.30432128906,432.5322265625,60.606201171875" Label="Log:(99);" LabelBounds="4012.6093571345,1233.74647216797,45.126666666667,15.96" />
+    <Link Source="Athletic" Target="Acrobatics" Bounds="61.393123626709,345.635772705078,6.53669357299805,37.0965576171875" />
+    <Link Source="Athletic" Target="Sports" Bounds="118.019874572754,339.552551269531,96.0009231567383,43.2721557617188" />
+    <Link Source="Bandit" Target="Assassin" Bounds="3374.3896484375,272.080383300781,0,22.6875" />
+    <Link Source="BarbarianCamp" Target="Ruins" Bounds="36452.98828125,3331.19384765625,7.2109375,24.30859375" />
+    <Link Source="Barmaid" Target="Innkeeper" Bounds="4324.5693359375,326.165618896484,720.19677734375,56.7362365722656" />
+    <Link Source="Biolog" Target="~" Category="Contains" />
+    <Link Source="Blacksmith" Target="Guardhouse" Bounds="36372.5234375,3091.72583007813,24.99609375,22.70068359375" />
+    <Link Source="Blacksmith" Target="Marketplace" Bounds="36461.17578125,2796.97119140625,15.5625,317.455322265625" />
+    <Link Source="Bool(False)" Target="Integer" Bounds="5432.35693359375,1206.48278808594,715.466796875,322.117065429688" Label="Observation: Distance;" LabelBounds="6124.98067132846,1383.80707686954,117.973333333333,15.96" />
+    <Link Source="Bool(False)1" Target="Integer2" Bounds="2370.28491210938,959.749328613281,1114.2578125,656.815002441406" Label="Identification: Time;" LabelBounds="3245.7219242214,1273.27511548663,103.7,15.96" />
+    <Link Source="Bool(False)2" Target="Integer1" Bounds="3642.64208984375,1491.63989257813,0,36.9599609375" Label="Truth: Access Count;" LabelBounds="3642.64208978017,1497.63987319947,106.233333333333,15.96" />
+    <Link Source="Bool(True)" Target="Bool(False)1" Bounds="2436.21118164063,1643.47912597656,859.61767578125,77.093505859375" Label="Context: Recognition;" LabelBounds="2747.81374798457,1673.56880722046,112.886666666667,15.96" />
+    <Link Source="Bool(True)" Target="Bool(True)1" Bounds="3406.4033203125,1656.8486328125,172.335205078125,52.0001220703125" Label="Context: Recognition;" LabelBounds="3496.87903140386,1673.56880722047,112.886666666667,15.9599999999991" />
+    <Link Source="Bool(True)1" Target="Bool(False)2" Bounds="3642.64208984375,1579.60437011719,0,36.9599609375" Label="Truth: Recognition;" LabelBounds="3642.64208978017,1585.60434020997,98.7833333333328,15.96" />
+    <Link Source="Bool(True)1" Target="Bool(True)2" Bounds="3697.92944335938,1480.001953125,1640.47290039063,152.60986328125" Label="Truth: Recognition;" LabelBounds="4274.18843887967,1555.6531610937,98.7833333333328,15.96" />
+    <Link Source="Bool(True)2" Target="Array" Bounds="5149.84619140625,1384.49597167969,230.11767578125,56.139404296875" Label="Knowledge: Already Known;" LabelBounds="5355.07594042563,1410.14593024428,147.140000000001,15.96" />
+    <Link Source="Bool(True)2" Target="Bool(True)3" Bounds="5457.83154296875,1383.61901855469,448.17138671875,69.4510498046875" Label="Knowledge: Already Known;" LabelBounds="5686.36409063975,1409.67540618897,147.139999999999,15.96" />
+    <Link Source="Bool(True)3" Target="String3" Bounds="4908.67578125,936.193786621094,1194.21484375,416.477111816406" Label="Format: Markdown;" LabelBounds="6080.60126847833,1136.34098776807,102.639999999999,15.96" />
+    <Link Source="Botlibre" Target=".ject" Bounds="4916.39157595317,-781.675815502588,1575.29592900194,347.967400045014" Label=".ject: Resource Management;" LabelBounds="-876.451897865585,-586.146197582001,151.77,15.96" />
+    <Link Source="Botlibre" Target=".verse" Bounds="4916.39157595317,-957.647137476568,1879.84316010015,521.169152781281" Label="EntryPoint: Magnetic Pipeline;" LabelBounds="-1313.65487349049,-93.9024196594929,157.119999999999,15.96" />
+    <Link Source="Botlibre" Target="Apus" Bounds="4916.39157595316,-955.740831724567,1589.04204689424,516.901226119029" />
+    <Link Source="Botlibre" Target="Arkantos" Bounds="4914.39605231404,-947.471045952659,1130.7008613234,503.616911365587" />
+    <Link Source="Botlibre" Target="Maia" Bounds="4916.39157595317,-953.816470641013,1397.15256525679,512.921075690967" />
+    <Link Source="Botlibre" Target="Opus" Bounds="4907.74275452679,-947.097790432718,970.440000201203,503.243650836189" />
+    <Link Source="Botlibre" Target="Ralph" Bounds="4916.32380668897,-951.503169464083,1280.26600140715,509.132808613024" />
+    <Link Source="Bractal" Target="Bractus" Bounds="36586.71484375,2380.19506835938,20.44140625,22.999267578125" />
+    <Link Source="Bractal" Target="MountRobson" Bounds="36612.140625,2304.1083984375,65.5,99.0859375" />
+    <Link Source="Bractal" Target="Nexus" Bounds="36648.07421875,2445.19897460938,3.1875,23.04833984375" />
+    <Link Source="Bractus" Target="Bractal" Bounds="36628.4453125,2371.5068359375,24.08203125,22.78076171875" />
+    <Link Source="Bractus" Target="MountRobson" Bounds="36554.98828125,2305.19384765625,7.2109375,24.30859375" />
+    <Link Source="Bractus" Target="Nexus" Bounds="36550.6953125,2371.5068359375,26.89453125,96.5966796875" />
+    <Link Source="Branch" Target="Flower" Bounds="7692.27880859375,263.080383300781,588.20556640625,588.2861328125" />
+    <Link Source="Branch" Target="Leaf" Bounds="7767.654296875,177.754653930664,236.45263671875,52.1890411376953" />
+    <Link Source="Branch" Target="Node" Bounds="1729.41099559182,-45.2332424885984,4745.10257493939,282.723411024775" />
+    <Link Source="Branch" Target="Trunk" Bounds="7767.654296875,172.483383178711,681.59765625,62.6115875244141" />
+    <Link Source="Builder" Target="Architect" Bounds="3768.34228515625,319.22998046875,869.4033203125,63.5331115722656" />
+    <Link Source="C" Target="O" Bounds="505.373610372082,2043.83889975591,65.5268113023851,90.7092114621569" />
+    <Link Source="Captain" Target="Commander" Bounds="3615.0185546875,124.696434020996,0,22.6875076293945" />
+    <Link Source="Cartography" Target="Discover" Bounds="318.357360839844,263.598083496094,86.2134399414063,31.1697998046875" />
+    <Link Source="Cartography" Target="Naval" Bounds="421.888458251953,269.812713623047,22.1400146484375,24.9551696777344" />
+    <Link Source="Cartography" Target="Prospect" Bounds="516.886596679688,265.056457519531,76.7111206054688,29.71142578125" />
+    <Link Source="Cartography" Target="Scout" Bounds="481.294464111328,269.812713623047,22.1400146484375,24.9551696777344" />
+    <Link Source="Cedalion" Target="Flaxchop" Bounds="36530.98828125,3620.2744140625,7.2109375,24.308349609375" />
+    <Link Source="Character" Target="Observation1" Bounds="1767.56506347656,1139.78198242188,1344.18420410156,144.233032226563" />
+    <Link Source="Character" Target="Output1" Bounds="1610.31665039063,1223.39172363281,68.5604248046875,41.314697265625" />
+    <Link Source="Chemicals" Target="Radiology" Bounds="2121.3623046875,742.777160644531,0,22.6875" />
+    <Link Source="Chronolog" Target="C" Category="Contains" />
+    <Link Source="Combat" Target="Melee" Bounds="1111.75830078125,344.138488769531,27.093017578125,38.5938415527344" />
+    <Link Source="Combat" Target="Ranged" Bounds="1055.17797851563,344.138488769531,27.093017578125,38.5938415527344" />
+    <Link Source="Commander" Target="General" Bounds="3615.0185546875,51.004467010498,0,22.6875038146973" />
+    <Link Source="Compare" Target="Alchemy" Bounds="2046.50073242188,889.968383789063,4.8125,22.8802490234375" />
+    <Link Source="Compare:SimilarDifferences;" Target="X" Bounds="2418.35913085938,723.952941894531,25.44287109375,25.3368530273438" />
+    <Link Source="Compare:SimilarDifferences;" Target="Y" Bounds="2397.26928710938,642.83056640625,34.15869140625,106.459228515625" />
+    <Link Source="Compare:SimilarDifferences;" Target="Z" Bounds="2365.26928710938,563.267944335938,65.574951171875,186.021850585938" />
+    <Link Source="Constant:ParseVerse;" Target="Verse" Bounds="7661.74951171875,953.779846191406,32.1640625,47.033203125" />
+    <Link Source="Crafting" Target="Pottery" Bounds="7039.98333051046,2852.13180392015,29267.5883449213,5977.11658874876" />
+    <Link Source="Crafting" Target="Stucture" Bounds="2892.06787109375,324.193664550781,1615.90185546875,60.974853515625" />
+    <Link Source="Crafting" Target="Weavery" Bounds="7039.98333051046,2632.26847982704,29249.8867462551,6196.60120962007" />
+    <Link Source="Crime" Target="Assassinate" Bounds="2660.5478515625,879.530212402344,144.754150390625,41.6439819335938" />
+    <Link Source="Crime" Target="Lockpicking" Bounds="2607.28540039063,889.969665527344,4.7958984375,22.8789672851563" />
+    <Link Source="Crime" Target="Pickpocket" Bounds="2508.70922851563,884.883972167969,64.280517578125,29.20556640625" />
+    <Link Source="Crime" Target="Sneak" Bounds="2650.93041992188,885.846252441406,44.28759765625,27.0023803710938" />
+    <Link Source="Delegate" Target="Tactics" Bounds="931.476745605469,816.469116210938,0,22.6875" />
+    <Link Source="Dialog" Target="=" Category="Contains" />
+    <Link Source="Dictionary" Target="Library" Bounds="677.154836448094,-2819.26992464819,0.00720496167014062,21.0001581711576" Label="Update: Public Definitions;" LabelBounds="533.715105595596,-2816.75053174422,139.443333333333,15.96" />
+    <Link Source="Dictionary" Target="Output" Bounds="710.856772413413,-836.986508590893,123.935776823579,3570.57870765087" Label="Generate: Output;" LabelBounds="533.510525723572,1819.0263052747,94.4999999999995,15.96" />
+    <Link Source="Dictionary" Target="Output4" Bounds="727.208078343184,-4008.0967828043,62.1661077470899,1209.8256072029" />
+    <Link Source="Dictionary" Target="c728f886-eac7-41b2-b369-a6dd2ea060111" Category="Contains" />
+    <Link Source="DigitalNaturalAssimilation" Target="Format:MarkdownSyntax;" Category="Contains" />
+    <Link Source="DigitalNaturalAssimilation" Target="RelativeNumericalAugmentation" Category="Contains" />
+    <Link Source="Duration" Target="Temporus" Category="Contains" />
+    <Link Source="E" Target="I" Bounds="1028.11472474529,932.990850448608,1073.4507158995,914.073301032503" />
+    <Link Source="Ecolog" Target="," Category="Contains" />
+    <Link Source="Encyclopedia" Target="Dictionary" Bounds="676.822315267448,-827.985099466599,8.33561831541374E-05,21.0001000000713" Label=".ject: Relevent Context;" LabelBounds="553.32235694554,-825.465041527917,119.5,15.9600000000009" />
+    <Link Source="Encyclopedia" Target="def00c4a-4848-4bf6-b861-e23926e6ee6d1" Category="Contains" />
+    <Link Source="Engineer" Target="Engineer1" Bounds="4020.40869140625,269.628997802734,23.699951171875,25.1388854980469" />
+    <Link Source="Engineer" Target="Inventor" Bounds="4058.08935546875,263.619018554688,85.2509765625,31.1488647460938" />
+    <Link Source="Engineer" Target="Researcher" Bounds="3918.4794921875,267.631439208984,46.29736328125,27.1364440917969" />
+    <Link Source="Entry" Target="Input1" Bounds="1682.29406738281,1666.51232910156,20.2489013671875,38.0164794921875" />
+    <Link Source="Entry" Target="Output2" Bounds="1736.10241699219,1401.58276367188,24.4798583984375,302.946044921875" />
+    <Link Source="Entry:End;" Target="&quot;Space&quot;" Bounds="6559.728515625,429.034881591797,76.6474609375,41.6619262695313" />
+    <Link Source="Entry:End;" Target="Output:NewEntries;" Bounds="6675.01513671875,433.73681640625,0,36.9599914550781" Label="Input==False;" LabelBounds="6675.01499167125,439.736802062988,72.746666666666,15.96" />
+    <Link Source="Entry:Start;" Target="Number" Bounds="6552.40966796875,267.328399658203,51.25048828125,27.4394836425781" />
+    <Link Source="Execuitioner" Target="Judge" Bounds="4475.56640625,337.535461425781,715.46533203125,45.2682189941406" />
+    <Link Source="False" Target="Array" Bounds="5146.94482421875,1397.79016113281,169.8125,306.738647460938" Label="0" LabelBounds="5308.75712362925,1541.62210670472,6.47000000000025,15.96" />
+    <Link Source="Farmhouse" Target="Pottery" Bounds="36285.9296875,2865.95068359375,25.625,27.39990234375" />
+    <Link Source="Farmhouse" Target="Stables" Bounds="36330.0078125,2935.35522460938,30.27734375,23.300048828125" />
+    <Link Source="Farmhouse" Target="Weavery" Bounds="36211.73828125,2635.54125976563,78.23828125,257.809326171875" />
+    <Link Source="Flaxchop" Target="Cedalion" Bounds="36582.27734375,3612.89526367188,7.2109375,24.30859375" />
+    <Link Source="Flaxchop" Target="Peachstraw" Bounds="36530.98828125,3546.58227539063,7.2109375,24.30859375" />
+    <Link Source="Flower" Target="Stygia" Bounds="8375.9482421875,811.603088378906,53.28515625,27.5535278320313" />
+    <Link Source="Forage" Target="Agriculture" Bounds="1854.90295410156,887.22509765625,28.1016845703125,25.62353515625" />
+    <Link Source="Forage" Target="Alchemy" Bounds="1944.28295898438,885.493225097656,49.8140869140625,27.3554077148438" />
+    <Link Source="Format:IPLANT;" Target="∀" Category="Contains" />
+    <Link Source="Game:StoryBased;" Target="Psychosis" Bounds="6402.47969651008,-894.416686125511,252.390349453741,23.0734937993509" />
+    <Link Source="Game:TextureBased;" Target="IPLANT" Bounds="3975.62281285429,-781.160923998342,2067.67349124755,269.327070280837" />
+    <Link Source="Games" Target="Sports" Bounds="287.248596191406,344.064727783203,27.9683227539063,38.6676025390625" />
+    <Link Source="GenerationalNomenclatureAcronyms" Target="Format:..Ject-Sharp" Category="Contains" />
+    <Link Source="GenerationalNomenclatureAcronyms" Target="VirtualNeuralAnalog" Category="Contains" />
+    <Link Source="Geolog" Target="_" Category="Contains" />
+    <Link Source="Grammer" Target="!" Category="Contains" />
+    <Link Source="Grammer" Target="," Category="Contains" />
+    <Link Source="Grammer" Target="," Index="1" Bounds="744.106227093122,286.395510465287,1385.82283985736,989.275553237536" />
+    <Link Source="Grammer" Target="?" Category="Contains" />
+    <Link Source="Grammer" Target="Other" Bounds="2030.20288085938,37.8519287109375,118.45068359375,112.334762573242" />
+    <Link Source="Gravity" Target="Matter" Category="Contains" />
+    <Link Source="Gravity" Target="Motion" Bounds="6317.19122971269,322.548561678411,57.0984592353125,63.3166460841752" />
+    <Link Source="Guard" Target="Soldier" Bounds="3615.0185546875,272.080383300781,0,22.6875" />
+    <Link Source="Guardhouse" Target="Blacksmith" Bounds="36417.08984375,3082.73901367188,22.00390625,23.043212890625" />
+    <Link Source="Guardhouse" Target="Stables" Bounds="36351.8984375,3017.88110351563,10.75,22.853515625" />
+    <Link Source="Histolog" Target="@" Category="Contains" />
+    <Link Source="House" Target="Village" Bounds="2300.33251953125,272.080383300781,0,22.6875" />
+    <Link Source="Hunting" Target="Gut" Bounds="647.516296386719,338.039672851563,92.5804443359375,44.6926574707031" />
+    <Link Source="Hunting" Target="Skin" Bounds="783.602661132813,345.772338867188,0,36.9599914550781" />
+    <Link Source="Hunting" Target="Trapping" Bounds="812.544372558594,342.058258056641,56.0501708984375,40.674072265625" />
+    <Link Source="I" Target="P" Bounds="1023.25808570926,1010.56487357828,1069.24233188691,842.33418978823" />
+    <Link Source="IPLANT" Target="Branch" Bounds="3966.6982014974,-501.603472316965,2498.95398681177,443.735105270162" />
+    <Link Source="IPLANT" Target="Flower" Bounds="3966.6982014974,-500.210300310171,2520.42087700476,566.745128399608" />
+    <Link Source="IPLANT" Target="IlfaTree" Bounds="3966.6982014974,-504.177459410873,32412.1075627377,2923.28440256153" />
+    <Link Source="IPLANT" Target="Leaf" Bounds="3966.6982014974,-1086.14263714016,4634.97904338388,575.649666168929" />
+    <Link Source="IPLANT" Target="Node" Bounds="1728.97478282408,-497.12695642278,2178.80675200665,717.980605486225" />
+    <Link Source="IPLANT" Target="Psychosis" Bounds="3966.6982421875,-877.951965332031,2312.9140625,369.207733154297" Label="IPSYCHO: Alternate Entry;" LabelBounds="3942.21399046157,-547.389884236642,134.529999999999,15.9599999999991" />
+    <Link Source="IPLANT" Target="Root" Bounds="3966.6982014974,-503.79957817708,8810.68619740039,907.666100732626" />
+    <Link Source="IPLANT" Target="Stygia" Bounds="3966.6982014974,-503.724435010378,3664.95083508432,386.907408544713" />
+    <Link Source="IPLANT" Target="Trunk" Bounds="3966.6982014974,-499.893325645154,2404.47668645251,566.546180246339" />
+    <Link Source="Identification" Target="Personal" Bounds="1488.44519042969,595.393249511719,248.555053710938,507.213806152344" />
+    <Link Source="Identification" Target="Recognition1" Bounds="1488.44519042969,1025.81188964844,1403.43420410156,81.166748046875" />
+    <Link Source="Identification" Target="Recognize" Bounds="1488.44519042969,1031.75708007813,500.294555664063,71.52783203125" />
+    <Link Source="Identification" Target="Social" Bounds="1046.31469726563,1032.21154785156,345.2626953125,68.0255126953125" />
+    <Link Source="Identification1" Target="Recognition" Bounds="1666.87670898438,1491.63989257813,0,36.9599609375" />
+    <Link Source="IlfaTree" Target="Branch" Bounds="6576.77079253974,-43.4162980133626,29810.9985885383,2463.68994977073" />
+    <Link Source="IlfaTree" Target="Flower" Bounds="6596.79672134664,83.1544291950889,29790.9726597314,2337.31794646056" />
+    <Link Source="IlfaTree" Target="Leaf" Bounds="8698.3318752178,-1086.02903076578,27689.4375058603,3504.21829104598" />
+    <Link Source="IlfaTree" Target="Nexus" Bounds="36461.296875,2445.19897460938,9.3359375,22.89501953125" />
+    <Link Source="IlfaTree" Target="Node" Bounds="1729.40924027018,245.096728676845,34658.3601408079,2176.11946251495" />
+    <Link Source="IlfaTree" Target="Root" Bounds="12877.2622073066,413.273851362454,23510.5071737714,2006.87083045059" />
+    <Link Source="IlfaTree" Target="Seed" Bounds="7295.79160211869,-132.604695662507,29091.9777789594,2552.63625647058" />
+    <Link Source="IlfaTree" Target="Stygia" Bounds="7738.50897372179,-106.464778801222,28649.2604073563,2526.47532235107" />
+    <Link Source="IlfaTree" Target="Trunk" Bounds="6474.87211425488,82.9045416193961,29912.8972668232,2337.58259418432" />
+    <Link Source="Illog" Target="|" Category="Contains" />
+    <Link Source="In" Target="String" Bounds="5595.8115234375,1139.78149414063,0.40283203125,36.9605712890625" />
+    <Link Source="In" Target="String1" Bounds="5173.68212890625,1115.25805664063,402.4541015625,61.4840087890625" />
+    <Link Source="Influence" Target="Persuade" Bounds="1611.79284667969,814.175048828125,22.3614501953125,24.9815673828125" />
+    <Link Source="Initialize:UserEntry;" Target="Users" Bounds="7166.25146484375,1315.7109375,0,36.9599609375" Label="Global: User ID;" LabelBounds="7166.25135799408,1321.71093917847,81.4033333333336,15.96" />
+    <Link Source="Innput" Target="Bool(False)" Bounds="4509.1455078125,1579.60437011719,1638.67822265625,225.328491210938" Label="Identification: Speaker Observation;" LabelBounds="6145.38186887344,1672.42248130347,187.693333333333,15.96" />
+    <Link Source="Innput" Target="Bool(True)" Bounds="3415.380859375,1730.06530761719,1043.7646484375,73.64404296875" Label="Identification: Speaker Recognition;" LabelBounds="3787.84400861318,1761.53327423096,186.636666666667,15.96" />
+    <Link Source="Innput" Target="False" Bounds="4509.1455078125,1750.60620117188,767.3154296875,53.6920166015625" />
+    <Link Source="Innput" Target="Integer" Bounds="4509.1455078125,1206.87976074219,1856.87158203125,598.115844726563" Label="Identification++;" LabelBounds="6360.22979755028,1498.6322486756,88.4266666666663,15.96" />
+    <Link Source="Innput" Target="True" Bounds="4509.1455078125,1482.84741210938,672.9052734375,321.401123046875" Label="Input==Fact;" LabelBounds="5124.96471808608,1714.68563337038,68.0799999999999,15.96" />
+    <Link Source="Input" Target="DigitalNaturalAssimilation" Bounds="833.582847170568,3188.61919466868,8.30263410483769,277.01882739718" />
+    <Link Source="Input" Target="Letter" Bounds="814.951060613912,2673.55378092844,20.6796391703314,261.047039496497" />
+    <Link Source="Input" Target="Number" Bounds="866.135766206393,2529.45838275924,65.212513640005,405.142437665695" />
+    <Link Source="Input" Target="Other" Bounds="890.406526891643,58.6709757181926,1012.48971017562,2875.92984470674" Label="&quot;Space&quot;" LabelBounds="-88.4247425938326,86.58342526648,40.7666666666667,15.96" />
+    <Link Source="Input" Target="Qubit" Bounds="845.570651119076,3188.61887158681,0.0513489203531208,93.0050757889653" Label="(++||--)" LabelBounds="849.596325579252,3227.14251369871,39,15.96" />
+    <Link Source="Input" Target="Qubit10" Category="Contains" />
+    <Link Source="Input" Target="Qubit2" Category="Contains" />
+    <Link Source="Input" Target="Qubit3" Bounds="914.101437199676,2912.52418412552,11.890699023543,22.0763477579144" Label="(++||--)" LabelBounds="879.285958886442,2906.65394597868,39,15.9599999999991" />
+    <Link Source="Input" Target="Qubit5" Category="Contains" />
+    <Link Source="Input" Target="Qubit6" Category="Contains" />
+    <Link Source="Input" Target="Qubit7" Bounds="759.219130307914,2912.38745822368,12.8722830407415,22.2130736597546" Label="(++||--)" LabelBounds="767.385716119548,2906.53121763318,39,15.96" />
+    <Link Source="Input" Target="Qubit9" Category="Contains" />
+    <Link Source="Input" Target="Symbol" Bounds="809.795619957451,2529.55234082819,27.3275323066412,405.048479596747" />
+    <Link Source="Input1" Target="Identification1" Bounds="1666.87670898438,1579.60437011719,0,36.9599609375" />
+    <Link Source="Integer" Target="Array" Bounds="5149.861328125,1210.24426269531,225.92919921875,153.3623046875" Label="Distance: Record;" LabelBounds="5374.60561522651,1277.42623408786,90.5999999999995,15.96" />
+    <Link Source="Integer" Target="Array1" Bounds="4528.09619140625,1206.89807128906,800.30419921875,72.736572265625" />
+    <Link Source="Integer" Target="Id:001=Self;Id:002=robjam1990;" Category="Contains" />
+    <Link Source="Integer" Target="String" Bounds="5412.26904296875,1134.62084960938,132.01025390625,50.6234130859375" Label="Sub" LabelBounds="5504.14215747833,1145.78200515747,20.2166666666672,15.96" />
+    <Link Source="Integer" Target="String1" Bounds="5173.1474609375,1131.41723632813,164.453125,53.8270263671875" Label="Identify: Conversation Topic;" LabelBounds="5241.41549081167,1145.78200515747,148.726666666667,15.96" />
+    <Link Source="Integer1" Target="Array" Bounds="3713.166015625,1393.46166992188,1302.84814453125,65.774658203125" Label="Truth: Record;" LabelBounds="4934.35825730642,1409.67540618897,72.4666666666672,15.9599999999991" />
+    <Link Source="Integer1" Target="Dictionary" Bounds="740.132413353714,-828.004871478806,328.762587001887,5138.69435811802" />
+    <Link Source="Integer1" Target="String4" Bounds="3543.25732421875,865.654907226563,676.48828125,574.98046875" />
+    <Link Source="Integer2" Target="Array" Bounds="3532.2099609375,954.853088378906,1483.5947265625,405.963806152344" Label="Time: Record;" LabelBounds="3617.66520172522,1109.11782011,71.21,15.9599999999991" />
+    <Link Source="Integer2" Target="Dictionary" Bounds="714.648088628212,-827.993076869016,199.1830244728,5210.68713051873" />
+    <Link Source="Integer2" Target="String4" Bounds="3580.66064453125,865.339904785156,639.08251953125,59.5409545898438" />
+    <Link Source="Interface" Target="Dictionary" Category="Contains" />
+    <Link Source="Interface" Target="Encyclopedia" Category="Contains" />
+    <Link Source="Interface" Target="Library" Category="Contains" />
+    <Link Source="Interface" Target="Maximum:Log=IC" Category="Contains" />
+    <Link Source="Interface" Target="Neurons" Category="Contains" />
+    <Link Source="Interface" Target="Thesaurus" Category="Contains" />
+    <Link Source="Interface:MultipleStructures;" Target=".verse" Bounds="6890.59268874548,-946.444832889825,41.4794826070765,25.3119404133279" />
+    <Link Source="Inventor" Target="Electrician" Bounds="4240.9921875,193.681503295898,50.47412109375,27.3943939208984" />
+    <Link Source="Inventor" Target="Plumber" Bounds="4202.29541015625,198.388397216797,0,22.6875" />
+    <Link Source="Jight" Target="Lochtou" Bounds="36482.3515625,4081.23486328125,13.2421875,25.5" />
+    <Link Source="Jight" Target="Slake" Bounds="36408.23828125,3932.5830078125,33.8359375,175.0146484375" />
+    <Link Source="Judge" Target="Lady" Bounds="5271.27783203125,268.520660400391,34.59033203125,26.2472229003906" />
+    <Link Source="Judge" Target="Lord" Bounds="5232.05615234375,271.785583496094,6.03173828125,22.9822998046875" />
+    <Link Source="Kinderyarn" Target="Cedalion" Category="Contains" />
+    <Link Source="Kinderyarn" Target="Flaxchop" Category="Contains" />
+    <Link Source="Kinderyarn" Target="Map" Bounds="36498.80078125,3426.39819335938,4.2109375,22.79638671875" />
+    <Link Source="Kinderyarn" Target="Nymenada" Bounds="36533.3828125,3706.58740234375,18.08984375,26.437744140625" />
+    <Link Source="Kinderyarn" Target="Peachstraw" Category="Contains" />
+    <Link Source="Lady" Target="Queen" Bounds="5340.71630859375,198.388397216797,0,22.6875" />
+    <Link Source="Language" Target="Animal" Bounds="1173.48620605469,879.026428222656,106.638549804688,36.3078002929688" />
+    <Link Source="Language" Target="Influence" Bounds="1388.93811035156,878.445434570313,202.675170898438,42.8098754882813" />
+    <Link Source="Language" Target="Literature" Bounds="1386.32690429688,884.418579101563,70.2906494140625,28.455322265625" />
+    <Link Source="Language" Target="Negotiate" Bounds="1346.87841796875,888.916076660156,14.094970703125,23.9325561523438" />
+    <Link Source="Language" Target="Slander" Bounds="1276.30578613281,886.817810058594,32.2132568359375,26.0308227539063" />
+    <Link Source="Leadership" Target="Animal" Bounds="1060.83776855469,887.2568359375,27.798583984375,25.591796875" />
+    <Link Source="Leadership" Target="Delegate" Bounds="969.244934082031,886.280639648438,38.4134521484375,26.5679931640625" />
+    <Link Source="Learning" Target="Games" Bounds="330.407836914063,433.73681640625,0,36.9599914550781" />
+    <Link Source="Learning" Target="Logistics" Bounds="361.984466552734,429.721069335938,61.6065673828125,40.9757385253906" />
+    <Link Source="Learning" Target="Teaching" Bounds="240.143997192383,429.825347900391,59.6249237060547,40.8714599609375" />
+    <Link Source="Letter" Target="Word" Bounds="6745.71240234375,666.222045898438,10.5390625,25.5506591796875" />
+    <Link Source="Letters" Target="ABCDEFGHIJKLMNOPQRSTUVWXYZ" Category="Contains" />
+    <Link Source="Letters" Target="ABCDEFGHIJKLMNOPQRSTUVWXYZ" Index="1" Bounds="2721.6708984375,2196.77758789063,4.5,15.5" />
+    <Link Source="Location" Target="Depth" Bounds="62.2688342979883,-140.140769130569,6.8262638279748E-06,21.0000000000005" />
+    <Link Source="Location" Target="Duration" Category="Contains" />
+    <Link Source="Location" Target="Gravity" Category="Contains" />
+    <Link Source="Location" Target="Length" Category="Contains" Bounds="20.4740280042753,-60.6402226386389,7.94542431937536,21.5554147664197" />
+    <Link Source="Location" Target="Width" Category="Contains" Bounds="-113.553019440924,-60.6404420941461,3.70193130040541,21.1349618561575" />
+    <Link Source="Lochtou" Target="Jight" Bounds="36530.95703125,4075.04711914063,17.9375,29.181396484375" />
+    <Link Source="Lochtou" Target="Varthek" Bounds="36497.23046875,4008.76977539063,7.83203125,24.27294921875" />
+    <Link Source="Log(99)" Target=".ject" Bounds="6421.42464492261,-771.098509298929,70.8332934546897,31.6353580885648" Label=".ject: Relevent Context;" LabelBounds="6323.24446043124,-767.135348219072,119.500000000002,15.9599999999991" />
+    <Link Source="Log(99)" Target="Constant:ParseVerse;" Bounds="1717.13745367646,-716.99987035607,4609.26050487558,158.664701595128" />
+    <Link Source="Log:DataStorage;" Target="C" Bounds="626.853003393541,1678.68820762634,1434.40548973741,463.679479677631" />
+    <Link Source="Log:DataStorage;" Target="N" Bounds="2126.22973632813,1615.68286132813,0,21" />
+    <Link Source="Log:DataStorage;" Target="O" Bounds="526.750745994579,1673.07660073212,1528.889846021,333.346640791843" />
+    <Link Source="Logistics" Target="Cartography" Bounds="462.661468505859,345.772338867188,0,36.9599914550781" />
+    <Link Source="Lord" Target="King" Bounds="5224.259765625,198.388397216797,0,22.6875" />
+    <Link Source="Maia" Target="IPLANT" Bounds="3975.54418945313,-953.663940429688,2346.48559570313,439.653137207031" Label="IPLANT: Neural Nodemap;" LabelBounds="6036.44533064707,-898.099329072775,138.766666666666,15.9599999999991" />
+    <Link Source="Maia" Target="Psychosis" Bounds="6340.4111328125,-951.132934570313,6.669921875,21.2697143554688" />
+    <Link Source="Map" Target="BarbarianCamp" Category="Contains" />
+    <Link Source="Map" Target="Bractal" Category="Contains" />
+    <Link Source="Map" Target="Bractus" Category="Contains" />
+    <Link Source="Map" Target="IlfaTree" Category="Contains" />
+    <Link Source="Map" Target="Kinderyarn" Bounds="36554.71484375,3417.50708007813,1.96484375,22.715576171875" />
+    <Link Source="Map" Target="MountRobson" Category="Contains" />
+    <Link Source="Map" Target="Newtopia" Category="Contains" />
+    <Link Source="Map" Target="Nexus" Category="Contains" />
+    <Link Source="Map" Target="Nymenada" Bounds="36447.23828125,3417.50708007813,11.75390625,312.59228515625" />
+    <Link Source="Map" Target="Ruins" Category="Contains" />
+    <Link Source="Map" Target="Wolk" Bounds="36454.78515625,2184.64135742188,3.20703125,23.16455078125" />
+    <Link Source="Marketplace" Target="Blacksmith" Bounds="36489.36328125,2787.97119140625,26.375,320.173095703125" />
+    <Link Source="Marketplace" Target="MercenaryCamp" Bounds="36449.55859375,2719.94653320313,7.23046875,26.020263671875" />
+    <Link Source="Marketplace" Target="Pottery" Bounds="36416.1171875,2787.97119140625,40.56640625,27.614990234375" />
+    <Link Source="Marketplace" Target="Tavern" Bounds="36537.8671875,2574.68725585938,175.87109375,182.7783203125" />
+    <Link Source="Marketplace" Target="Temple" Bounds="36537.8671875,2649.58129882813,99.91796875,103.56982421875" />
+    <Link Source="Marketplace" Target="Weavery" Bounds="36349.88671875,2649.58618164063,65.96484375,98.201171875" />
+    <Link Source="Mathematics" Target="$" Category="Contains" />
+    <Link Source="Mathematics" Target="%" Category="Contains" />
+    <Link Source="Mathematics" Target="*" Index="1" Bounds="550.032123948762,402.204779489135,1265.92105363305,1864.90762323516" />
+    <Link Source="Mathematics" Target="*" Category="Contains" />
+    <Link Source="Mathematics" Target="+" Category="Contains" />
+    <Link Source="Mathematics" Target="-" Category="Contains" />
+    <Link Source="Mathematics" Target="." Category="Contains" />
+    <Link Source="Mathematics" Target="." Index="1" Bounds="1877.64111328125,391.204681396484,4.5,15.4997863769531" />
+    <Link Source="Mathematics" Target="=" Index="1" Bounds="694.889352752211,402.204779489135,1080.93828431737,1164.77803897103" />
+    <Link Source="Mathematics" Target="=" Category="Contains" />
+    <Link Source="Mathematics" Target="Other" Bounds="1925.24960064835,59.1813870902801,8.05813351689721E-06,21.0001000000016" />
+    <Link Source="Mathematics" Target="^" Category="Contains" />
+    <Link Source="Matter" Target="Density" Category="Contains" />
+    <Link Source="Matter" Target="Depth" Bounds="6482.46767286254,107.872469786994,165.428431297506,325.99730498609" />
+    <Link Source="Matter" Target="Length" Bounds="6485.74138487676,303.694079661433,73.805774436064,130.175695111651" />
+    <Link Source="Matter" Target="Width" Bounds="6454.54968343656,304.86486625234,0.00402172095164133,129.004908520744" />
+    <Link Source="MercenaryCamp" Target="Marketplace" Bounds="36504.46484375,2714.279296875,5.11328125,24.66943359375" />
+    <Link Source="MercenaryCamp" Target="Temple" Bounds="36518.41796875,2639.82177734375,61.37890625,32.453125" />
+    <Link Source="MercenaryCamp" Target="Weavery" Bounds="36395.89453125,2644.8369140625,55.70703125,27.43798828125" />
+    <Link Source="Miner" Target="Engineer" Bounds="3501.85791015625,327.778350830078,424.68603515625,56.9667358398438" />
+    <Link Source="MountRobson" Target="Bractal" Bounds="36650.37890625,2293.61962890625,78.859375,108.36865234375" />
+    <Link Source="MountRobson" Target="Bractus" Bounds="36606.27734375,2297.81494140625,7.2109375,24.30859375" />
+    <Link Source="MountRobson" Target="Nexus" Bounds="36360.5546875,2297.81494140625,160.984375,170.279541015625" />
+    <Link Source="Multi-LogIdentification" Target="Log(99)" Bounds="6382.34233607027,-688.937825551757,5.35115316347674,21.2721266787755" />
+    <Link Source="Mytholog" Target="O" Category="Contains" />
+    <Link Source="Naval" Target="Aeronautics" Bounds="397.282562255859,198.388397216797,0,22.6875" />
+    <Link Source="Negotiate" Target="Intimidation" Bounds="1368.67980957031,816.276428222656,4.8125,22.8801879882813" />
+    <Link Source="Negotiate" Target="Persuade" Bounds="1432.52685546875,807.959289550781,93.485107421875,32.949462890625" />
+    <Link Source="Neuro" Target="#" Category="Contains" />
+    <Link Source="Neurons" Target="Dictionary" Bounds="727.633422851563,-841.725524902344,379.112060546875,3244.20599365234" Label="Update: Public Facts;" LabelBounds="766.186186784908,2369.83904277621,108.766666666667,15.9599999999991" />
+    <Link Source="Neurons" Target="Encyclopedia" Bounds="727.633422851563,1162.9521484375,360.210815429688,1239.5283203125" />
+    <Link Source="Neurons" Target="Thesaurus" Bounds="676.271308801971,2365.56408587348,0.147434796243715,20.9999019037814" />
+    <Link Source="Newtopia" Target="Nexus" Bounds="36495.5546875,3185.16040039063,10.7421875,22.958251953125" />
+    <Link Source="Newtopia" Target="Ruins" Bounds="36532.3046875,3250.123046875,18.7578125,28.4365234375" />
+    <Link Source="Nexus" Target="Blacksmith" Category="Contains" />
+    <Link Source="Nexus" Target="Bractal" Bounds="36588.62109375,2452.17529296875,13.38671875,24.711181640625" />
+    <Link Source="Nexus" Target="Bractus" Bounds="36514.10546875,2378.42651367188,27.3046875,98.4599609375" />
+    <Link Source="Nexus" Target="Farmhouse" Category="Contains" />
+    <Link Source="Nexus" Target="Guardhouse" Category="Contains" />
+    <Link Source="Nexus" Target="IlfaTree" Bounds="36415.328125,2453.93359375,0.67578125,22.952880859375" />
+    <Link Source="Nexus" Target="Marketplace" Category="Contains" />
+    <Link Source="Nexus" Target="MercenaryCamp" Category="Contains" />
+    <Link Source="Nexus" Target="MountRobson" Bounds="36325.23828125,2287.48974609375,183.94921875,189.396728515625" />
+    <Link Source="Nexus" Target="Newtopia" Bounds="36550.29296875,3176.43115234375,0.76953125,22.805419921875" />
+    <Link Source="Nexus" Target="Pottery" Category="Contains" />
+    <Link Source="Nexus" Target="Ruins" Bounds="36447.23828125,3176.43115234375,10.0703125,97.990966796875" />
+    <Link Source="Nexus" Target="Stables" Category="Contains" />
+    <Link Source="Nexus" Target="Tavern" Category="Contains" />
+    <Link Source="Nexus" Target="Temple" Category="Contains" />
+    <Link Source="Nexus" Target="Weavery" Category="Contains" />
+    <Link Source="Node" Target="#" Category="Contains" />
+    <Link Source="Node" Target="@" Category="Contains" />
+    <Link Source="Node" Target="Flower" Bounds="1720.42692832947,80.6747632217466,4766.47788609785,158.7480360014" />
+    <Link Source="Node" Target="Leaf" Bounds="1720.42692832947,-1082.93407207909,6881.34141694405,1313.97389283002" />
+    <Link Source="Node" Target="Other" Bounds="1690.98950195313,37.8518867492676,129.306884765625,148.337352752686" />
+    <Link Source="Node" Target="_" Category="Contains" />
+    <Link Source="Node" Target="_" Index="1" Bounds="942.49159686256,296.19843946228,697.479479496414,1406.39661855629" />
+    <Link Source="Node" Target="`" Index="1" Bounds="1667.24951171875,285.198333740234,4.5,15.5000610351563" />
+    <Link Source="Node" Target="`" Category="Contains" />
+    <Link Source="NodeAnalog" Target="SourceCode" Category="Contains" />
+    <Link Source="Number" Target="Word" Bounds="6701.1279296875,255.544845581055,87.33447265625,353.535903930664" />
+    <Link Source="Numbers" Target="0" Index="1" Bounds="2970.103515625,-8.82172584533691,4.5,15.4998421669006" />
+    <Link Source="Numbers" Target="0" Category="Contains" />
+    <Link Source="Numbers" Target="1" Index="1" Bounds="3010.84057617188,-110.828582763672,38.145263671875,4.5" />
+    <Link Source="Numbers" Target="1" Category="Contains" />
+    <Link Source="Numbers" Target="23456789" Category="Contains" />
+    <Link Source="Nymenada" Target="Kinderyarn" Bounds="36482.3984375,3714.87768554688,7.12109375,23.397216796875" />
+    <Link Source="Nymenada" Target="Map" Bounds="36408.23828125,3426.482421875,32.80859375,311.79248046875" />
+    <Link Source="Nymenada" Target="Thipse" Bounds="36504.27734375,3780.279296875,7.2109375,24.30859375" />
+    <Link Source="O" Target="N" Bounds="517.957329533895,1596.60179486969,1566.57585093674,410.289843393685" />
+    <Link Source="Observation" Target="Identification" Bounds="1440.01123046875,1139.78198242188,0,36.9600830078125" />
+    <Link Source="Observation1" Target="Observation2" Bounds="3111.74926757813,1051.81750488281,0,36.9600830078125" />
+    <Link Source="Observation2" Target="Output3" Bounds="3060.22094726563,961.686950683594,33.530029296875,39.1260986328125" />
+    <Link Source="Opus" Target="IPLANT" Bounds="3975.47094726563,-952.928527832031,1908.75170898438,437.3349609375" Label="IPLANT: Neural Nodemap;" LabelBounds="5658.39200097455,-899.1245466224,138.766666666666,15.9599999999991" />
+    <Link Source="Opus" Target="Psychosis" Bounds="5968.9580078125,-956.595092773438,308.5087890625,57.5994262695313" />
+    <Link Source="Other" Target="&quot;Space&quot;" Bounds="947.380774748335,-3378.47929988507,961.925568066479,3318.65181302899" Label="Other=&quot;Space&quot;;" LabelBounds="-299.071387169409,205.527650853806,81.93,15.96" />
+    <Link Source="Other" Target="&amp;" Index="1" Bounds="820.670441901157,50.1817082000729,1071.76644070725,1796.61951402056" />
+    <Link Source="Other" Target="&amp;" Category="Contains" />
+    <Link Source="Other" Target="/" Index="1" Bounds="1971.02514648438,39.1815490722656,4.5,15.4998397827148" />
+    <Link Source="Other" Target="/" Category="Contains" />
+    <Link Source="Other" Target="\" Category="Contains" />
+    <Link Source="Other" Target="\" Index="1" Bounds="1879.40905761719,39.1816101074219,4.5,15.4997787475586" />
+    <Link Source="Other" Target="|" Index="1" Bounds="520.484263452513,50.1817082000729,1363.04780071938,1797.17667463484" />
+    <Link Source="Other" Target="|" Category="Contains" />
+    <Link Source="Other" Target="~" Category="Contains" />
+    <Link Source="Output" Target="Input" Category="Contains" />
+    <Link Source="Output" Target="Qubit" Category="Contains" Bounds="-627.542114257813,-247.770782470703,229.533966064453,49.2395629882813" />
+    <Link Source="Output" Target="Qubit1" Category="Contains" />
+    <Link Source="Output" Target="Qubit3" Category="Contains" Bounds="-874.060805732003,-240.676720506535,188.705347561431,41.1954406673418" />
+    <Link Source="Output" Target="Qubit4" Category="Contains" />
+    <Link Source="Output" Target="Qubit7" Category="Contains" Bounds="-689.467102050781,-180.190795898438,29.2579345703125,229.870979309082" />
+    <Link Source="Output" Target="Qubit8" Category="Contains" />
+    <Link Source="Output1" Target="Identification" Bounds="1477.923828125,1135.88623046875,59.331787109375,40.8558349609375" />
+    <Link Source="Output2" Target="Character" Bounds="1713.7294921875,1315.7109375,0,36.9599609375" />
+    <Link Source="Output3" Target="Encyclopedia" Bounds="367.98779492004,1163.27047009217,230.891702677456,2931.40531551555" />
+    <Link Source="Output4" Target="Exit" Bounds="3344.69311523438,742.777160644531,0,22.6875" />
+    <Link Source="P" Target="E" Bounds="2126.22973632813,941.990661621094,0,21" />
+    <Link Source="Paragraph" Target="Log(99)" Bounds="2777.11642233535,-711.005108273629,3540.36072102989,472.762260368463" />
+    <Link Source="Peachstraw" Target="Flaxchop" Bounds="36582.27734375,3539.20336914063,7.2109375,24.30859375" />
+    <Link Source="Personal" Target="Athletic" Bounds="71.6305694580078,433.73681640625,1627.21073913574,130.809936523438" />
+    <Link Source="Personal" Target="Crafting" Bounds="1775.15905761719,433.73681640625,2782.40783691406,131.155700683594" />
+    <Link Source="Personal" Target="Learning" Bounds="390.777740478516,494.861846923828,1308.06356811523,68.5299987792969" />
+    <Link Source="Personal" Target="Survival" Bounds="1154.83276367188,498.356567382813,544.008544921875,62.6405639648438" />
+    <Link Source="Personal" Target="Vagrant" Bounds="1775.15905761719,494.179718017578,1624.96643066406,69.5774230957031" />
+    <Link Source="Pirate" Target="Assassin" Bounds="3415.9677734375,267.817657470703,43.533935546875,26.9502258300781" />
+    <Link Source="Plant" Target="Branch" Bounds="7745.0654296875,269.887115478516,218.3369140625,204.519287109375" />
+    <Link Source="Plant" Target="Flower" Bounds="8013.9716796875,512.701293945313,266.5615234375,336.920349121094" />
+    <Link Source="Plant" Target="IPLANT" Bounds="2199.18846885681,-621.714526725363,1699.61266152014,112.339497370327" />
+    <Link Source="Plant" Target="Leaf" Bounds="7956.9912109375,197.686447143555,83.0439453125,273.010360717773" />
+    <Link Source="Plant" Target="Node" Bounds="1702.82752692082,-603.474969863892,442.672278334133,781.832502932343" />
+    <Link Source="Plant" Target="Root" Bounds="8046.99658203125,414.052856445313,372.90380859375,68.718017578125" />
+    <Link Source="Plant" Target="Trunk" Bounds="8006.4541015625,176.332702636719,442.8740234375,294.364105224609" />
+    <Link Source="Poe" Target=".ject" Bounds="4787.47700564067,-782.369335877116,1704.18431336756,351.61642737484" Label=".ject: Resource Management;" LabelBounds="-2073.33503890778,-301.950980779956,151.770000000002,15.96" />
+    <Link Source="Poe" Target=".verse" Bounds="4787.47700564067,-958.453008313974,2008.72369706322,525.581522924408" Label="EntryPoint: Magnetic Pipeline;" LabelBounds="-2041.77617998832,-193.807895000248,157.120000000001,15.9600000000001" />
+    <Link Source="Poe" Target="Aithaluwa" Bounds="4787.25750717557,-946.961909093519,964.034747654976,504.196828069568" />
+    <Link Source="Poe" Target="Apus" Bounds="4787.47700564067,-956.79627639359,1717.90437443156,522.301714282544" />
+    <Link Source="Poe" Target="Arkantos" Bounds="4787.47700564067,-948.192832659949,1254.09443031079,509.774898522959" />
+    <Link Source="Poe" Target="Maia" Bounds="4787.47700564067,-955.13186956932,1525.99553222111,519.249717691774" />
+    <Link Source="Poe" Target="Opus" Bounds="4787.47700564067,-948.721119859634,1088.80365444564,508.002452286148" />
+    <Link Source="Poe" Target="Ralph" Bounds="4787.47700564067,-953.095682837397,1409.02505726814,516.214317552539" />
+    <Link Source="Pottery" Target="Farmhouse" Bounds="36337.921875,2861.6630859375,25.625,27.39990234375" />
+    <Link Source="Pottery" Target="Marketplace" Bounds="36364.015625,2789.736328125,43.68359375,29.92236328125" />
+    <Link Source="Pottery" Target="Stables" Bounds="36405.578125,2861.6630859375,32.16015625,100.51806640625" />
+    <Link Source="Pottery" Target="Weavery" Bounds="36285.73828125,2646.60864257813,34.17578125,173.050048828125" />
+    <Link Source="Priest" Target="Oracle" Bounds="2750.94482421875,336.81201171875,435.9033203125,50.8332214355469" />
+    <Link Source="Psychosis" Target=".verse" Bounds="6393.51707156807,-964.701800395851,402.479357214278,56.9898935529036" Label="EntryPoint: Magnetic Pipeline;" LabelBounds="6354.14636514917,-942.364810814784,157.119999999999,15.9599999999991" />
+    <Link Source="Psychosis" Target="Aithaluwa" Bounds="5843.5234375,-949.779296875,442.91259765625,57.0525512695313" />
+    <Link Source="Psychosis" Target="Apus" Bounds="6393.458984375,-958.453735351563,112.111328125,39.7327270507813" />
+    <Link Source="Psychosis" Target="Arkantos" Bounds="6137.99365234375,-946.353698730469,148.4423828125,36.6329956054688" />
+    <Link Source="Psychosis" Target="IPLANT" Bounds="3975.49951171875,-884.759521484375,2310.9365234375,367.989624023438" Label="Thear: Vegetative Consequences;" LabelBounds="6164.6060466458,-862.911762264259,173.343333333331,15.9599999999991" />
+    <Link Source="Psychosis" Target="Maia" Bounds="6344.22509765625,-942.550842285156,6.4931640625,21.4179077148438" />
+    <Link Source="Psychosis" Target="Opus" Bounds="5976.74951171875,-959.031677246094,309.6865234375,53.74609375" />
+    <Link Source="Psychosis" Target="Ralph" Bounds="6291.544921875,-946.112243652344,38.2607421875,24.9793090820313" />
+    <Link Source="Pyrotechnics" Target="Baking" Bounds="2275.50390625,887.979736328125,21.42431640625,24.868896484375" />
+    <Link Source="Pyrotechnics" Target="Cooking" Bounds="2217.8935546875,887.979736328125,21.424072265625,24.868896484375" />
+    <Link Source="Quantalog" Target="2" Category="Contains" />
+    <Link Source="Qubit" Target="Qubit1" Bounds="882.596930582833,3265.06220506847,45.0847087566358,25.5617409355923" Label="Y;" LabelBounds="892.101730884519,3261.74086743868,9.23333333333358,15.96" />
+    <Link Source="Qubit1" Target="Qubit2" Bounds="867.588790661102,3103.73679876427,88.7415882894088,114.88260070453" />
+    <Link Source="Qubit10" Target="Qubit6" Bounds="916.99719897735,3027.48373251375,80.5026156488137,27.1261754043794" Label="Q*;" LabelBounds="946.223190295878,3045.05260468803,16.6499999999994,15.96" />
+    <Link Source="Qubit2" Target="Qubit6" Bounds="845.944257372467,3033.60979215212,0.0805312808656709,21.0001157660049" Label="E;" LabelBounds="833.314523012792,3036.122180488,8.67000000000007,15.96" />
+    <Link Source="Qubit3" Target="Qubit4" Bounds="953.233914655744,2840.46421301652,12.2889562997092,22.1317788859874" Label="Z;" LabelBounds="948.1865277444,2834.59920761626,9.44333333333361,15.96" />
+    <Link Source="Qubit4" Target="Qubit5" Bounds="666.729525234013,2832.59558948955,287.005011850718,216.676438087171" />
+    <Link Source="Qubit5" Target="Qubit6" Bounds="694.193489292682,3027.47805349116,80.9496749806813,27.2168153644725" Label="P;" LabelBounds="729.370950079892,3021.12072482549,9.31999999999971,15.96" />
+    <Link Source="Qubit6" Target="Output" Bounds="846.139831542969,2729.08666992188,12.322265625,253.518798828125" Label="=" LabelBounds="833.929841017366,2856.60862453525,8.21000000000004,15.96" />
+    <Link Source="Qubit7" Target="Qubit8" Bounds="719.209093332516,2840.51039505236,11.9567195346103,22.0855968501423" Label="X;" LabelBounds="726.946247502318,2834.64101584183,9.67666666666719,15.96" />
+    <Link Source="Qubit8" Target="Qubit9" Bounds="723.528968640178,2832.59558948955,273.433642974306,287.497670151392" />
+    <Link Source="Qubit9" Target="Qubit10" Bounds="1033.84112586981,3104.6334210019,11.2000285791498,21.9811255880995" Label="i;" LabelBounds="1032.15246325421,3098.75599728181,5.50666666666621,15.96" />
+    <Link Source="Queue" Target="Input" Bounds="809.771955097309,3197.56967982274,21.5992975948526,205.059735680003" />
+    <Link Source="Radiolog" Target="^" Category="Contains" />
+    <Link Source="Ralph" Target="IPLANT" Bounds="3975.52661132813,-956.224487304688,2229.42602539063,441.804931640625" Label="IPLANT: Neural Nodemap;" LabelBounds="6063.24712726618,-925.99621572364,138.766666666666,15.9599999999991" />
+    <Link Source="Ralph" Target="Psychosis" Bounds="6273.32958984375,-951.132934570313,38.1328125,25.036376953125" />
+    <Link Source="Recognition" Target="Output2" Bounds="1678.06311035156,1402.61889648438,20.2489013671875,38.0164794921875" />
+    <Link Source="Recognition1" Target="Output3" Bounds="2978.9814453125,961.686950683594,33.530029296875,39.1260986328125" />
+    <Link Source="Recognize" Target="Compare" Bounds="2053.81079101563,963.849365234375,1.059814453125,36.9636840820313" />
+    <Link Source="Recognize" Target="Crime" Bounds="2108.78247070313,942.120788574219,454.745361328125,71.0157470703125" />
+    <Link Source="Recognize" Target="Forage" Bounds="1948.9013671875,959.470458984375,69.1690673828125,41.3425903320313" />
+    <Link Source="Recognize" Target="Pyrotechnics" Bounds="2101.96362304688,958.413696289063,98.426513671875,42.3993530273438" />
+    <Link Source="RelativeNumericalAugmentation" Target="Format:Java-Verse;" Category="Contains" />
+    <Link Source="RelativeNumericalAugmentation" Target="GenerationalNomenclatureAcronyms" Category="Contains" />
+    <Link Source="Researcher" Target="Scientist" Bounds="3874.88330078125,198.388397216797,0,22.6875" />
+    <Link Source="Robjam1990" Target=".ject" Category="Contains" Bounds="298.539452100497,132.530092790983,2.73452638669579,21.0748181798515" Label="CLI: Developers Tools;" LabelBounds="303.906854668784,135.344851091443,114.47,15.96" />
+    <Link Source="Robjam1990" Target=".verse" Category="Contains" Bounds="261.657653808594,132.530090332031,24.8888549804688,77.6748199462891" Label="EntryPoint: Magnetic Pipeline;" LabelBounds="266.916812281569,160.056704463784,157.12,15.96" />
+    <Link Source="Robjam1990" Target="9d5170c3-64ad-4fc7-a3e9-7b51272201bd1" Category="Contains" />
+    <Link Source="Robjam1990" Target="Aithaluwa" Category="Contains" />
+    <Link Source="Robjam1990" Target="Apus" Category="Contains" />
+    <Link Source="Robjam1990" Target="Arkantos" Category="Contains" />
+    <Link Source="Robjam1990" Target="Game:StoryBased;" Category="Contains" />
+    <Link Source="Robjam1990" Target="Game:TextureBased;" Category="Contains" />
+    <Link Source="Robjam1990" Target="IPLANT" Category="Contains" Bounds="223.71321105957,132.530090332031,68.5485076904297,80.0653228759766" />
+    <Link Source="Robjam1990" Target="Interface:MultipleStructures;" Category="Contains" />
+    <Link Source="Robjam1990" Target="Log(99)" Category="Contains" Bounds="354.639227584733,118.98877328843,21.0010219665859,0.300625026604251" Label="Produce: Layer of Generation;" LabelBounds="287.056111939205,99.179085780742,156.11,15.96" />
+    <Link Source="Robjam1990" Target="Maia" Category="Contains" />
+    <Link Source="Robjam1990" Target="Multi-LogIdentification" Category="Contains" />
+    <Link Source="Robjam1990" Target="Opus" Category="Contains" />
+    <Link Source="Robjam1990" Target="Psychosis" Category="Contains" Bounds="230.152384896047,119.731100187196,21.0001760220198,0.0863155677318304" />
+    <Link Source="Robjam1990" Target="Ralph" Category="Contains" />
+    <Link Source="Robjam1990.ca" Target="User:Log-in;" Bounds="272.260559082031,1971.46215820313,0,93.004638671875" />
+    <Link Source="Robjam1990.ca" Target="User:Sign-up;" Bounds="214.871505737305,2039.39624023438,38.2952423095703,25.070556640625" />
+    <Link Source="Robjam1990.ca" Target="fef94185-5d50-42ec-a150-26d91366787c1" Category="Contains" />
+    <Link Source="Rogue" Target="Guard" Bounds="3117.85522460938,336.065826416016,443.791015625,48.8507080078125" />
+    <Link Source="Rogue" Target="Mercenary" Bounds="3117.14501953125,333.385589599609,587.286376953125,50.2822265625" />
+    <Link Source="Root" Target="IlfaTree" Bounds="12868.2948181407,412.50838970697,23510.5071737715,2006.87083045059" />
+    <Link Source="Ruins" Target="BarbarianCamp" Bounds="36504.27734375,3323.81494140625,7.2109375,24.30859375" />
+    <Link Source="Ruins" Target="Newtopia" Bounds="36482.37109375,3255.74194335938,16.1875,26.068603515625" />
+    <Link Source="Ruins" Target="Nexus" Bounds="36408.23828125,3185.32958984375,32.74609375,96.813232421875" />
+    <Link Source="Scholar" Target="Doctor" Bounds="3154.48706054688,267.523651123047,47.989990234375,27.2442321777344" />
+    <Link Source="Scholar" Target="Professor" Bounds="3117.49243164063,272.080383300781,0,22.6875" />
+    <Link Source="Seed" Target="Branch" Bounds="7644.46484375,271.443176269531,719.8798828125,431.760375976563" />
+    <Link Source="Seed" Target="Root" Bounds="8447.3427734375,432.15234375,60.7216796875,265.664184570313" />
+    <Link Source="Seed" Target="Sprout" Bounds="8376.4296875,667.626037597656,15.7314453125,24.1466674804688" />
+    <Link Source="Sentence" Target="Constant:Format" Bounds="1107.65242553825,-3512.1580118763,1603.90957696208,3332.32139726754" />
+    <Link Source="Sentence" Target="Paragraph" Bounds="2721.67084332447,-200.836648465615,3.56016730620468E-05,21.0000343322883" />
+    <Link Source="Shelter" Target="House" Bounds="2305.59521484375,345.635772705078,6.53662109375,37.0965576171875" />
+    <Link Source="Shelter" Target="Stucture" Bounds="2362.76635742188,325.846740722656,410.82080078125,69.9019470214844" />
+    <Link Source="Skin" Target="Tanning" Bounds="783.602661132813,272.080383300781,0,22.6875" />
+    <Link Source="Slake" Target="Jight" Bounds="36447.23828125,3927.66333007813,15.3359375,171.279052734375" />
+    <Link Source="Slake" Target="Thipse" Bounds="36452.98828125,3861.35034179688,7.2109375,24.308349609375" />
+    <Link Source="Slake" Target="Varthek" Bounds="36523.98828125,3926.41723632813,24.41015625,24.467529296875" />
+    <Link Source="Social" Target="Barter" Bounds="933.603393554688,961.249694824219,39.1583251953125,39.5633544921875" />
+    <Link Source="Social" Target="Language" Bounds="1037.48449707031,950.141235351563,233.881225585938,60.339111328125" />
+    <Link Source="Social" Target="Leadership" Bounds="1004.16784667969,962.884826660156,19.1768798828125,37.92822265625" />
+    <Link Source="Socio" Target="&amp;" Category="Contains" />
+    <Link Source="Soldier" Target="Captain" Bounds="3615.0185546875,198.388397216797,0,22.6875" />
+    <Link Source="SourceCode" Target="Format:IPLANT;" Category="Contains" />
+    <Link Source="SourceCode" Target="Output" Bounds="568.156930113124,3360.93845714032,147.169552153771,353.718360425407" />
+    <Link Source="Sprout" Target="Root" Bounds="8358.0458984375,432.577606201172,95.392578125,185.503143310547" />
+    <Link Source="Sprout" Target="Vegetation" Bounds="7990.6923828125,574.9033203125,320.8955078125,47.2033081054688" />
+    <Link Source="Stables" Target="Farmhouse" Bounds="36289.19140625,2943.74243164063,30.27734375,23.30029296875" />
+    <Link Source="Stables" Target="Guardhouse" Bounds="36397.6953125,3009.04711914063,14.22265625,23.927490234375" />
+    <Link Source="Stables" Target="Pottery" Bounds="36383.52734375,2869.05151367188,15.2109375,97.9912109375" />
+    <Link Source="String" Target="Array" Bounds="5149.93603515625,1130.78198242188,524.61572265625,237.9013671875" Label="Ob" LabelBounds="5674.55160756429,1233.74647216797,16.1000000000004,15.96" />
+    <Link Source="String" Target="String4" Bounds="4371.7666015625,862.205749511719,1292.45166015625,226.571838378906" Label="Recognize: new Speaker;" LabelBounds="5664.2182911555,969.853071136475,129.88,15.96" />
+    <Link Source="String" Target="String5" Bounds="4804.6142578125,1029.39685058594,712.1650390625,72.286865234375" Label="Recognize: Speaker;" LabelBounds="5163.23160756429,1057.81753814697,104.853333333333,15.96" />
+    <Link Source="String1" Target="Array" Bounds="5140.29345703125,1130.78198242188,45.79833984375,218.111450195313" />
+    <Link Source="String1" Target="Integer" Bounds="5164.71240234375,1116.92297363281,280.064453125,64.236572265625" />
+    <Link Source="String1" Target="Integer1" Bounds="3722.16040039063,1130.78198242188,1334.45825195313,328.06494140625" Label="V++;" LabelBounds="4895.85825730642,1277.72870567322,26.4733333333334,15.96" />
+    <Link Source="String1" Target="String2" Bounds="4416.04345703125,1030.57727050781,633.32470703125,73.099365234375" Label="Recognize: Current Context;" LabelBounds="4544.63825730642,1057.81753814697,146.783333333335,15.96" />
+    <Link Source="String1" Target="String3" Bounds="4908.56005859375,944.960632324219,198.47998046875,143.816955566406" Label="Inter" LabelBounds="5105.99761539243,1014.07788262309,24.5,15.96" />
+    <Link Source="String2" Target="Array" Bounds="4191.8701171875,1042.81750488281,823.9169921875,318.717651367188" Label="Analyze: Prospective Knowledge;" LabelBounds="4088.23602380117,1189.76423866272,172.759999999998,15.96" />
+    <Link Source="String2" Target="Integer2" Bounds="3589.60986328125,940.810913085938,698.34521484375,74.6366577148438" Label="Ad" LabelBounds="3921.20459824244,969.853071136475,14.8066666666668,15.96" />
+    <Link Source="String2" Target="String3" Bounds="4406.21435546875,941.922058105469,368.1298828125,59.7467041015625" Label="Pro" LabelBounds="4457.71492397309,969.853071136475,17.9233333333323,15.96" />
+    <Link Source="String2" Target="String4" Bounds="4305.95556640625,889.666381835938,36.2919921875,111.146667480469" />
+    <Link Source="String3" Target="Array" Bounds="4899.68115234375,936.296569824219,983.00634765625,433.491271972656" Label="Analyze: Situational Knowledge;" LabelBounds="5867.35968770403,1143.11389113365,167.923333333332,15.96" />
+    <Link Source="String3" Target="Output" Bounds="845.518037619678,3361.6289885234,0.125233959661387,805.051364094819" Label="Format: Output;" LabelBounds="1982.2,98.6075000000001,83.8733333333332,15.96" />
+    <Link Source="String3" Target="String4" Bounds="4371.68896484375,870.413635253906,411.5908203125,55.5782470703125" />
+    <Link Source="String4" Target="Array1" Bounds="4066.66137695313,868.353820800781,291.566650390625,393.385437011719" Label="Analyze: Prospective Relation;" LabelBounds="4132.77482785067,1032.77774919805,156.623333333333,15.96" />
+    <Link Source="String4" Target="Output" Bounds="832.749683003076,3361.62830117579,9.06094193610204,733.047484431937" />
+    <Link Source="String4" Target="SourceCode" Bounds="623.346114782275,3899.14408552307,188.858507084411,195.531700084656" />
+    <Link Source="String5" Target="Array1" Bounds="4528.01904296875,1042.81750488281,201.90234375,228.337280273438" Label="Analyze: Current Relation;" LabelBounds="4729.77927233154,1145.76858604463,135.436666666667,15.96" />
+    <Link Source="String6" Target="Dictionary" Bounds="537.494284019649,-827.988779878329,117.086451541988,5210.68283352805" Label="Format: Markdown;" LabelBounds="282.646721031845,-164.62324143967,102.64,15.96" />
+    <Link Source="String7" Target="Dictionary" Bounds="687.777977207467,-827.987060418873,58.5019503454987,5282.68568107909" Label="Format: Markdown;" LabelBounds="334.836570920527,-215.182912516512,102.64,15.96" />
+    <Link Source="Stucture" Target="Engineering" Bounds="2873.12158203125,267.238677978516,52.84130859375,27.5292053222656" />
+    <Link Source="Stucture" Target="Masonry" Bounds="2832.80834960938,272.080383300781,0,22.6875" />
+    <Link Source="Student" Target="Scholar" Bounds="2633.96118164063,322.939880371094,426.637939453125,62.1556091308594" />
+    <Link Source="Stygia" Target="Seed" Bounds="8432.6533203125,740.214660644531,24.669921875,25.25" />
+    <Link Source="Survival" Target="Combat" Bounds="1097.0146484375,433.73681640625,0,36.9599914550781" />
+    <Link Source="Survival" Target="Hunting" Bounds="842.235046386719,420.190765380859,205.902404785156,57.7900390625" />
+    <Link Source="Survival" Target="Shelter" Bounds="1145.89184570313,407.769744873047,1114.0302734375,80.4017333984375" />
+    <Link Source="Symbol" Target="Entry:End;" Bounds="6675.01513671875,521.701293945313,0,22.6875" />
+    <Link Source="Symbols" Target="Grammer" Category="Contains" />
+    <Link Source="Symbols" Target="Mathematics" Category="Contains" />
+    <Link Source="Symbols" Target="Mathematics" Index="1" Bounds="1589.572265625,294.283752441406,153.035888671875,17.1212158203125" />
+    <Link Source="Symbols" Target="Node" Index="1" Bounds="1589.572265625,241.193817138672,15.5,4.5" />
+    <Link Source="Symbols" Target="Node" Category="Contains" />
+    <Link Source="Symbols" Target="Other" Category="Contains" />
+    <Link Source="Symbols" Target="Syntax" Category="Contains" />
+    <Link Source="Symbols" Target="Syntax" Index="1" Bounds="2634.26928710938,1239.98645019531,15.5,4.5" />
+    <Link Source="Syntax" Target="&quot;" Category="Contains" />
+    <Link Source="Syntax" Target="'" Category="Contains" />
+    <Link Source="Syntax" Target="()" Category="Contains" />
+    <Link Source="Syntax" Target=":" Category="Contains" />
+    <Link Source="Syntax" Target=";" Index="1" Bounds="2126.22973632813,2036.76843261719,4.5,15.4998779296875" />
+    <Link Source="Syntax" Target=";" Category="Contains" />
+    <Link Source="Syntax" Target="&lt;&gt;" Category="Contains" />
+    <Link Source="Syntax" Target="Grammer" Bounds="2194.83779614784,341.199263870844,1.44517332449186,91.0053168534703" />
+    <Link Source="Syntax" Target="[]" Category="Contains" />
+    <Link Source="Syntax" Target="{}" Category="Contains" />
+    <Link Source="Tactics" Target="Strategems" Bounds="931.476745605469,742.777160644531,0,22.6875" />
+    <Link Source="Tavern" Target="Marketplace" Bounds="36546.78515625,2566.89526367188,205.953125,190.722412109375" />
+    <Link Source="Tavern" Target="Temple" Bounds="36666.453125,2566.89526367188,12.1796875,25.271484375" />
+    <Link Source="Temple" Target="Marketplace" Bounds="36546.71875,2640.58740234375,132.01953125,113.61669921875" />
+    <Link Source="Temple" Target="MercenaryCamp" Bounds="36570.98046875,2640.58740234375,50.85546875,28.6826171875" />
+    <Link Source="Temple" Target="Tavern" Bounds="36612.8203125,2571.14111328125,14.41015625,27.441650390625" />
+    <Link Source="Temporus" Target="Motion" Category="Contains" />
+    <Link Source="Thear" Target="Jight" Category="Contains" />
+    <Link Source="Thear" Target="Kinderyarn" Category="Contains" />
+    <Link Source="Thear" Target="Lochtou" Category="Contains" />
+    <Link Source="Thear" Target="Map" Category="Contains" />
+    <Link Source="Thear" Target="Nymenada" Category="Contains" />
+    <Link Source="Thear" Target="Slake" Category="Contains" />
+    <Link Source="Thear" Target="Thipse" Category="Contains" />
+    <Link Source="Thear" Target="Varthek" Category="Contains" />
+    <Link Source="Thear" Target="Wolk" Category="Contains" />
+    <Link Source="Theolog" Target="I" Category="Contains" />
+    <Link Source="Thesaurus" Target="@1" Category="Contains" />
+    <Link Source="Thesaurus" Target="@2" Category="Contains" />
+    <Link Source="Thesaurus" Target="Biolog" Category="Contains" />
+    <Link Source="Thesaurus" Target="Chronolog" Category="Contains" />
+    <Link Source="Thesaurus" Target="Dialog" Category="Contains" />
+    <Link Source="Thesaurus" Target="Ecolog" Category="Contains" />
+    <Link Source="Thesaurus" Target="Encyclopedia" Bounds="673.830488845438,1163.29962800362,0.0622509845993591,21.0005557503739" Label=".ject: Relevent Observation;" LabelBounds="527.238281004366,1165.81397739655,142.623333333333,15.9600000000009" />
+    <Link Source="Thesaurus" Target="Geolog" Category="Contains" />
+    <Link Source="Thesaurus" Target="Histolog" Category="Contains" />
+    <Link Source="Thesaurus" Target="Illog" Category="Contains" />
+    <Link Source="Thesaurus" Target="Mytholog" Category="Contains" />
+    <Link Source="Thesaurus" Target="Neuro" Category="Contains" />
+    <Link Source="Thesaurus" Target="Quantalog" Category="Contains" />
+    <Link Source="Thesaurus" Target="Radiolog" Category="Contains" />
+    <Link Source="Thesaurus" Target="Socio" Category="Contains" />
+    <Link Source="Thesaurus" Target="Theolog" Category="Contains" />
+    <Link Source="Thief" Target="Bandit" Bounds="2873.26879882813,333.737762451172,447.036376953125,51.2899780273438" />
+    <Link Source="Thief" Target="Pirate" Bounds="2872.86547851563,337.786315917969,568.781005859375,46.3070983886719" />
+    <Link Source="Thinking:ThroughTetris;" Target="Output" Category="Contains" />
+    <Link Source="Thipse" Target="Nymenada" Bounds="36452.98828125,3787.658203125,7.2109375,24.30859375" />
+    <Link Source="Thipse" Target="Slake" Bounds="36504.27734375,3853.97119140625,7.2109375,24.30859375" />
+    <Link Source="ThirdParty:ExteriorDatabase;" Target="Botlibre" Bounds="6674.22265625,1223.00915527344,77.53515625,41.697265625" />
+    <Link Source="ThirdParty:ExteriorDatabase;" Target="Poe" Bounds="6619.66943359375,1049.59509277344,18.11083984375,215.111328125" />
+    <Link Source="Town" Target="City" Bounds="2241.95776367188,124.696434020996,0,22.6875076293945" />
+    <Link Source="True" Target="Array" Bounds="5100.775390625,1402.29736328125,29.4111328125,46.84033203125" Label="01" LabelBounds="5110.41879029592,1409.67540618897,12.9399999999996,15.96" />
+    <Link Source="True" Target="IThink:ThereforeIAm;" Category="Contains" />
+    <Link Source="Trunk" Target="Node" Bounds="1729.42168856711,80.3117909471229,4650.51331425576,158.759648303427" />
+    <Link Source="URL:Https://www.Botlibre.com/" Target="Botlibre" Bounds="6824.98681640625,1225.25842285156,37.6337890625,39.447998046875" />
+    <Link Source="URL:Https://www.Poe.com/" Target="Poe" Bounds="6428.05517578125,1035.04833984375,190.654296875,53.729248046875" />
+    <Link Source="User:Log-in;" Target="Chatroom:AiAndHuman;" Bounds="333.39990234375,1893.23449707031,87.5468444824219,28.395263671875" />
+    <Link Source="User:Log-in;" Target="IPLANT:InteractiveCode;" Bounds="272.260559082031,1899.45776367188,0,21" />
+    <Link Source="User:Log-in;" Target="Psychosis:Game;" Bounds="139.767837524414,1893.51989746094,74.448486328125,26.9378662109375" />
+    <Link Source="User:Sign-up;" Target="User:Log-in;" Bounds="203.553482055664,1967.82653808594,33.1875915527344,24.6356201171875" />
+    <Link Source="Users" Target="Botlibre" Bounds="6856.6396484375,1211.60302734375,266.66943359375,63.827392578125" Label="Botlibre: User Log-in;" LabelBounds="6871.39789987564,1233.74647216797,111.096666666665,15.9600000000028" />
+    <Link Source="Users" Target="Log(99)" Bounds="2358.99191612244,-713.463853006365,3958.44277237898,358.724264388417" Label="Produce: Layer of Generation;" LabelBounds="2127.04849334296,6668.35918101611,156.110000000002,15.9599999999991" />
+    <Link Source="Users" Target="Poe" Bounds="6711.00537109375,1046.78686523438,412.3671875,220.305541992188" Label="Poe: User Log-in;" LabelBounds="7033.23712857251,1206.12453736938,89.386666666669,15.9600000000028" />
+    <Link Source="Users" Target="Psychosis" Bounds="2358.99191612244,-891.605088667121,3918.52677587909,534.895241783078" Label="Psychosis: User Log-in;" LabelBounds="2271.2779649052,6655.95067570138,119.879999999999,15.9599999999991" />
+    <Link Source="V" Target="-" Category="Contains" />
+    <Link Source="V" Target="Self" Category="Contains" />
+    <Link Source="Vagrant" Target="Adventurer" Bounds="3507.0048828125,424.882171630859,408.85595703125,58.6072692871094" />
+    <Link Source="Vagrant" Target="Apprentice" Bounds="3489.43530273438,429.743286132813,61.1787109375,40.9535217285156" />
+    <Link Source="Vagrant" Target="Barmaid" Bounds="3507.0048828125,427.091400146484,712.623046875,59.3458557128906" />
+    <Link Source="Vagrant" Target="Builder" Bounds="3507.0048828125,422.113800048828,161.360107421875,53.3907165527344" />
+    <Link Source="Vagrant" Target="Execuitioner" Bounds="3507.0048828125,426.938659667969,847.42236328125,60.2718505859375" />
+    <Link Source="Vagrant" Target="Farmer" Bounds="3507.0048828125,422.642425537109,285.29345703125,58.0063781738281" />
+    <Link Source="Vagrant" Target="Hunter" Bounds="3005.61328125,424.590881347656,403.50390625,60.6143493652344" />
+    <Link Source="Vagrant" Target="Miner" Bounds="3458.06103515625,433.73681640625,0,36.9599914550781" />
+    <Link Source="Vagrant" Target="Priest" Bounds="2759.5703125,424.463317871094,649.546875,63.3065185546875" />
+    <Link Source="Vagrant" Target="Rogue" Bounds="3126.60327148438,422.393127441406,282.513916015625,59.6715393066406" />
+    <Link Source="Vagrant" Target="Shopkeep" Bounds="3367.38989257813,429.810607910156,59.9013671875,40.8861999511719" />
+    <Link Source="Vagrant" Target="Stablemaster" Bounds="3507.0048828125,426.329925537109,556.1904296875,58.9927978515625" />
+    <Link Source="Vagrant" Target="Student" Bounds="2640.91552734375,426.644897460938,768.20166015625,61.8479614257813" />
+    <Link Source="Vagrant" Target="Thief" Bounds="2881.6240234375,425.706024169922,527.4931640625,61.2303466796875" />
+    <Link Source="Vagrant" Target="Warrior" Bounds="3252.80786132813,422.770782470703,156.309326171875,52.4918823242188" />
+    <Link Source="Varthek" Target="Lochtou" Bounds="36548.28125,4001.35522460938,7.46484375,24.135986328125" />
+    <Link Source="Varthek" Target="Slake" Bounds="36484.328125,3936.44213867188,16.9375,22.90869140625" />
+    <Link Source="Vegetation" Target="Branch" Bounds="7734.39453125,271.261047363281,149.80029296875,273.127746582031" />
+    <Link Source="Vegetation" Target="Leaf" Bounds="7573.7294921875,171.582107543945,430.23193359375,383.738693237305" />
+    <Link Source="Vegetation" Target="Node" Bounds="1678.13505450807,-677.104516983032,145.603841884516,854.421724681459" />
+    <Link Source="Vegetation" Target="Plant" Bounds="7947.60205078125,518.776000976563,27.99853515625,25.61279296875" />
+    <Link Source="Vegetation" Target="Root" Bounds="7981.7841796875,422.530731201172,438.517578125,133.161834716797" />
+    <Link Source="Verse" Target="Letters" Index="1" Bounds="2721.6708984375,2216.77758789063,4.5,15.5" />
+    <Link Source="Verse" Target="Letters" Category="Contains" />
+    <Link Source="Verse" Target="Numbers" Index="1" Bounds="3053.48583984375,-124.8310546875,15.5,4.5" />
+    <Link Source="Verse" Target="Numbers" Category="Contains" />
+    <Link Source="Verse" Target="Paragraph" Category="Contains" />
+    <Link Source="Verse" Target="Question" Category="Contains" />
+    <Link Source="Verse" Target="Sentence" Category="Contains" />
+    <Link Source="Verse" Target="Symbols" Index="1" Bounds="1569.572265625,979.967956542969,15.5,4.5" />
+    <Link Source="Verse" Target="Symbols" Category="Contains" />
+    <Link Source="Verse" Target="Words" Category="Contains" />
+    <Link Source="Village" Target="Castle" Bounds="2316.96948242188,196.443176269531,19.5126953125,24.6327209472656" />
+    <Link Source="Village" Target="Town" Bounds="2264.18310546875,196.443176269531,19.5126953125,24.6327209472656" />
+    <Link Source="VirtualNeuralAnalog" Target="Compile:ACTG;" Category="Contains" />
+    <Link Source="VirtualNeuralAnalog" Target="NodeAnalog" Category="Contains" />
+    <Link Source="Warrior" Target="Guard" Bounds="3244.27612304688,334.853149414063,317.419189453125,52.8350524902344" />
+    <Link Source="Warrior" Target="Mercenary" Bounds="3243.99780273438,331.746429443359,460.4169921875,52.7242431640625" />
+    <Link Source="Weavery" Target="Farmhouse" Bounds="36250.73828125,2638.5537109375,48.09375,246.76806640625" />
+    <Link Source="Weavery" Target="Marketplace" Bounds="36357.71875,2640.58740234375,63.1953125,100.948486328125" />
+    <Link Source="Weavery" Target="MercenaryCamp" Bounds="36400.8046875,2632.56127929688,89.5625,32.4482421875" />
+    <Link Source="Weavery" Target="Pottery" Bounds="36332.35546875,2640.58740234375,14.53125,171.1572265625" />
+    <Link Source="Wolk" Target="Map" Bounds="36503.59375,2176.11840820313,5.21875,22.73046875" />
+    <Link Source="Word" Target="Letter" Bounds="6799.19921875,660.085205078125,3.5126953125,23.124755859375" />
+    <Link Source="Word" Target="Symbol" Bounds="6714.89501953125,591.295837402344,41.23486328125,26.784912109375" />
+    <Link Source="Words" Target="Question" Bounds="2635.97973632813,-133.825958251953,84.300048828125,1092.79214477539" />
+    <Link Source="Words" Target="Sentence" Bounds="2721.67080771907,-128.832147122829,0,1087.79834365845" />
+    <Link Source="X" Target="Y" Bounds="2442.01928710938,651.289306640625,7.2109375,24.3084716796875" />
+    <Link Source="X" Target="Z" Bounds="2503.30981445313,569.172119140625,41.95947265625,111.474304199219" />
+    <Link Source="Y" Target="X" Bounds="2493.30810546875,643.910278320313,7.211181640625,24.3085327148438" />
+    <Link Source="Y" Target="Z" Bounds="2442.01928710938,577.597290039063,7.2109375,24.3085327148438" />
+    <Link Source="Z" Target="X" Bounds="2503.19311523438,559.625549316406,81.076171875,123.736938476563" />
+    <Link Source="Z" Target="Y" Bounds="2493.30810546875,570.218322753906,7.211181640625,24.3085327148438" />
+    <Link Source="[]" Target="Compare:SimilarDifferences;" Category="Contains" />
+    <Link Source="[]" Target="Q" Bounds="2133.9955994977,811.294493539428,260.963486709514,998.377778099093" Label="Quantify: Different Similarities;" LabelBounds="-1569.84918307569,-57.5971710090848,160.42,15.96" />
+    <Link Source="[]" Target="X" Category="Contains" />
+    <Link Source="[]" Target="Y" Category="Contains" />
+    <Link Source="[]" Target="Z" Category="Contains" />
+    <Link Source="\" Target="~" Bounds="664.897370021749,30.1816082000726,1199.48985694219,1677.01939002276" />
+    <Link Source="^" Target="+" Bounds="663.864540510425,210.194353734746,1352.59452339119,1210.12296584514" />
+    <Link Source="^" Target="-" Bounds="661.043377703863,244.612473470226,1156.1955818952,1175.70484610966" />
+    <Link Source="_" Target="@" Bounds="864.47062307871,1620.46533426898,51.5927197916593,90.1926402303377" />
+    <Link Source="`" Target="#" Bounds="-950.0126953125,-76.4468154907227,11.6873779296875,25.9268760681152" />
+    <Link Source="`" Target="#" Index="1" Bounds="-903.200073242188,-76.4468154907227,11.6873779296875,25.9268760681152" />
+    <Link Source="{}" Target="()" Category="Contains" />
+    <Link Source="{}" Target="E" Category="Contains" />
+    <Link Source="{}" Target="I" Category="Contains" />
+    <Link Source="{}" Target="P" Category="Contains" />
+    <Link Source="{}" Target="[]" Bounds="2178.092062084,806.175855133761,86.4876550113459,79.9003531221574" />
+    <Link Source="{}" Target="《》" Bounds="2126.22983859915,1024.99552808533,8.03010452727904E-05,118.696073257449" Label="Record: NP;" LabelBounds="-1130.19171532471,470.713319448324,61.0999999999999,15.96" />
+    <Link Source="|" Target="~" Bounds="520.946236811385,1762.76560102788,95.378249512969,91.7636326145087" />
+    <Link Source="||" Target="Domain" Category="Contains" />
+    <Link Source="||" Target="V" Category="Contains" />
+    <Link Source="《》" Target="Perspective" Category="Contains" />
+    <Link Source="《》" Target="{}" Bounds="2126.22983251041,1033.99552808532,8.03010452727904E-05,118.696073257449" Label="Observe: (P==NP);" LabelBounds="-1293.74921532471,470.713319448324,98.2299999999996,15.96" />
+    <Link Source="《》" Target="||" Category="Contains" />
+  </Links>
+  <Categories>
+    <Category Id="Category1" Label="Category 1" Background="#FFE51400" IsTag="True" />
+    <Category Id="Category10" Label="Category 10" Background="#FF672878" IsTag="True" />
+    <Category Id="Category2" Label="Category 2" Background="#FF339933" IsTag="True" />
+    <Category Id="Category3" Label="Category 3" Background="#FF3EBCED" IsTag="True" />
+    <Category Id="Category4" Label="Category 4" Background="#FF1BA1E2" IsTag="True" />
+    <Category Id="Category5" Label="Category 5" Background="#FF9B4F96" IsTag="True" />
+    <Category Id="Category6" Label="Category 6" Background="#FFA1260D" IsTag="True" />
+    <Category Id="Category7" Label="Category 7" Background="#FF347A30" IsTag="True" />
+    <Category Id="Category8" Label="Category 8" Background="#FF44CCCC" IsTag="True" />
+    <Category Id="Category9" Label="Category 9" Background="#FF00539C" IsTag="True" />
+    <Category Id="Comment" Label="Comment" Description="Represents a user defined comment on the diagram" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Comments" />
+    <Category Id="Contains" Label="Contains" Description="Whether the source of the link contains the target object" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Contained By" IsContainment="True" OutgoingActionLabel="Contains" />
+  </Categories>
+  <Properties>
+    <Property Id="Background" Label="Background" Description="The background color" DataType="System.Windows.Media.Brush" />
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="ErrorMessage" Label="Error" Description="Error" DataType="System.String" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="GraphDirection" DataType="Microsoft.VisualStudio.Diagrams.Layout.LayoutOrientation" />
+    <Property Id="Group" Label="Group" Description="Display the node as a group" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Hub" Label="Hub" Description="Node is in the top 10% of highly connected nodes" DataType="System.Int32" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsHubContainer" Label="Hub Container" Description="This group contains a node marked with the IsHub property" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="IsTag" DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="LabelBounds" DataType="System.Windows.Rect" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="ToolTip" DataType="System.String" />
+    <Property Id="UseManualLocation" DataType="System.Boolean" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="ZoomLevel" DataType="System.String" />
+  </Properties>
+  <IdentifierAliases>
+    <Alias n="1" Id="(Astrolog&amp;|Analog)" />
+    <Alias n="2" Id="(Psycholog&amp;|Physiolog)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Category 4" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Category4')" />
+      <Setter Property="Background" Value="#FF1BA1E2" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Category 5" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Category5')" />
+      <Setter Property="Background" Value="#FF9B4F96" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Category 2" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Category2')" />
+      <Setter Property="Background" Value="#FF339933" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Category 1" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Category1')" />
+      <Setter Property="Background" Value="#FFE51400" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Category 6" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Category6')" />
+      <Setter Property="Background" Value="#FFA1260D" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Comment" ValueLabel="Has comment">
+      <Condition Expression="HasCategory('Comment')" />
+      <Setter Property="Background" Value="#FFFFFACD" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+      <Setter Property="StrokeThickness" Value="1" />
+      <Setter Property="NodeRadius" Value="2" />
+      <Setter Property="MaxWidth" Value="250" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Category 9" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Category9')" />
+      <Setter Property="Background" Value="#FF00539C" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Category 8" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Category8')" />
+      <Setter Property="Background" Value="#FF44CCCC" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Category 7" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Category7')" />
+      <Setter Property="Background" Value="#FF347A30" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Category 3" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Category3')" />
+      <Setter Property="Background" Value="#FF3EBCED" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Category 10" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Category10')" />
+      <Setter Property="Background" Value="#FF672878" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Group" ValueLabel="Expanded">
+      <Condition Expression="Group = 'Expanded'" />
+      <Setter Property="Background" Value="#FFFF0000" />
+      <Setter Property="Foreground" Value="#FF0A0909" />
+      <Setter Property="Stroke" Value="#FF59FF00" />
+      <Setter Property="Icon" Value="pack://application:,,,/Microsoft.VisualStudio.Progression.GraphControl;component/Icons/ram.png" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Hub" ToolTip="Node is in the top 10% of highly connected nodes" ValueLabel="Hub">
+      <Condition Expression="HasValue(&quot;Hub&quot;)" />
+      <Setter Property="Background" Value="#FFFBA8A9" />
+    </Style>
+    <Style TargetType="Group" GroupLabel="Hub" ToolTip="Node is in the top 10% of highly connected nodes" ValueLabel="Hub Container">
+      <Condition Expression="IsHubContainer" />
+      <Setter Property="Stroke" Value="#FFFBA8A9" />
+      <Setter Property="StrokeThickness" Value="6" />
+    </Style>
+  </Styles>
+</DirectedGraph>
